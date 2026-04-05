@@ -1,0 +1,93 @@
+{% extends "base.html" %}
+
+{% block title %}{{ article_title }}{% endblock %}
+
+{% block extra_css %}
+    .article-header {
+        margin-bottom: 3rem;
+    }
+
+    .article-title {
+        font-size: 3rem;
+        font-weight: 900;
+        margin-bottom: 1.5rem;
+        line-height: 1.2;
+        color: var(--text-main);
+    }
+
+    .article-meta {
+        display: flex;
+        gap: 1.5rem;
+        color: var(--primary);
+        font-weight: 700;
+        font-size: 1rem;
+        border-bottom: 1px solid var(--border);
+        padding-bottom: 1rem;
+    }
+
+    .article-image {
+        width: 100%;
+        max-height: 500px;
+        object-fit: cover;
+        border-radius: 12px;
+        margin-bottom: 2rem;
+        box-shadow: var(--shadow);
+    }
+
+    .article-content {
+        font-size: 1.25rem;
+        line-height: 2;
+        color: #333;
+    }
+
+    .article-content p {
+        margin-bottom: 1.5rem;
+    }
+
+    .article-content h2, .article-content h3 {
+        color: var(--primary);
+        margin: 2rem 0 1rem;
+        font-weight: 800;
+    }
+
+    @media (max-width: 768px) {
+        .article-title {
+            font-size: 2rem;
+        }
+        .article-content {
+            font-size: 1.1rem;
+        }
+    }
+{% endblock %}
+
+{% block content %}
+<article style="max-width: 900px; margin: 0 auto;">
+    <header class="article-header">
+        <h1 class="article-title">{{ article_title }}</h1>
+        <div class="article-meta">
+            <span>📅 {{ date }}</span>
+            <span>📍 CupLive الأخبار</span>
+        </div>
+    </header>
+
+    {% if image %}
+    <img src="{{ image }}" alt="{{ article_title }}" class="article-image">
+    {% endif %}
+
+    <div class="article-content">
+        {{ content | safe }}
+    </div>
+</article>
+
+<section style="margin-top: 5rem; border-top: 1px solid var(--border); padding-top: 3rem;">
+    <h3 style="margin-bottom: 2rem; font-weight: 800; color: var(--primary);">أخبار ذات صلة</h3>
+    <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1.5rem;">
+        {% for item in related %}
+        <a href="/news/{{ item.slug or slug }}/" style="background: var(--surface); padding: 1.5rem; border-radius: 8px; border: 1px solid var(--border);">
+            <h4 style="font-size: 1.1rem; font-weight: 700; margin-bottom: 0.5rem;">{{ item.title }}</h4>
+            <span style="color: var(--primary); font-size: 0.9rem; font-weight: 700;">تابع القراءة ←</span>
+        </a>
+        {% endfor %}
+    </div>
+</section>
+{% endblock %}

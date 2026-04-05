@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+
+{% block title %}آخر أخبار الرياضة{% endblock %}
+
+{% block content %}
+<header style="margin-bottom: 3rem; text-align: center;">
+    <h1 style="font-size: 2.5rem; font-weight: 800; color: var(--primary);">أخبار الرياضة العالمية</h1>
+    <p style="color: var(--text-secondary);">تغطية شاملة لأهم الأحداث والتقارير الرياضية على مدار الساعة</p>
+</header>
+
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 2rem;">
+    {% for article in articles %}
+    <article style="background: var(--white); border-radius: 12px; overflow: hidden; border: 1px solid var(--border); box-shadow: var(--shadow); transition: var(--transition);">
+        <a href="/news/{{ article.slug }}/">
+            <img src="{{ article.image }}" alt="{{ article.title }}" style="width: 100%; height: 220px; object-fit: cover;">
+        </a>
+        <div style="padding: 1.5rem;">
+            <div style="font-size: 0.8rem; color: var(--primary); font-weight: 700; margin-bottom: 0.5rem;">📅 {{ article.date }}</div>
+            <h2 style="font-size: 1.25rem; font-weight: 800; margin-bottom: 1rem; line-height: 1.4;">
+                <a href="/news/{{ article.slug }}/" style="color: var(--text-main);">{{ article.title }}</a>
+            </h2>
+            <p style="font-size: 0.95rem; color: var(--text-secondary); margin-bottom: 1.5rem; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;">
+                {{ article.excerpt }}
+            </p>
+            <a href="/news/{{ article.slug }}/" style="color: var(--primary); font-weight: 800; font-size: 0.9rem;">إقرأ المزيد ←</a>
+        </div>
+    </article>
+    {% endfor %}
+</div>
+{% endblock %}

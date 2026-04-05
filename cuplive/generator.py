@@ -1,0 +1,116 @@
+import os
+import json
+import logging
+from jinja2 import Environment, FileSystemLoader
+from slugify import slugify
+from config import (
+    TEMPLATES_DIR, DOCS_DIR, SCRAPED_URLS_FILE, COLORS
+)
+
+class SiteGenerator:
+    def __init__(self):
+        self.env = Environment(loader=FileSystemLoader(TEMPLATES_DIR))
+        self.scraped_urls = self.load_scraped_urls()
+        self.common_data = {
+            "colors": COLORS
+        }
+        os.makedirs(DOCS_DIR, exist_ok=True)
+
+    def load_scraped_urls(self):
+        if os.path.exists(SCRAPED_URLS_FILE):
+            try:
+                with open(SCRAPED_URLS_FILE, 'r', encoding='utf-8') as f:
+                    return json.load(f)
+            except:
+                return {}
+        return {}
+
+    def save_scraped_urls(self):
+        with open(SCRAPED_URLS_FILE, 'w', encoding='utf-8') as f:
+            json.dump(self.scraped_urls, f, ensure_ascii=False, indent=4)
+
+    def render_to_file(self, template_name, output_path, data):
+        try:
+            template = self.env.get_template(template_name)
+            content = template.render({**self.common_data, **data})
+            
+            os.makedirs(os.path.dirname(output_path), exist_ok=True)
+            with open(output_path, 'w', encoding='utf-8') as f:
+                f.write(content)
+            logging.info(f"Rendered: {output_path}")
+        except Exception as e:
+            logging.error(f"Render error for {output_path}: {e}")
+
+    def generate_match_page(self, match_data):
+        slug = slugify(f"{match_data['team_a']}-vs-{match_data['team_b']}-{match_data['date']}")
+        output_dir = os.path.join(DOCS_DIR, "match", slug)
+        output_file = os.path.join(output_dir, "index.html")
+        
+        self.render_to_file("match.html", output_file, match_data)
+        
+        self.scraped_urls[f"/match/{slug}/"] = {
+            "type": "match",
+            "slug": slug,
+            "title": f"{match_data['team_a']} vs {match_data['team_b']}",
+            "team_a": match_data['team_a'],
+            "team_b": match_data['team_b'],
+            "league": match_data['league'],
+            "time": match_data['time'],
+            "date": match_data['date'],
+            "live": match_data.get('live', False)
+        }
+        self.save_scraped_urls()
+
+    def generate_article_page(self, article_data):
+        slug = slugify(article_data['article_title'])
+        output_dir = os.path.join(DOCS_DIR, "news", slug)
+        output_file = os.path.join(output_dir, "index.html")
+        
+        self.render_to_file("article.html", output_file, article_data)
+        
+        self.scraped_urls[f"/news/{slug}/"] = {
+            "type": "news",
+            "slug": slug,
+            "title": article_data['article_title'],
+            "excerpt": article_data.get('excerpt', article_data['article_title'][:150] + "..."),
+            "image": article_data.get('image'),
+            "date": article_data['date']
+        }
+        self.save_scraped_urls()
+
+    def generate_index(self):
+        items = list(self.scraped_urls.values())
+        matches = [i for i in items if i['type'] == 'match']
+        news = [i for i in items if i['type'] == 'news'][-10:] # Last 10
+        
+        self.render_to_file("index.html", os.path.join(DOCS_DIR, "index.html"), {
+            "matches": matches,
+            "news": news
+        })
+
+    def generate_news_list(self):
+        news = [i for i in list(self.scraped_urls.values()) if i['type'] == 'news']
+        self.render_to_file("news.html", os.path.join(DOCS_DIR, "news", "index.html"), {
+            "articles": news
+        })
+
+    def generate_sitemap(self):
+        sitemap_path = os.path.join(DOCS_DIR, "sitemap.xml")
+        urls = list(self.scraped_urls.keys()) + ["/"]
+        
+        from datetime import datetime
+        now = datetime.now().strftime("%Y-%m-%d")
+        
+        xml = '<?xml version="1.0" encoding="UTF-8"?>\n'
+        xml += '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+        for u in urls:
+            full_url = f"https://cuplive.online{u}"
+            xml += f'  <url><loc>{full_url}</loc><lastmod>{now}</lastmod></url>\n'
+        xml += '</urlset>'
+        
+        with open(sitemap_path, 'w', encoding='utf-8') as f:
+            f.write(xml)
+
+if __name__ == "__main__":
+    logging.basicConfig(level=logging.INFO)
+    # gen = SiteGenerator()

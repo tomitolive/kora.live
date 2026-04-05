@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+.env
+*.log
+output/matches/*
+output/news/*
+output/index.html
+output/sitemap.xml
+output/scraped_urls.json

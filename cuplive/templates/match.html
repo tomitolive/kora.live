@@ -1,0 +1,127 @@
+{% extends "base.html" %}
+
+{% block title %}{{ team_a }} ضد {{ team_b }}{% endblock %}
+
+{% block extra_css %}
+    .match-header {
+        background: var(--primary);
+        color: var(--white);
+        padding: 3rem 1rem;
+        border-radius: 12px;
+        text-align: center;
+        margin-bottom: 2rem;
+    }
+
+    .teams {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 3rem;
+        font-size: 2rem;
+        font-weight: 800;
+        margin-bottom: 1.5rem;
+    }
+
+    .vs {
+        opacity: 0.7;
+        font-size: 1.5rem;
+    }
+
+    .match-meta {
+        font-size: 1.1rem;
+        opacity: 0.9;
+        display: flex;
+        justify-content: center;
+        gap: 2rem;
+    }
+
+    .player-container {
+        position: relative;
+        padding-bottom: 56.25%; /* 16:9 */
+        height: 0;
+        overflow: hidden;
+        border-radius: 10px;
+        background: #000;
+        border: 1px solid var(--border);
+        box-shadow: var(--shadow);
+    }
+
+    .player-container iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        border: none;
+    }
+
+    .server-selector {
+        display: flex;
+        gap: 0.8rem;
+        margin-bottom: 1rem;
+        overflow-x: auto;
+        padding-bottom: 0.5rem;
+    }
+
+    .server-btn {
+        padding: 0.5rem 1.2rem;
+        background: var(--surface);
+        border: 1px solid var(--border);
+        border-radius: 5px;
+        font-weight: 700;
+        cursor: pointer;
+        white-space: nowrap;
+    }
+
+    .server-btn.active {
+        background: var(--primary);
+        color: var(--white);
+        border-color: var(--primary);
+    }
+{% endblock %}
+
+{% block content %}
+<div class="match-header">
+    <div style="font-size: 1.1rem; margin-bottom: 1.5rem; opacity: 0.8;">{{ league }}</div>
+    <div class="teams">
+        <span>{{ team_a }}</span>
+        <span class="vs">VS</span>
+        <span>{{ team_b }}</span>
+    </div>
+    <div class="match-meta">
+        <span>🕒 {{ time }}</span>
+        <span>📺 {{ channel }}</span>
+    </div>
+</div>
+
+<div class="stream-section">
+    <h3 style="margin-bottom: 1rem; font-weight: 800;">مشاهدة البث المباشر</h3>
+    
+    <div class="server-selector" id="serverSelector">
+        {% for server in servers %}
+        <button class="server-btn {% if loop.index == 1 %}active{% endif %}" onclick="changeSource('{{ server.url }}', this)">
+            {{ server.name }}
+        </button>
+        {% endfor %}
+    </div>
+
+    <div class="player-container">
+        <iframe id="mainPlayer" src="{{ servers[0].url if servers else '' }}" allowfullscreen allow="autoplay; encrypted-media"></iframe>
+    </div>
+    
+    <p style="margin-top: 1rem; color: var(--text-secondary); font-size: 0.9rem;">
+        * يرجى تغيير السيرفر في حال توقف البث. جميع الحقوق محفوظة لمصادر البث.
+    </p>
+</div>
+{% endblock %}
+
+{% block extra_js %}
+<script>
+    function changeSource(url, btn) {
+        document.getElementById('mainPlayer').src = url;
+        const buttons = document.querySelectorAll('.server-btn');
+        buttons.forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+    }
+</script>
+{% endblock %}
