@@ -1,0 +1,14 @@
+{
+    "team_a": "Mgarr United",
+    "team_b": "Santa Lucía",
+    "team_a_logo": "https://media.api-sports.io/football/teams/17710.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/3651.png",
+    "league": "Challenge League",
+    "time": "18:45",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "mgarr-united-vs-santa-lucia-2026-04-06"
+}

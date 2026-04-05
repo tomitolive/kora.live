@@ -1,0 +1,14 @@
+{
+    "team_a": "Canberra United W",
+    "team_b": "Brisbane Roar FC W",
+    "team_a_logo": "https://media.api-sports.io/football/teams/1970.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/1973.png",
+    "league": "A-League Women",
+    "time": "04:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "canberra-united-w-vs-brisbane-roar-fc-w-2026-04-04"
+}

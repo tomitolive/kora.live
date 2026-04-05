@@ -1,0 +1,14 @@
+{
+    "team_a": "Zenit Penza",
+    "team_b": "Rotor-2",
+    "team_a_logo": "https://media.api-sports.io/football/teams/16866.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/12840.png",
+    "league": "Second League - Group 3",
+    "time": "11:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "zenit-penza-vs-rotor-2-2026-04-04"
+}

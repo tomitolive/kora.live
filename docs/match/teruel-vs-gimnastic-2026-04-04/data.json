@@ -1,0 +1,14 @@
+{
+    "team_a": "Teruel",
+    "team_b": "Gimnastic",
+    "team_a_logo": "https://media.api-sports.io/football/teams/5278.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/714.png",
+    "league": "Primera División RFEF - Group 2",
+    "time": "16:30",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "teruel-vs-gimnastic-2026-04-04"
+}

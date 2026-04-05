@@ -1,0 +1,14 @@
+{
+    "team_a": "Rotor Volgograd",
+    "team_b": "FK Neftekhimik",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2010.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/2001.png",
+    "league": "First League",
+    "time": "14:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "rotor-volgograd-vs-fk-neftekhimik-2026-04-05"
+}

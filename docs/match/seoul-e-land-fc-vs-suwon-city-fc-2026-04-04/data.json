@@ -1,0 +1,14 @@
+{
+    "team_a": "Seoul E-Land FC",
+    "team_b": "Suwon City FC",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2749.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/2756.png",
+    "league": "K League 2",
+    "time": "05:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "seoul-e-land-fc-vs-suwon-city-fc-2026-04-04"
+}

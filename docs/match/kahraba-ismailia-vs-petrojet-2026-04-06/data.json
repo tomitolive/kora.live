@@ -1,0 +1,14 @@
+{
+    "team_a": "Kahraba Ismailia",
+    "team_b": "Petrojet",
+    "team_a_logo": "https://media.api-sports.io/football/teams/20458.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/1041.png",
+    "league": "Premier League",
+    "time": "15:00",
+    "date": "2026-04-06",
+    "channel": "beIN Sports 1 HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "kahraba-ismailia-vs-petrojet-2026-04-06"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Ballymena United",
+    "team_b": "Bangor",
+    "team_a_logo": "https://media.api-sports.io/football/teams/668.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/11112.png",
+    "league": "Premiership",
+    "time": "14:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "ballymena-united-vs-bangor-2026-04-04"
+}

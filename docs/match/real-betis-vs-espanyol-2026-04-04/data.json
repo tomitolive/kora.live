@@ -1,0 +1,14 @@
+{
+    "team_a": "Real Betis",
+    "team_b": "Espanyol",
+    "team_a_logo": "https://media.api-sports.io/football/teams/543.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/540.png",
+    "league": "La Liga",
+    "time": "16:30",
+    "date": "2026-04-04",
+    "channel": "beIN Sports 3 HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "real-betis-vs-espanyol-2026-04-04"
+}

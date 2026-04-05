@@ -1,0 +1,14 @@
+{
+    "team_a": "Juventus",
+    "team_b": "Genoa",
+    "team_a_logo": "https://media.api-sports.io/football/teams/496.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/495.png",
+    "league": "Serie A",
+    "time": "16:00",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "juventus-vs-genoa-2026-04-06"
+}

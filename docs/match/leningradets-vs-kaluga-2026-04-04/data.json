@@ -1,0 +1,14 @@
+{
+    "team_a": "Leningradets",
+    "team_b": "Kaluga",
+    "team_a_logo": "https://media.api-sports.io/football/teams/6811.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/6802.png",
+    "league": "Second League A - Division A Gold",
+    "time": "11:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "leningradets-vs-kaluga-2026-04-04"
+}

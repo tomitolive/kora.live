@@ -1,0 +1,14 @@
+{
+    "team_a": "Groupe Bazano",
+    "team_b": "AS New Soger",
+    "team_a_logo": "https://media.api-sports.io/football/teams/8575.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/26887.png",
+    "league": "Ligue 1",
+    "time": "13:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "groupe-bazano-vs-as-new-soger-2026-04-04"
+}

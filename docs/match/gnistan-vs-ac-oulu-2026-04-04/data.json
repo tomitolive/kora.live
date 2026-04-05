@@ -1,0 +1,14 @@
+{
+    "team_a": "Gnistan",
+    "team_b": "AC Oulu",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2082.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/2077.png",
+    "league": "Veikkausliiga",
+    "time": "16:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "gnistan-vs-ac-oulu-2026-04-04"
+}

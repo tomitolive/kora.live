@@ -1,0 +1,14 @@
+{
+    "team_a": "Serrano U20",
+    "team_b": "Vitória da Conquista U20",
+    "team_a_logo": "https://media.api-sports.io/football/teams/27583.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/13073.png",
+    "league": "Baiano U20",
+    "time": "12:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "serrano-u20-vs-vitoria-da-conquista-u20-2026-04-04"
+}

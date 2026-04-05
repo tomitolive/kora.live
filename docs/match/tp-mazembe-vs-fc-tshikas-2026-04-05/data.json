@@ -1,0 +1,14 @@
+{
+    "team_a": "TP Mazembe",
+    "team_b": "FC Tshikas",
+    "team_a_logo": "https://media.api-sports.io/football/teams/6435.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/26888.png",
+    "league": "Ligue 1",
+    "time": "13:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "tp-mazembe-vs-fc-tshikas-2026-04-05"
+}

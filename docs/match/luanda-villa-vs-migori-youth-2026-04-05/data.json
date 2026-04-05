@@ -1,0 +1,14 @@
+{
+    "team_a": "Luanda Villa",
+    "team_b": "Migori Youth",
+    "team_a_logo": "https://media.api-sports.io/football/teams/22230.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/19484.png",
+    "league": "Super League",
+    "time": "12:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "luanda-villa-vs-migori-youth-2026-04-05"
+}

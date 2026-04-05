@@ -1,0 +1,14 @@
+{
+    "team_a": "Volov Shumen",
+    "team_b": "Aksakovo",
+    "team_a_logo": "https://media.api-sports.io/football/teams/8551.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/24544.png",
+    "league": "Third League - Northeast",
+    "time": "13:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "volov-shumen-vs-aksakovo-2026-04-04"
+}

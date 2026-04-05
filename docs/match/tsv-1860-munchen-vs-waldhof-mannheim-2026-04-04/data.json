@@ -1,0 +1,14 @@
+{
+    "team_a": "TSV 1860 München",
+    "team_b": "Waldhof Mannheim",
+    "team_a_logo": "https://media.api-sports.io/football/teams/786.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/4268.png",
+    "league": "3. Liga",
+    "time": "12:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "tsv-1860-munchen-vs-waldhof-mannheim-2026-04-04"
+}

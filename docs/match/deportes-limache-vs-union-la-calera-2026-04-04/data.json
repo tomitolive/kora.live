@@ -1,0 +1,14 @@
+{
+    "team_a": "Deportes Limache",
+    "team_b": "Union La Calera",
+    "team_a_logo": "https://media.api-sports.io/football/teams/16730.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/2326.png",
+    "league": "Primera División",
+    "time": "20:30",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "deportes-limache-vs-union-la-calera-2026-04-04"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Bouenguidi",
+    "team_b": "Stade Mandji",
+    "team_a_logo": "https://media.api-sports.io/football/teams/15564.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/19865.png",
+    "league": "Championnat D1",
+    "time": "14:30",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "bouenguidi-vs-stade-mandji-2026-04-05"
+}

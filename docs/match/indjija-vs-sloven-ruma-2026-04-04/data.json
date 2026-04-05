@@ -1,0 +1,14 @@
+{
+    "team_a": "Indjija",
+    "team_b": "Sloven Ruma",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2631.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/22084.png",
+    "league": "Srpska Liga - Vojvodina",
+    "time": "14:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "indjija-vs-sloven-ruma-2026-04-04"
+}

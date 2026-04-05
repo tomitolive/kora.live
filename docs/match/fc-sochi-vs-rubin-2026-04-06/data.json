@@ -1,0 +1,14 @@
+{
+    "team_a": "FC Sochi",
+    "team_b": "Rubin",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2012.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/1083.png",
+    "league": "Premier League",
+    "time": "16:30",
+    "date": "2026-04-06",
+    "channel": "beIN Sports 1 HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "fc-sochi-vs-rubin-2026-04-06"
+}

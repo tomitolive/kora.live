@@ -1,0 +1,14 @@
+{
+    "team_a": "Ciudad de Lucena",
+    "team_b": "Linense",
+    "team_a_logo": "https://media.api-sports.io/football/teams/9756.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/9596.png",
+    "league": "Tercera División RFEF - Group 10",
+    "time": "16:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "ciudad-de-lucena-vs-linense-2026-04-05"
+}

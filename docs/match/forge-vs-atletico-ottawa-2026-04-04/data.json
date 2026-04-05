@@ -1,0 +1,14 @@
+{
+    "team_a": "Forge",
+    "team_b": "Atlético Ottawa",
+    "team_a_logo": "https://media.api-sports.io/football/teams/3830.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/10169.png",
+    "league": "Canadian Premier League",
+    "time": "16:00",
+    "date": "2026-04-04",
+    "channel": "beIN Sports 1 HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "forge-vs-atletico-ottawa-2026-04-04"
+}

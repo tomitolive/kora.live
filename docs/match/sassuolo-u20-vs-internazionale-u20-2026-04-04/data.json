@@ -1,0 +1,14 @@
+{
+    "team_a": "Sassuolo U20",
+    "team_b": "Internazionale U20",
+    "team_a_logo": "https://media.api-sports.io/football/teams/24741.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/24734.png",
+    "league": "Campionato Primavera - 1",
+    "time": "13:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "sassuolo-u20-vs-internazionale-u20-2026-04-04"
+}

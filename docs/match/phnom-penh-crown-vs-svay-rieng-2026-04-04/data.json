@@ -1,0 +1,14 @@
+{
+    "team_a": "Phnom Penh Crown",
+    "team_b": "Svay Rieng",
+    "team_a_logo": "https://media.api-sports.io/football/teams/5394.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/5396.png",
+    "league": "C-League",
+    "time": "11:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "phnom-penh-crown-vs-svay-rieng-2026-04-04"
+}

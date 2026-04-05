@@ -1,0 +1,14 @@
+{
+    "team_a": "Olancho",
+    "team_b": "Atlético Choloma",
+    "team_a_logo": "https://media.api-sports.io/football/teams/19456.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/11685.png",
+    "league": "Liga Nacional",
+    "time": "01:30",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "olancho-vs-atletico-choloma-2026-04-05"
+}

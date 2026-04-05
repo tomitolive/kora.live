@@ -1,0 +1,14 @@
+{
+    "team_a": "Entité Manageoise",
+    "team_b": "Tilffois",
+    "team_a_logo": "https://media.api-sports.io/football/teams/5793.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/21841.png",
+    "league": "Second Amateur Division - ACFF",
+    "time": "13:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "entite-manageoise-vs-tilffois-2026-04-04"
+}

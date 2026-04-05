@@ -1,0 +1,14 @@
+{
+    "team_a": "Zamora FC",
+    "team_b": "Monagas SC",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2806.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/2811.png",
+    "league": "Primera División",
+    "time": "21:30",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "zamora-fc-vs-monagas-sc-2026-04-04"
+}

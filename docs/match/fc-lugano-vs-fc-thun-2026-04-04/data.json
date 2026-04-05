@@ -1,0 +1,14 @@
+{
+    "team_a": "FC Lugano",
+    "team_b": "FC Thun",
+    "team_a_logo": "https://media.api-sports.io/football/teams/606.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/1012.png",
+    "league": "Super League",
+    "time": "16:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "fc-lugano-vs-fc-thun-2026-04-04"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "PSS Sleman",
+    "team_b": "Persipal",
+    "team_a_logo": "https://media.api-sports.io/football/teams/3882.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/15830.png",
+    "league": "Liga 2",
+    "time": "08:30",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "pss-sleman-vs-persipal-2026-04-04"
+}

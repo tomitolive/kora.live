@@ -1,0 +1,14 @@
+{
+    "team_a": "Fluminense U20",
+    "team_b": "Botafogo U20",
+    "team_a_logo": "https://media.api-sports.io/football/teams/13008.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/22875.png",
+    "league": "Copa Rio U20",
+    "time": "18:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "fluminense-u20-vs-botafogo-u20-2026-04-04"
+}

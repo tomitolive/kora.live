@@ -1,0 +1,14 @@
+{
+    "team_a": "Guerreros",
+    "team_b": "Tritons Vallarta",
+    "team_a_logo": "https://media.api-sports.io/football/teams/26426.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/17790.png",
+    "league": "Liga Premier Serie A",
+    "time": "22:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "guerreros-vs-tritons-vallarta-2026-04-05"
+}

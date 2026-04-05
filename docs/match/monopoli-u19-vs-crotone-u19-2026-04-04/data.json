@@ -1,0 +1,14 @@
+{
+    "team_a": "Monopoli U19",
+    "team_b": "Crotone U19",
+    "team_a_logo": "https://media.api-sports.io/football/teams/19855.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/15663.png",
+    "league": "Campionato Primavera - 2",
+    "time": "13:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "monopoli-u19-vs-crotone-u19-2026-04-04"
+}

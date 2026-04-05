@@ -1,0 +1,14 @@
+{
+    "team_a": "PSM Makassar",
+    "team_b": "Persis Solo",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2441.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/4243.png",
+    "league": "Liga 1",
+    "time": "08:30",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "psm-makassar-vs-persis-solo-2026-04-04"
+}

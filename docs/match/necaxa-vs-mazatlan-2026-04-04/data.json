@@ -1,0 +1,14 @@
+{
+    "team_a": "Necaxa",
+    "team_b": "Mazatlán",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2288.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/14002.png",
+    "league": "Liga MX",
+    "time": "03:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "necaxa-vs-mazatlan-2026-04-04"
+}

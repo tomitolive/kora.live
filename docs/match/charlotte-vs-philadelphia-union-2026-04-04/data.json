@@ -1,0 +1,14 @@
+{
+    "team_a": "Charlotte",
+    "team_b": "Philadelphia Union",
+    "team_a_logo": "https://media.api-sports.io/football/teams/18310.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/1599.png",
+    "league": "Major League Soccer",
+    "time": "23:30",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "charlotte-vs-philadelphia-union-2026-04-04"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Rayon Sports",
+    "team_b": "Gicumbi",
+    "team_a_logo": "https://media.api-sports.io/football/teams/5323.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/5315.png",
+    "league": "National Soccer League",
+    "time": "16:30",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "rayon-sports-vs-gicumbi-2026-04-04"
+}

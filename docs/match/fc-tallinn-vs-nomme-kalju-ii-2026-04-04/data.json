@@ -1,0 +1,14 @@
+{
+    "team_a": "FC Tallinn",
+    "team_b": "Nõmme Kalju II",
+    "team_a_logo": "https://media.api-sports.io/football/teams/14287.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/13826.png",
+    "league": "Esiliiga A",
+    "time": "09:30",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "fc-tallinn-vs-nomme-kalju-ii-2026-04-04"
+}

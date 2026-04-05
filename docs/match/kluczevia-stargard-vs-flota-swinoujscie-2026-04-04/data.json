@@ -1,0 +1,14 @@
+{
+    "team_a": "Kluczevia Stargard",
+    "team_b": "Flota Świnoujście",
+    "team_a_logo": "https://media.api-sports.io/football/teams/17398.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/16246.png",
+    "league": "III Liga - Group 2",
+    "time": "11:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "kluczevia-stargard-vs-flota-swinoujscie-2026-04-04"
+}

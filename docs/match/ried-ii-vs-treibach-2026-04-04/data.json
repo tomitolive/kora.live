@@ -1,0 +1,14 @@
+{
+    "team_a": "Ried II",
+    "team_b": "Treibach",
+    "team_a_logo": "https://media.api-sports.io/football/teams/8250.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/4962.png",
+    "league": "Regionalliga - Mitte",
+    "time": "14:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "ried-ii-vs-treibach-2026-04-04"
+}

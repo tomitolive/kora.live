@@ -1,0 +1,14 @@
+{
+    "team_a": "AL Masry",
+    "team_b": "Zamalek SC",
+    "team_a_logo": "https://media.api-sports.io/football/teams/1031.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/1040.png",
+    "league": "Premier League",
+    "time": "18:00",
+    "date": "2026-04-05",
+    "channel": "beIN Sports 1 HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "al-masry-vs-zamalek-sc-2026-04-05"
+}

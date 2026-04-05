@@ -1,0 +1,14 @@
+{
+    "team_a": "Al-Shabab",
+    "team_b": "Bahla",
+    "team_a_logo": "https://media.api-sports.io/football/teams/5329.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/7505.png",
+    "league": "Professional League",
+    "time": "16:20",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "al-shabab-vs-bahla-2026-04-04"
+}

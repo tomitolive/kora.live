@@ -1,0 +1,14 @@
+{
+    "team_a": "Seattle Reign FC",
+    "team_b": "Denver Summit W",
+    "team_a_logo": "https://media.api-sports.io/football/teams/3002.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/27378.png",
+    "league": "NWSL Women",
+    "time": "00:45",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "seattle-reign-fc-vs-denver-summit-w-2026-04-05"
+}

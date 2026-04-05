@@ -1,0 +1,14 @@
+{
+    "team_a": "Rudar",
+    "team_b": "Iskra",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2258.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/3738.png",
+    "league": "Second League",
+    "time": "14:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "rudar-vs-iskra-2026-04-04"
+}

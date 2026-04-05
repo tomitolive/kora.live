@@ -1,0 +1,14 @@
+{
+    "team_a": "Ibiza Islas Pitiusas",
+    "team_b": "Atlético Baleares",
+    "team_a_logo": "https://media.api-sports.io/football/teams/9781.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/9381.png",
+    "league": "Segunda División RFEF - Group 3",
+    "time": "10:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "ibiza-islas-pitiusas-vs-atletico-baleares-2026-04-05"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Sarriana",
+    "team_b": "Sámano",
+    "team_a_logo": "https://media.api-sports.io/football/teams/22130.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/9648.png",
+    "league": "Segunda División RFEF - Group 1",
+    "time": "16:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "sarriana-vs-samano-2026-04-04"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Syrianska FC",
+    "team_b": "Nyköping",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2167.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/6691.png",
+    "league": "Division 2 - Södra Svealand",
+    "time": "14:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "syrianska-fc-vs-nykoping-2026-04-04"
+}

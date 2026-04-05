@@ -1,126 +1,171 @@
 {% extends "base.html" %}
 
-{% block title %}{{ team_a }} ضد {{ team_b }}{% endblock %}
+{% block title %}مشاهدة مباراة {{ team_a }} و {{ team_b }} بث مباشر koora live{% endblock %}
 
 {% block extra_css %}
-    .match-header {
-        background: var(--primary);
-        color: var(--white);
-        padding: 3rem 1rem;
-        border-radius: 12px;
-        text-align: center;
-        margin-bottom: 2rem;
-    }
-
-    .teams {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        gap: 3rem;
-        font-size: 2rem;
-        font-weight: 800;
-        margin-bottom: 1.5rem;
-    }
-
-    .vs {
-        opacity: 0.7;
-        font-size: 1.5rem;
-    }
-
-    .match-meta {
-        font-size: 1.1rem;
-        opacity: 0.9;
-        display: flex;
-        justify-content: center;
-        gap: 2rem;
-    }
-
-    .player-container {
-        position: relative;
-        padding-bottom: 56.25%; /* 16:9 */
-        height: 0;
-        overflow: hidden;
-        border-radius: 10px;
-        background: #000;
+    .match-header-premium {
+        background: var(--surface);
+        padding: 3rem 1.5rem;
+        border-radius: 20px;
+        margin-bottom: 2.5rem;
+        box-shadow: 0 10px 40px rgba(0,0,0,0.05);
         border: 1px solid var(--border);
+        text-align: center;
+        background: linear-gradient(135deg, var(--surface) 0%, #f9fbf9 100%);
+    }
+    .header-teams {
+        display: flex; 
+        justify-content: space-around; 
+        align-items: center; 
+        margin-bottom: 3rem;
+        max-width: 800px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .team-logo-large {
+        width: 120px;
+        height: 120px;
+        object-fit: contain;
+        filter: drop-shadow(0 5px 15px rgba(0,0,0,0.1));
+    }
+    .vs-box {
+        text-align: center;
+    }
+    .vs-large {
+        font-size: 3.5rem;
+        font-weight: 950;
+        color: var(--primary);
+        letter-spacing: -2px;
+        line-height: 1;
+    }
+    .match-time-large {
+        display: inline-block;
+        margin-top: 0.8rem;
+        padding: 0.4rem 1.2rem;
+        background: rgba(10, 92, 42, 0.1);
+        color: var(--primary);
+        border-radius: 50px;
+        font-weight: 800;
+        font-size: 1.1rem;
+    }
+    .match-card-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+        gap: 2rem;
+        margin-top: 2rem;
+        padding-top: 2.5rem;
+        border-top: 2px solid rgba(0,0,0,0.03);
+    }
+    .card-item {
+        display: flex;
+        flex-direction: column;
+        gap: 0.6rem;
+    }
+    .card-label {
+        font-size: 0.9rem;
+        color: var(--text-secondary);
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+    }
+    .card-value {
+        font-size: 1.15rem;
+        font-weight: 800;
+        color: var(--text-main);
+    }
+    .seo-content {
+        background: var(--white);
+        padding: 3rem;
+        border-radius: 20px;
+        margin-top: 3.5rem;
+        border: 1px solid var(--border);
+        line-height: 1.9;
+        font-size: 1.15rem;
+        color: var(--text-main);
         box-shadow: var(--shadow);
     }
-
-    .player-container iframe {
+    .seo-content h2 {
+        margin-bottom: 2rem;
+        color: var(--primary);
+        font-weight: 900;
+        font-size: 1.8rem;
+        border-right: 6px solid var(--primary);
+        padding-right: 1.2rem;
+    }
+    .video-wrapper {
+        position: relative;
+        padding-bottom: 56.25%;
+        height: 0;
+        background: #000;
+        border-radius: 16px;
+        overflow: hidden;
+        box-shadow: 0 20px 50px rgba(0,0,0,0.15);
+        border: 1px solid rgba(255,255,255,0.1);
+    }
+    .video-wrapper iframe {
         position: absolute;
         top: 0;
         left: 0;
         width: 100%;
         height: 100%;
-        border: none;
-    }
-
-    .server-selector {
-        display: flex;
-        gap: 0.8rem;
-        margin-bottom: 1rem;
-        overflow-x: auto;
-        padding-bottom: 0.5rem;
-    }
-
-    .server-btn {
-        padding: 0.5rem 1.2rem;
-        background: var(--surface);
-        border: 1px solid var(--border);
-        border-radius: 5px;
-        font-weight: 700;
-        cursor: pointer;
-        white-space: nowrap;
-    }
-
-    .server-btn.active {
-        background: var(--primary);
-        color: var(--white);
-        border-color: var(--primary);
     }
 {% endblock %}
 
 {% block content %}
-    <div class="match-card">
-        <div class="match-header">
-            <span class="league-tag">{{ league }}</span>
-            <span style="font-weight: 700; color: var(--text-main);">{{ time }}</span>
+<div class="match-header-premium">
+    <div class="header-teams">
+        <div class="team">
+            <img src="{{ team_a_logo }}" alt="{{ team_a }}" class="team-logo-large" onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed={{ team_a }}'">
+            <h1 style="margin-top: 1.5rem; font-weight: 950; font-size: 1.8rem; color: var(--text-main);">{{ team_a }}</h1>
         </div>
-        
-        <div class="match-teams">
-            <div class="team">
-                <div class="team-logo">{{ team_a[0] }}</div>
-                <div class="team-name">{{ team_a }}</div>
-            </div>
-            <div class="vs">VS</div>
-            <div class="team">
-                <div class="team-logo">{{ team_b[0] }}</div>
-                <div class="team-name">{{ team_b }}</div>
-            </div>
+        <div class="vs-box">
+            <span class="vs-large">VS</span>
+            <div class="match-time-large">{{ time }}</div>
         </div>
-
-        {% if watch_url %}
-        <div style="text-align: center; margin-top: 2rem;">
-            <a href="{{ watch_url }}" class="watch-btn" style="display: inline-block; background: var(--primary); color: white; padding: 1.2rem 3rem; border-radius: 50px; text-decoration: none; font-weight: 800; font-size: 1.2rem; box-shadow: 0 4px 15px rgba(10, 92, 42, 0.3); transition: var(--transition);">
-                إضغط هنا لمشاهدة المباراة بث مباشر 📺
-            </a>
-            <p style="margin-top: 1rem; color: var(--text-muted); font-weight: 600;">بث مباشر بجودة عالية - اختيار السيرفر متاح في صفحة المشاهدة</p>
+        <div class="team">
+            <img src="{{ team_b_logo }}" alt="{{ team_b }}" class="team-logo-large" onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed={{ team_b }}'">
+            <h1 style="margin-top: 1.5rem; font-weight: 950; font-size: 1.8rem; color: var(--text-main);">{{ team_b }}</h1>
         </div>
-        {% else %}
-        <div style="text-align: center; margin-top: 2rem; padding: 1.5rem; background: var(--surface); border-radius: 8px;">
-            <p style="color: var(--text-muted); font-weight: 700;">البث المباشر سيتوفر قبل بداية المباراة بـ 15 دقيقة</p>
-        </div>
-        {% endif %}
     </div>
-{% endblock %}
 
-{% block extra_js %}
-<script>
-    function changeSource(url, btn) {
-        document.getElementById('mainPlayer').src = url;
-        const buttons = document.querySelectorAll('.server-btn');
-        buttons.forEach(b => b.classList.remove('active'));
-        btn.classList.add('active');
-    }
-</script>
+    <div class="match-card-grid">
+        <div class="card-item">
+            <span class="card-label">🏆 البطولة</span>
+            <span class="card-value">{{ league }}</span>
+        </div>
+        <div class="card-item">
+            <span class="card-label">📅 التاريخ</span>
+            <span class="card-value">{{ date }}</span>
+        </div>
+        <div class="card-item">
+            <span class="card-label">📺 القناة الناقلة</span>
+            <span class="card-value">{{ channel or 'TBD' }}</span>
+        </div>
+        <div class="card-item">
+            <span class="card-label">🎙️ المعلق</span>
+            <span class="card-value">{{ commentator or 'TBD' }}</span>
+        </div>
+    </div>
+</div>
+
+{% if watch_url %}
+<div class="player-container">
+    <div class="video-wrapper">
+        <iframe id="main-player" src="{{ watch_url }}" allowfullscreen frameborder="0"></iframe>
+    </div>
+</div>
+{% else %}
+<div class="player-placeholder" style="background: var(--surface); padding: 5rem 2rem; border-radius: 16px; text-align: center; border: 2px dashed var(--border); margin-bottom: 2rem;">
+    <div style="font-size: 3rem; margin-bottom: 1rem;">🕒</div>
+    <h3 style="font-weight: 800; color: var(--text-secondary);">البث المباشر سيبدأ قريباً</h3>
+    <p style="color: var(--text-secondary);">يرجى العودة عند صافرة البداية لمشاهدة المباراة بأعلى جودة.</p>
+</div>
+{% endif %}
+
+<div class="seo-content">
+    <h2>موعد وتفاصيل مباراة {{ team_a }} و {{ team_b }}</h2>
+    <div class="description-text">
+        {{ description | safe }}
+    </div>
+</div>
 {% endblock %}

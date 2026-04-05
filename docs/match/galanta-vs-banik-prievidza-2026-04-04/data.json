@@ -1,0 +1,14 @@
+{
+    "team_a": "Galanta",
+    "team_b": "Baník Prievidza",
+    "team_a_logo": "https://media.api-sports.io/football/teams/14054.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/14943.png",
+    "league": "3. liga - West",
+    "time": "14:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "galanta-vs-banik-prievidza-2026-04-04"
+}

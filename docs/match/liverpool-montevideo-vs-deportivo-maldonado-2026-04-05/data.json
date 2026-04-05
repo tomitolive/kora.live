@@ -1,0 +1,14 @@
+{
+    "team_a": "Liverpool Montevideo",
+    "team_b": "Deportivo Maldonado",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2358.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/2370.png",
+    "league": "Primera División - Apertura",
+    "time": "21:30",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": true,
+    "slug": "liverpool-montevideo-vs-deportivo-maldonado-2026-04-05"
+}

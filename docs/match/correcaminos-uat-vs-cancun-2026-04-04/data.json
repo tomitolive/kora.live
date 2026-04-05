@@ -1,0 +1,14 @@
+{
+    "team_a": "Correcaminos Uat",
+    "team_b": "Cancún",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2313.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/14276.png",
+    "league": "Liga de Expansión MX",
+    "time": "01:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "correcaminos-uat-vs-cancun-2026-04-04"
+}

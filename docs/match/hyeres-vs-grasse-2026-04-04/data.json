@@ -1,0 +1,14 @@
+{
+    "team_a": "Hyères",
+    "team_b": "Grasse",
+    "team_a_logo": "https://media.api-sports.io/football/teams/3061.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/9257.png",
+    "league": "National 2 - Group C",
+    "time": "16:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "hyeres-vs-grasse-2026-04-04"
+}

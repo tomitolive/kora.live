@@ -1,0 +1,14 @@
+{
+    "team_a": "Inhumas",
+    "team_b": "Luverdense",
+    "team_a_logo": "https://media.api-sports.io/football/teams/20708.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/752.png",
+    "league": "Serie D",
+    "time": "21:30",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "inhumas-vs-luverdense-2026-04-04"
+}

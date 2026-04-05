@@ -1,0 +1,14 @@
+{
+    "team_a": "Racing",
+    "team_b": "Kumba",
+    "team_a_logo": "https://media.api-sports.io/football/teams/5559.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/27457.png",
+    "league": "Elite Two",
+    "time": "13:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "racing-vs-kumba-2026-04-04"
+}

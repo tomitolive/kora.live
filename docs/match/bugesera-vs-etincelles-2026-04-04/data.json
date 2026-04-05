@@ -1,0 +1,14 @@
+{
+    "team_a": "Bugesera",
+    "team_b": "Etincelles",
+    "team_a_logo": "https://media.api-sports.io/football/teams/5312.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/5314.png",
+    "league": "National Soccer League",
+    "time": "13:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "bugesera-vs-etincelles-2026-04-04"
+}

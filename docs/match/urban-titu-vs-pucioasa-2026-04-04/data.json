@@ -1,0 +1,14 @@
+{
+    "team_a": "Urban Titu",
+    "team_b": "Pucioasa",
+    "team_a_logo": "https://media.api-sports.io/football/teams/24379.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/6893.png",
+    "league": "Liga III - Serie 4",
+    "time": "14:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "urban-titu-vs-pucioasa-2026-04-04"
+}

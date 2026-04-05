@@ -1,0 +1,14 @@
+{
+    "team_a": "JS Tixeraine",
+    "team_b": "WA Mostaganem",
+    "team_a_logo": "https://media.api-sports.io/football/teams/26607.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/20703.png",
+    "league": "Ligue 2",
+    "time": "14:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "js-tixeraine-vs-wa-mostaganem-2026-04-04"
+}

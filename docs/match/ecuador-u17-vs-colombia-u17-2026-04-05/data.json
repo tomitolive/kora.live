@@ -1,0 +1,14 @@
+{
+    "team_a": "Ecuador U17",
+    "team_b": "Colombia U17",
+    "team_a_logo": "https://media.api-sports.io/football/teams/12506.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/20527.png",
+    "league": "CONMEBOL - U17",
+    "time": "20:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": true,
+    "slug": "ecuador-u17-vs-colombia-u17-2026-04-05"
+}

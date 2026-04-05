@@ -1,0 +1,14 @@
+{
+    "team_a": "Redeyef",
+    "team_b": "Bouchamma",
+    "team_a_logo": "https://media.api-sports.io/football/teams/10665.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/10643.png",
+    "league": "Ligue 2",
+    "time": "13:30",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "redeyef-vs-bouchamma-2026-04-04"
+}

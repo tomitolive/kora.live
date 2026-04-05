@@ -1,0 +1,14 @@
+{
+    "team_a": "New England Revolution",
+    "team_b": "CF Montreal",
+    "team_a_logo": "https://media.api-sports.io/football/teams/1609.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/1614.png",
+    "league": "Major League Soccer",
+    "time": "20:30",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "new-england-revolution-vs-cf-montreal-2026-04-04"
+}

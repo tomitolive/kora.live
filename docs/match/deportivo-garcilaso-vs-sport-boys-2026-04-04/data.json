@@ -1,0 +1,14 @@
+{
+    "team_a": "Deportivo Garcilaso",
+    "team_b": "Sport Boys",
+    "team_a_logo": "https://media.api-sports.io/football/teams/20960.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/2544.png",
+    "league": "Primera División",
+    "time": "18:15",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "deportivo-garcilaso-vs-sport-boys-2026-04-04"
+}

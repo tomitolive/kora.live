@@ -1,0 +1,14 @@
+{
+    "team_a": "Club Guarani",
+    "team_b": "Libertad Asuncion",
+    "team_a_logo": "https://media.api-sports.io/football/teams/1174.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/1179.png",
+    "league": "Division Profesional - Apertura",
+    "time": "23:30",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "club-guarani-vs-libertad-asuncion-2026-04-05"
+}

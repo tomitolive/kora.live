@@ -1,0 +1,14 @@
+{
+    "team_a": "Holstein Kiel",
+    "team_b": "Preußen Münster",
+    "team_a_logo": "https://media.api-sports.io/football/teams/191.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/1313.png",
+    "league": "2. Bundesliga",
+    "time": "11:30",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "holstein-kiel-vs-preussen-munster-2026-04-05"
+}

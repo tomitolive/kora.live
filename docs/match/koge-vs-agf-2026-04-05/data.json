@@ -1,0 +1,14 @@
+{
+    "team_a": "Køge",
+    "team_b": "AGF",
+    "team_a_logo": "https://media.api-sports.io/football/teams/13982.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/14243.png",
+    "league": "Kvindeliga",
+    "time": "14:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "koge-vs-agf-2026-04-05"
+}

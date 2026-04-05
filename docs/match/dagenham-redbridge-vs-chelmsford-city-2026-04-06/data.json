@@ -1,0 +1,14 @@
+{
+    "team_a": "Dagenham & Redbridge",
+    "team_b": "Chelmsford City",
+    "team_a_logo": "https://media.api-sports.io/football/teams/1821.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/4689.png",
+    "league": "National League - South",
+    "time": "14:00",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "dagenham-redbridge-vs-chelmsford-city-2026-04-06"
+}

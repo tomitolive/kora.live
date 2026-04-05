@@ -1,0 +1,14 @@
+{
+    "team_a": "Zürich W",
+    "team_b": "St. Gallen W",
+    "team_a_logo": "https://media.api-sports.io/football/teams/10909.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/16041.png",
+    "league": "AXA Women’s Super League",
+    "time": "15:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "zurich-w-vs-st-gallen-w-2026-04-04"
+}

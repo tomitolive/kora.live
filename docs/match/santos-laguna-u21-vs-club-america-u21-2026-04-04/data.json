@@ -1,0 +1,14 @@
+{
+    "team_a": "Santos Laguna U21",
+    "team_b": "Club America U21",
+    "team_a_logo": "https://media.api-sports.io/football/teams/26841.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/26829.png",
+    "league": "Liga MX U21",
+    "time": "17:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "santos-laguna-u21-vs-club-america-u21-2026-04-04"
+}

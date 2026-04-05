@@ -1,0 +1,14 @@
+{
+    "team_a": "Artesanos Metepec",
+    "team_b": "Gorilas de Juanacatlan",
+    "team_a_logo": "https://media.api-sports.io/football/teams/22049.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/26395.png",
+    "league": "Liga Premier Serie B",
+    "time": "22:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "artesanos-metepec-vs-gorilas-de-juanacatlan-2026-04-04"
+}

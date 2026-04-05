@@ -1,0 +1,14 @@
+{
+    "team_a": "Gorilla",
+    "team_b": "Musanze",
+    "team_a_logo": "https://media.api-sports.io/football/teams/15560.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/5321.png",
+    "league": "National Soccer League",
+    "time": "13:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "gorilla-vs-musanze-2026-04-05"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Vila Nova",
+    "team_b": "Atletico Goianiense",
+    "team_a_logo": "https://media.api-sports.io/football/teams/142.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/144.png",
+    "league": "Serie B",
+    "time": "23:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "vila-nova-vs-atletico-goianiense-2026-04-04"
+}

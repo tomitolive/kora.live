@@ -1,0 +1,14 @@
+{
+    "team_a": "Rosario Central",
+    "team_b": "Atletico Tucuman",
+    "team_a_logo": "https://media.api-sports.io/football/teams/437.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/455.png",
+    "league": "Liga Profesional Argentina",
+    "time": "00:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "rosario-central-vs-atletico-tucuman-2026-04-05"
+}

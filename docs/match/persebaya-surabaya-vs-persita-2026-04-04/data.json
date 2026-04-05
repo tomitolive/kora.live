@@ -1,0 +1,14 @@
+{
+    "team_a": "Persebaya Surabaya",
+    "team_b": "Persita",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2446.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/4244.png",
+    "league": "Liga 1",
+    "time": "12:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "persebaya-surabaya-vs-persita-2026-04-04"
+}

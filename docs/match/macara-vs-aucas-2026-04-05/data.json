@@ -1,0 +1,14 @@
+{
+    "team_a": "Macara",
+    "team_b": "Aucas",
+    "team_a_logo": "https://media.api-sports.io/football/teams/1155.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/1156.png",
+    "league": "Liga Pro",
+    "time": "23:10",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "macara-vs-aucas-2026-04-05"
+}

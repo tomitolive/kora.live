@@ -1,0 +1,14 @@
+{
+    "team_a": "Cerezo Osaka W",
+    "team_b": "Urawa Reds W",
+    "team_a_logo": "https://media.api-sports.io/football/teams/22492.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/16952.png",
+    "league": "WE League",
+    "time": "05:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "cerezo-osaka-w-vs-urawa-reds-w-2026-04-04"
+}

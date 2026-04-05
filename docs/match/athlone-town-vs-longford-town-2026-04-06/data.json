@@ -1,0 +1,14 @@
+{
+    "team_a": "Athlone Town",
+    "team_b": "Longford Town",
+    "team_a_logo": "https://media.api-sports.io/football/teams/3846.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/3853.png",
+    "league": "First Division",
+    "time": "16:00",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "athlone-town-vs-longford-town-2026-04-06"
+}

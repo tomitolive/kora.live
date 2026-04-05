@@ -1,0 +1,14 @@
+{
+    "team_a": "Mallorca",
+    "team_b": "Real Madrid",
+    "team_a_logo": "https://media.api-sports.io/football/teams/798.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/541.png",
+    "league": "La Liga",
+    "time": "14:15",
+    "date": "2026-04-04",
+    "channel": "beIN Sports 3 HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "mallorca-vs-real-madrid-2026-04-04"
+}

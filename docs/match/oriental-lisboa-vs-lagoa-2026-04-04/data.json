@@ -1,0 +1,14 @@
+{
+    "team_a": "Oriental Lisboa",
+    "team_b": "Lagoa",
+    "team_a_logo": "https://media.api-sports.io/football/teams/4775.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/4886.png",
+    "league": "Campeonato de Portugal Prio - Group D",
+    "time": "15:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "oriental-lisboa-vs-lagoa-2026-04-04"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Deportivo Laferrere",
+    "team_b": "Excursionistas",
+    "team_a_logo": "https://media.api-sports.io/football/teams/1924.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/8385.png",
+    "league": "Primera B Metropolitana",
+    "time": "18:30",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "deportivo-laferrere-vs-excursionistas-2026-04-04"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Colchagua",
+    "team_b": "General Velásquez",
+    "team_a_logo": "https://media.api-sports.io/football/teams/5633.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/5639.png",
+    "league": "Segunda División",
+    "time": "20:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": true,
+    "slug": "colchagua-vs-general-velasquez-2026-04-05"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Real Madrid III",
+    "team_b": "CD Coria",
+    "team_a_logo": "https://media.api-sports.io/football/teams/22142.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/9827.png",
+    "league": "Segunda División RFEF - Group 5",
+    "time": "10:30",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "real-madrid-iii-vs-cd-coria-2026-04-05"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "FK Mladi Radnik 1940 Radinac",
+    "team_b": "Napredak Markovac",
+    "team_a_logo": "https://media.api-sports.io/football/teams/26414.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/24620.png",
+    "league": "Srpska Liga - West",
+    "time": "13:30",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "fk-mladi-radnik-1940-radinac-vs-napredak-markovac-2026-04-04"
+}

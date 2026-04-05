@@ -1,0 +1,14 @@
+{
+    "team_a": "Vendsyssel FF",
+    "team_b": "Roskilde",
+    "team_a_logo": "https://media.api-sports.io/football/teams/399.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/2067.png",
+    "league": "2. Division",
+    "time": "12:00",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "vendsyssel-ff-vs-roskilde-2026-04-06"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Fram Reykjavik",
+    "team_b": "Vikingur Reykjavik",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2117.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/278.png",
+    "league": "Cup",
+    "time": "17:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "fram-reykjavik-vs-vikingur-reykjavik-2026-04-04"
+}

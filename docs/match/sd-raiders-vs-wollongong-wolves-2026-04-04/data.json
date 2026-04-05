@@ -1,0 +1,14 @@
+{
+    "team_a": "SD Raiders",
+    "team_b": "Wollongong Wolves",
+    "team_a_logo": "https://media.api-sports.io/football/teams/16777.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/3777.png",
+    "league": "New South Wales NPL",
+    "time": "06:15",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "sd-raiders-vs-wollongong-wolves-2026-04-04"
+}

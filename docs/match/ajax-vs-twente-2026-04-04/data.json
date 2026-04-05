@@ -1,0 +1,14 @@
+{
+    "team_a": "Ajax",
+    "team_b": "Twente",
+    "team_a_logo": "https://media.api-sports.io/football/teams/194.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/415.png",
+    "league": "Eredivisie",
+    "time": "19:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "ajax-vs-twente-2026-04-04"
+}

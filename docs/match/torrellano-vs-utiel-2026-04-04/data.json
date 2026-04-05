@@ -1,0 +1,14 @@
+{
+    "team_a": "Torrellano",
+    "team_b": "Utiel",
+    "team_a_logo": "https://media.api-sports.io/football/teams/17559.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/22141.png",
+    "league": "Tercera División RFEF - Group 6",
+    "time": "10:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "torrellano-vs-utiel-2026-04-04"
+}

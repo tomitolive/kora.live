@@ -1,0 +1,14 @@
+{
+    "team_a": "Kompong Dewa",
+    "team_b": "Boeung Ket",
+    "team_a_logo": "https://media.api-sports.io/football/teams/26303.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/5387.png",
+    "league": "C-League",
+    "time": "11:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "kompong-dewa-vs-boeung-ket-2026-04-04"
+}

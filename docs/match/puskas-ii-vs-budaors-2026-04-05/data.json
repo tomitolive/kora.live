@@ -1,0 +1,14 @@
+{
+    "team_a": "Puskás II",
+    "team_b": "Budaörs",
+    "team_a_logo": "https://media.api-sports.io/football/teams/13155.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/10162.png",
+    "league": "NB III - Northwest",
+    "time": "09:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "puskas-ii-vs-budaors-2026-04-05"
+}

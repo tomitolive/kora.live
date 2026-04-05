@@ -1,0 +1,14 @@
+{
+    "team_a": "Al Ahli",
+    "team_b": "Malkiya",
+    "team_a_logo": "https://media.api-sports.io/football/teams/5580.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/5486.png",
+    "league": "Premier League",
+    "time": "16:30",
+    "date": "2026-04-04",
+    "channel": "beIN Sports 1 HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "al-ahli-vs-malkiya-2026-04-04"
+}

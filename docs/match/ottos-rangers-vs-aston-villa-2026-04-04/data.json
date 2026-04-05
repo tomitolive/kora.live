@@ -1,0 +1,14 @@
+{
+    "team_a": "Ottos Rangers",
+    "team_b": "Aston Villa",
+    "team_a_logo": "https://media.api-sports.io/football/teams/22798.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/22805.png",
+    "league": "Premier Division",
+    "time": "18:15",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "ottos-rangers-vs-aston-villa-2026-04-04"
+}

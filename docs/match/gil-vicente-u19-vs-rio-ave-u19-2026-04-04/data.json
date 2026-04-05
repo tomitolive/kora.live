@@ -1,0 +1,14 @@
+{
+    "team_a": "Gil Vicente U19",
+    "team_b": "Rio Ave U19",
+    "team_a_logo": "https://media.api-sports.io/football/teams/22512.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/22517.png",
+    "league": "Júniores U19",
+    "time": "15:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "gil-vicente-u19-vs-rio-ave-u19-2026-04-04"
+}

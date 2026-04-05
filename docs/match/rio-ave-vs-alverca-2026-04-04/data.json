@@ -1,0 +1,14 @@
+{
+    "team_a": "Rio Ave",
+    "team_b": "Alverca",
+    "team_a_logo": "https://media.api-sports.io/football/teams/226.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/4724.png",
+    "league": "Primeira Liga",
+    "time": "17:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "rio-ave-vs-alverca-2026-04-04"
+}

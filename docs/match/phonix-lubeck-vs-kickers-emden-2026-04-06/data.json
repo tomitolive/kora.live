@@ -1,0 +1,14 @@
+{
+    "team_a": "Phönix Lübeck",
+    "team_b": "Kickers Emden",
+    "team_a_logo": "https://media.api-sports.io/football/teams/12831.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/12804.png",
+    "league": "Regionalliga - Nord",
+    "time": "12:00",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "phonix-lubeck-vs-kickers-emden-2026-04-06"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Ards",
+    "team_b": "Dundela",
+    "team_a_logo": "https://media.api-sports.io/football/teams/5338.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/5342.png",
+    "league": "Championship",
+    "time": "14:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "ards-vs-dundela-2026-04-04"
+}

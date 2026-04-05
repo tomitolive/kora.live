@@ -1,0 +1,14 @@
+{
+    "team_a": "Água Santa",
+    "team_b": "América RJ",
+    "team_a_logo": "https://media.api-sports.io/football/teams/10018.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/13104.png",
+    "league": "Serie D",
+    "time": "19:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "agua-santa-vs-america-rj-2026-04-04"
+}

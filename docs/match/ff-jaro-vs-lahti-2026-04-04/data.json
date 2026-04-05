@@ -1,0 +1,14 @@
+{
+    "team_a": "FF Jaro",
+    "team_b": "Lahti",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2075.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/1166.png",
+    "league": "Veikkausliiga",
+    "time": "14:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "ff-jaro-vs-lahti-2026-04-04"
+}

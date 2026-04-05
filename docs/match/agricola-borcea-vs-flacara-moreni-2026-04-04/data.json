@@ -1,0 +1,14 @@
+{
+    "team_a": "Agricola Borcea",
+    "team_b": "Flacăra Moreni",
+    "team_a_logo": "https://media.api-sports.io/football/teams/6841.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/6862.png",
+    "league": "Liga III - Play-offs",
+    "time": "14:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "agricola-borcea-vs-flacara-moreni-2026-04-04"
+}

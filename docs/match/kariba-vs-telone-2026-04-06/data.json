@@ -1,0 +1,14 @@
+{
+    "team_a": "Kariba",
+    "team_b": "TelOne",
+    "team_a_logo": "https://media.api-sports.io/football/teams/5226.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/5231.png",
+    "league": "Premier Soccer League",
+    "time": "13:00",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "kariba-vs-telone-2026-04-06"
+}

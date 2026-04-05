@@ -1,0 +1,14 @@
+{
+    "team_a": "Elazığspor",
+    "team_b": "Kepezspor",
+    "team_a_logo": "https://media.api-sports.io/football/teams/3571.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/6529.png",
+    "league": "2. Lig",
+    "time": "12:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "elazigspor-vs-kepezspor-2026-04-04"
+}

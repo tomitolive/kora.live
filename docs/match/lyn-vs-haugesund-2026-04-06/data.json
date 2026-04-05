@@ -1,0 +1,14 @@
+{
+    "team_a": "Lyn",
+    "team_b": "Haugesund",
+    "team_a_logo": "https://media.api-sports.io/football/teams/7006.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/328.png",
+    "league": "1. Division",
+    "time": "12:30",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "lyn-vs-haugesund-2026-04-06"
+}

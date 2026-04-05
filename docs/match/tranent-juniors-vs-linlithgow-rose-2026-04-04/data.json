@@ -1,0 +1,14 @@
+{
+    "team_a": "Tranent Juniors",
+    "team_b": "Linlithgow Rose",
+    "team_a_logo": "https://media.api-sports.io/football/teams/15602.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/6744.png",
+    "league": "Football League - Lowland League",
+    "time": "14:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "tranent-juniors-vs-linlithgow-rose-2026-04-04"
+}

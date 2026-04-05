@@ -1,0 +1,14 @@
+{
+    "team_a": "Joinville",
+    "team_b": "São Luiz",
+    "team_a_logo": "https://media.api-sports.io/football/teams/795.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/10004.png",
+    "league": "Serie D",
+    "time": "19:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "joinville-vs-sao-luiz-2026-04-04"
+}

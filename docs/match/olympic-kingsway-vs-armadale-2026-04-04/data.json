@@ -1,0 +1,14 @@
+{
+    "team_a": "Olympic Kingsway",
+    "team_b": "Armadale",
+    "team_a_logo": "https://media.api-sports.io/football/teams/20890.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/3812.png",
+    "league": "Western Australia NPL",
+    "time": "07:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "olympic-kingsway-vs-armadale-2026-04-04"
+}

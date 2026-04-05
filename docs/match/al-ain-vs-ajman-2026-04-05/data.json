@@ -1,0 +1,14 @@
+{
+    "team_a": "Al Ain",
+    "team_b": "Ajman",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2865.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/2879.png",
+    "league": "Pro League",
+    "time": "16:30",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "al-ain-vs-ajman-2026-04-05"
+}

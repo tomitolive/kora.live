@@ -1,0 +1,14 @@
+{
+    "team_a": "Salyut-Belgorod",
+    "team_b": "Rodina Moskva III",
+    "team_a_logo": "https://media.api-sports.io/football/teams/6826.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/19448.png",
+    "league": "Second League - Group 3",
+    "time": "12:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "salyut-belgorod-vs-rodina-moskva-iii-2026-04-04"
+}

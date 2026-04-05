@@ -1,0 +1,14 @@
+{
+    "team_a": "Al Najaf",
+    "team_b": "Al Shorta",
+    "team_a_logo": "https://media.api-sports.io/football/teams/11066.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/5242.png",
+    "league": "Iraqi League",
+    "time": "16:30",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "al-najaf-vs-al-shorta-2026-04-04"
+}

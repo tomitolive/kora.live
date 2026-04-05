@@ -1,0 +1,14 @@
+{
+    "team_a": "Manta FC",
+    "team_b": "Tecnico Universitario",
+    "team_a_logo": "https://media.api-sports.io/football/teams/1980.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/1151.png",
+    "league": "Liga Pro",
+    "time": "20:30",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": true,
+    "slug": "manta-fc-vs-tecnico-universitario-2026-04-05"
+}

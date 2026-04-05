@@ -1,0 +1,14 @@
+{
+    "team_a": "Vora",
+    "team_b": "Teuta Durrës",
+    "team_a_logo": "https://media.api-sports.io/football/teams/3340.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/3320.png",
+    "league": "Superliga",
+    "time": "13:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "vora-vs-teuta-durres-2026-04-05"
+}

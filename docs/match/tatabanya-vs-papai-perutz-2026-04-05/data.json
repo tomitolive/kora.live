@@ -1,0 +1,14 @@
+{
+    "team_a": "Tatabánya",
+    "team_b": "Pápai Perutz",
+    "team_a_logo": "https://media.api-sports.io/football/teams/5145.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/5129.png",
+    "league": "NB III - Northwest",
+    "time": "14:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "tatabanya-vs-papai-perutz-2026-04-05"
+}

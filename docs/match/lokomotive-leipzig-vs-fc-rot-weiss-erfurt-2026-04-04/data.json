@@ -1,0 +1,14 @@
+{
+    "team_a": "Lokomotive Leipzig",
+    "team_b": "FC Rot-Weiß Erfurt",
+    "team_a_logo": "https://media.api-sports.io/football/teams/9355.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/1329.png",
+    "league": "Regionalliga - Nordost",
+    "time": "12:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "lokomotive-leipzig-vs-fc-rot-weiss-erfurt-2026-04-04"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Broń Radom",
+    "team_b": "Lechia T. Mazowiecki",
+    "team_a_logo": "https://media.api-sports.io/football/teams/16233.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/16238.png",
+    "league": "III Liga - Group 1",
+    "time": "13:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "bron-radom-vs-lechia-t-mazowiecki-2026-04-04"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Enköping",
+    "team_b": "Stocksund",
+    "team_a_logo": "https://media.api-sports.io/football/teams/12578.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/6700.png",
+    "league": "Ettan - Norra",
+    "time": "11:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "enkoping-vs-stocksund-2026-04-04"
+}

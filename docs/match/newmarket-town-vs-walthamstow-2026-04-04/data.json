@@ -1,0 +1,14 @@
+{
+    "team_a": "Newmarket Town",
+    "team_b": "Walthamstow",
+    "team_a_logo": "https://media.api-sports.io/football/teams/8878.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/8985.png",
+    "league": "Non League Div One - Isthmian North",
+    "time": "14:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "newmarket-town-vs-walthamstow-2026-04-04"
+}

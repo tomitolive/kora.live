@@ -1,0 +1,14 @@
+{
+    "team_a": "Bala Azul",
+    "team_b": "Real Murcia II",
+    "team_a_logo": "https://media.api-sports.io/football/teams/17607.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/9820.png",
+    "league": "Tercera División RFEF - Group 13",
+    "time": "15:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "bala-azul-vs-real-murcia-ii-2026-04-05"
+}

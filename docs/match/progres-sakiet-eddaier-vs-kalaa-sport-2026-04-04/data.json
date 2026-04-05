@@ -1,0 +1,14 @@
+{
+    "team_a": "Progrès Sakiet Eddaïer",
+    "team_b": "Kalaâ Sport",
+    "team_a_logo": "https://media.api-sports.io/football/teams/13358.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/10614.png",
+    "league": "Ligue 2",
+    "time": "13:30",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "progres-sakiet-eddaier-vs-kalaa-sport-2026-04-04"
+}

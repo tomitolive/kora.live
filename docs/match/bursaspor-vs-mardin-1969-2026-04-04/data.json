@@ -1,0 +1,14 @@
+{
+    "team_a": "Bursaspor",
+    "team_b": "Mardin 1969",
+    "team_a_logo": "https://media.api-sports.io/football/teams/1003.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/6533.png",
+    "league": "2. Lig",
+    "time": "13:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "bursaspor-vs-mardin-1969-2026-04-04"
+}

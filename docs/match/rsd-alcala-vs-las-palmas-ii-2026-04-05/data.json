@@ -1,0 +1,14 @@
+{
+    "team_a": "RSD Alcalá",
+    "team_b": "Las Palmas II",
+    "team_a_logo": "https://media.api-sports.io/football/teams/9714.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/9574.png",
+    "league": "Segunda División RFEF - Group 5",
+    "time": "09:30",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "rsd-alcala-vs-las-palmas-ii-2026-04-05"
+}

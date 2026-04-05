@@ -1,0 +1,14 @@
+{
+    "team_a": "Cesky Tesin",
+    "team_b": "Bospor Bohumín",
+    "team_a_logo": "https://media.api-sports.io/football/teams/21903.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/7277.png",
+    "league": "4. liga - Divizie F",
+    "time": "08:15",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "cesky-tesin-vs-bospor-bohumin-2026-04-04"
+}

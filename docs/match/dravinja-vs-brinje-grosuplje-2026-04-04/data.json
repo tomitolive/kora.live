@@ -1,0 +1,14 @@
+{
+    "team_a": "Dravinja",
+    "team_b": "Brinje-Grosuplje",
+    "team_a_logo": "https://media.api-sports.io/football/teams/16302.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/12744.png",
+    "league": "2. SNL",
+    "time": "14:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "dravinja-vs-brinje-grosuplje-2026-04-04"
+}

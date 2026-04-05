@@ -1,0 +1,14 @@
+{
+    "team_a": "Union St. Gilloise",
+    "team_b": "St. Truiden",
+    "team_a_logo": "https://media.api-sports.io/football/teams/1393.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/735.png",
+    "league": "Jupiler Pro League",
+    "time": "18:45",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "union-st-gilloise-vs-st-truiden-2026-04-04"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Vittsjö",
+    "team_b": "Häcken",
+    "team_a_logo": "https://media.api-sports.io/football/teams/11083.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/16483.png",
+    "league": "Damallsvenskan",
+    "time": "11:00",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "vittsjo-vs-hacken-2026-04-06"
+}

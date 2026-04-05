@@ -1,0 +1,14 @@
+{
+    "team_a": "Peru U17",
+    "team_b": "Argentina U17",
+    "team_a_logo": "https://media.api-sports.io/football/teams/21211.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/12500.png",
+    "league": "CONMEBOL - U17",
+    "time": "20:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "peru-u17-vs-argentina-u17-2026-04-04"
+}

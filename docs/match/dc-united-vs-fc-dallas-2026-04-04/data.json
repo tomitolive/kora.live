@@ -1,0 +1,14 @@
+{
+    "team_a": "DC United",
+    "team_b": "FC Dallas",
+    "team_a_logo": "https://media.api-sports.io/football/teams/1615.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/1597.png",
+    "league": "Major League Soccer",
+    "time": "23:30",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "dc-united-vs-fc-dallas-2026-04-04"
+}

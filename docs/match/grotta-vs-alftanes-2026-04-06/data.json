@@ -1,0 +1,14 @@
+{
+    "team_a": "Grotta",
+    "team_b": "Álftanes",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2121.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/6109.png",
+    "league": "Cup",
+    "time": "14:00",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "grotta-vs-alftanes-2026-04-06"
+}

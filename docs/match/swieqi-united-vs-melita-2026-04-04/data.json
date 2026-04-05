@@ -1,0 +1,14 @@
+{
+    "team_a": "Swieqi United",
+    "team_b": "Melita",
+    "team_a_logo": "https://media.api-sports.io/football/teams/4612.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/4620.png",
+    "league": "Challenge League",
+    "time": "12:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "swieqi-united-vs-melita-2026-04-04"
+}

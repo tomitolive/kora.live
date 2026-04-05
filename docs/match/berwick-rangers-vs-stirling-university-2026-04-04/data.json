@@ -1,0 +1,14 @@
+{
+    "team_a": "Berwick Rangers",
+    "team_b": "Stirling University",
+    "team_a_logo": "https://media.api-sports.io/football/teams/6759.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/7450.png",
+    "league": "Football League - Lowland League",
+    "time": "14:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "berwick-rangers-vs-stirling-university-2026-04-04"
+}

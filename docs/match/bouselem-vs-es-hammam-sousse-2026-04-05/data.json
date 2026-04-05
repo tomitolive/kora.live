@@ -1,0 +1,14 @@
+{
+    "team_a": "Bouselem",
+    "team_b": "ES Hammam-Sousse",
+    "team_a_logo": "https://media.api-sports.io/football/teams/10601.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/10609.png",
+    "league": "Ligue 2",
+    "time": "13:30",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "bouselem-vs-es-hammam-sousse-2026-04-05"
+}

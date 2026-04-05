@@ -1,0 +1,14 @@
+{
+    "team_a": "Douanes",
+    "team_b": "Etoile Filante",
+    "team_a_logo": "https://media.api-sports.io/football/teams/13978.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/8086.png",
+    "league": "Ligue 1",
+    "time": "16:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "douanes-vs-etoile-filante-2026-04-04"
+}

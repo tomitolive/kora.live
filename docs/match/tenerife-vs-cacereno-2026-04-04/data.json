@@ -1,0 +1,14 @@
+{
+    "team_a": "Tenerife",
+    "team_b": "Cacereño",
+    "team_a_logo": "https://media.api-sports.io/football/teams/719.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/9384.png",
+    "league": "Primera División RFEF - Group 1",
+    "time": "16:30",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "tenerife-vs-cacereno-2026-04-04"
+}

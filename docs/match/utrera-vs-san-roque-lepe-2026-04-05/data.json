@@ -1,0 +1,14 @@
+{
+    "team_a": "Utrera",
+    "team_b": "San Roque Lepe",
+    "team_a_logo": "https://media.api-sports.io/football/teams/9769.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/9767.png",
+    "league": "Tercera División RFEF - Group 10",
+    "time": "10:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "utrera-vs-san-roque-lepe-2026-04-05"
+}

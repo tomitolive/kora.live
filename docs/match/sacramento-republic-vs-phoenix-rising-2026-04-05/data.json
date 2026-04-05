@@ -1,0 +1,14 @@
+{
+    "team_a": "Sacramento Republic",
+    "team_b": "Phoenix Rising",
+    "team_a_logo": "https://media.api-sports.io/football/teams/4015.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/4009.png",
+    "league": "USL Championship",
+    "time": "02:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "sacramento-republic-vs-phoenix-rising-2026-04-05"
+}

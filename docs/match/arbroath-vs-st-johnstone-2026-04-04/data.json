@@ -1,0 +1,14 @@
+{
+    "team_a": "Arbroath",
+    "team_b": "ST Johnstone",
+    "team_a_logo": "https://media.api-sports.io/football/teams/4249.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/258.png",
+    "league": "Championship",
+    "time": "14:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "arbroath-vs-st-johnstone-2026-04-04"
+}

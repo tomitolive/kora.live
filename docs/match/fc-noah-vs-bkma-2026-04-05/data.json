@@ -1,0 +1,14 @@
+{
+    "team_a": "FC Noah",
+    "team_b": "BKMA",
+    "team_a_logo": "https://media.api-sports.io/football/teams/3684.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/6279.png",
+    "league": "Premier League",
+    "time": "12:00",
+    "date": "2026-04-05",
+    "channel": "beIN Sports 1 HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "fc-noah-vs-bkma-2026-04-05"
+}

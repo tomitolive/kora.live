@@ -1,0 +1,14 @@
+{
+    "team_a": "Gulf United",
+    "team_b": "Hatta SC",
+    "team_a_logo": "https://media.api-sports.io/football/teams/22322.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/2869.png",
+    "league": "Division 1",
+    "time": "13:45",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "gulf-united-vs-hatta-sc-2026-04-05"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Fraserburgh",
+    "team_b": "Deveronvale",
+    "team_a_logo": "https://media.api-sports.io/football/teams/6769.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/7438.png",
+    "league": "Football League - Highland League",
+    "time": "14:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "fraserburgh-vs-deveronvale-2026-04-04"
+}

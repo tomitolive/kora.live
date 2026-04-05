@@ -1,0 +1,14 @@
+{
+    "team_a": "Bravos do Maquis FC",
+    "team_b": "Académica do Lobito",
+    "team_a_logo": "https://media.api-sports.io/football/teams/4921.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/4915.png",
+    "league": "Girabola",
+    "time": "14:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "bravos-do-maquis-fc-vs-academica-do-lobito-2026-04-04"
+}

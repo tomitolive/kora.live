@@ -1,0 +1,14 @@
+{
+    "team_a": "Melbourne City",
+    "team_b": "Western Sydney Wanderers",
+    "team_a_logo": "https://media.api-sports.io/football/teams/945.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/939.png",
+    "league": "A-League",
+    "time": "08:35",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "melbourne-city-vs-western-sydney-wanderers-2026-04-04"
+}

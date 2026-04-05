@@ -1,0 +1,14 @@
+{
+    "team_a": "Septemvri Sofia II",
+    "team_b": "Rilski Sportist",
+    "team_a_logo": "https://media.api-sports.io/football/teams/17314.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/8547.png",
+    "league": "Third League - Southwest",
+    "time": "13:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "septemvri-sofia-ii-vs-rilski-sportist-2026-04-04"
+}

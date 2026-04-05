@@ -1,0 +1,14 @@
+{
+    "team_a": "Elmina Sharks",
+    "team_b": "Skyy",
+    "team_a_logo": "https://media.api-sports.io/football/teams/12247.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/21090.png",
+    "league": "Division One League",
+    "time": "15:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "elmina-sharks-vs-skyy-2026-04-04"
+}

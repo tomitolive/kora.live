@@ -1,0 +1,14 @@
+{
+    "team_a": "Renaissance",
+    "team_b": "Motema Pembe",
+    "team_a_logo": "https://media.api-sports.io/football/teams/10085.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/8067.png",
+    "league": "Ligue 1",
+    "time": "14:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "renaissance-vs-motema-pembe-2026-04-05"
+}

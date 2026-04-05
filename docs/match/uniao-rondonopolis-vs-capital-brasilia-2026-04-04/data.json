@@ -1,0 +1,14 @@
+{
+    "team_a": "União Rondonópolis",
+    "team_b": "Capital Brasilia",
+    "team_a_logo": "https://media.api-sports.io/football/teams/7788.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/12921.png",
+    "league": "Serie D",
+    "time": "20:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "uniao-rondonopolis-vs-capital-brasilia-2026-04-04"
+}

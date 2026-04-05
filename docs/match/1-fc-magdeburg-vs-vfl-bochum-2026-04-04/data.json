@@ -1,0 +1,14 @@
+{
+    "team_a": "1. FC Magdeburg",
+    "team_b": "VfL Bochum",
+    "team_a_logo": "https://media.api-sports.io/football/teams/179.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/176.png",
+    "league": "2. Bundesliga",
+    "time": "11:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "1-fc-magdeburg-vs-vfl-bochum-2026-04-04"
+}

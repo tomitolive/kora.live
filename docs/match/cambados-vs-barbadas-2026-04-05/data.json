@@ -1,0 +1,14 @@
+{
+    "team_a": "Cambados",
+    "team_b": "Barbadás",
+    "team_a_logo": "https://media.api-sports.io/football/teams/26852.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/20442.png",
+    "league": "Tercera División RFEF - Group 1",
+    "time": "15:30",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "cambados-vs-barbadas-2026-04-05"
+}

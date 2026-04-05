@@ -1,0 +1,14 @@
+{
+    "team_a": "Grapiuna U20",
+    "team_b": "Porto BA U20",
+    "team_a_logo": "https://media.api-sports.io/football/teams/23279.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/25815.png",
+    "league": "Baiano U20",
+    "time": "18:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "grapiuna-u20-vs-porto-ba-u20-2026-04-04"
+}

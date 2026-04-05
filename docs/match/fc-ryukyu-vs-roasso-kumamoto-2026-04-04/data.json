@@ -1,0 +1,14 @@
+{
+    "team_a": "FC Ryukyu",
+    "team_b": "Roasso Kumamoto",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2235.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/314.png",
+    "league": "J2/J3 League",
+    "time": "08:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "fc-ryukyu-vs-roasso-kumamoto-2026-04-04"
+}

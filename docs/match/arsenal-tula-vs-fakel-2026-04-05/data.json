@@ -1,0 +1,14 @@
+{
+    "team_a": "Arsenal Tula",
+    "team_b": "Fakel",
+    "team_a_logo": "https://media.api-sports.io/football/teams/1077.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/1993.png",
+    "league": "First League",
+    "time": "13:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "arsenal-tula-vs-fakel-2026-04-05"
+}

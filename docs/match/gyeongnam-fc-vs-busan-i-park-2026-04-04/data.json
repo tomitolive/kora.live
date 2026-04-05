@@ -1,0 +1,14 @@
+{
+    "team_a": "Gyeongnam FC",
+    "team_b": "Busan I Park",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2751.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/2752.png",
+    "league": "K League 2",
+    "time": "07:30",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "gyeongnam-fc-vs-busan-i-park-2026-04-04"
+}

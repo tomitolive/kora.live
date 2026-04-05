@@ -1,0 +1,14 @@
+{
+    "team_a": "Shamiya",
+    "team_b": "Yarmouk",
+    "team_a_logo": "https://media.api-sports.io/football/teams/26629.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/3546.png",
+    "league": "Division 1",
+    "time": "15:35",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "shamiya-vs-yarmouk-2026-04-04"
+}

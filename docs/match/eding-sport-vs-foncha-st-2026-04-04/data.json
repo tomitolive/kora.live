@@ -1,0 +1,14 @@
+{
+    "team_a": "Eding Sport",
+    "team_b": "Foncha ST",
+    "team_a_logo": "https://media.api-sports.io/football/teams/5403.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/16527.png",
+    "league": "Elite Two",
+    "time": "13:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "eding-sport-vs-foncha-st-2026-04-04"
+}

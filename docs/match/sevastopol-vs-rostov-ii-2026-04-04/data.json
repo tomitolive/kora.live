@@ -1,0 +1,14 @@
+{
+    "team_a": "Sevastopol",
+    "team_b": "Rostov II",
+    "team_a_logo": "https://media.api-sports.io/football/teams/13240.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/23316.png",
+    "league": "Second League - Group 1",
+    "time": "13:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "sevastopol-vs-rostov-ii-2026-04-04"
+}

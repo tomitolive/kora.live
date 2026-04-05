@@ -1,0 +1,14 @@
+{
+    "team_a": "Kostinbrod",
+    "team_b": "Vitosha Bistritsa",
+    "team_a_logo": "https://media.api-sports.io/football/teams/17312.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/850.png",
+    "league": "Third League - Southwest",
+    "time": "13:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "kostinbrod-vs-vitosha-bistritsa-2026-04-04"
+}

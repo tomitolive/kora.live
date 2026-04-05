@@ -1,0 +1,14 @@
+{
+    "team_a": "Chotebor",
+    "team_b": "FS Třebíč",
+    "team_a_logo": "https://media.api-sports.io/football/teams/26124.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/24190.png",
+    "league": "4. liga - Divizie D",
+    "time": "13:30",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "chotebor-vs-fs-trebic-2026-04-05"
+}

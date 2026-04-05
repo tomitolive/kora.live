@@ -1,0 +1,14 @@
+{
+    "team_a": "Al Baten",
+    "team_b": "Al Orubah",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2926.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/2961.png",
+    "league": "Division 1",
+    "time": "15:55",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "al-baten-vs-al-orubah-2026-04-04"
+}

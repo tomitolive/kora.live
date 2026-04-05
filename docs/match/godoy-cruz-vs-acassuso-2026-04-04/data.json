@@ -1,0 +1,14 @@
+{
+    "team_a": "Godoy Cruz",
+    "team_b": "Acassuso",
+    "team_a_logo": "https://media.api-sports.io/football/teams/439.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/2425.png",
+    "league": "Primera Nacional",
+    "time": "19:30",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "godoy-cruz-vs-acassuso-2026-04-04"
+}

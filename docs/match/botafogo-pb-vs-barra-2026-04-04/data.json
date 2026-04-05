@@ -1,0 +1,14 @@
+{
+    "team_a": "Botafogo PB",
+    "team_b": "Barra",
+    "team_a_logo": "https://media.api-sports.io/football/teams/1197.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/18271.png",
+    "league": "Serie C",
+    "time": "22:30",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "botafogo-pb-vs-barra-2026-04-04"
+}

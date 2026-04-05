@@ -1,0 +1,14 @@
+{
+    "team_a": "Tepatitlán",
+    "team_b": "Alebrijes de Oaxaca",
+    "team_a_logo": "https://media.api-sports.io/football/teams/14279.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/2300.png",
+    "league": "Liga de Expansión MX",
+    "time": "02:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "tepatitlan-vs-alebrijes-de-oaxaca-2026-04-04"
+}

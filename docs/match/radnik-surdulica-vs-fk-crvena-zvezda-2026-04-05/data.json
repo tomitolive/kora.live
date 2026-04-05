@@ -1,0 +1,14 @@
+{
+    "team_a": "Radnik Surdulica",
+    "team_b": "FK Crvena Zvezda",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2657.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/598.png",
+    "league": "Super Liga",
+    "time": "15:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "radnik-surdulica-vs-fk-crvena-zvezda-2026-04-05"
+}

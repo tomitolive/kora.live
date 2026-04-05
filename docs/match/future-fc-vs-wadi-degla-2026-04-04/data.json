@@ -1,0 +1,14 @@
+{
+    "team_a": "Future FC",
+    "team_b": "Wadi Degla",
+    "team_a_logo": "https://media.api-sports.io/football/teams/16431.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/1046.png",
+    "league": "Premier League",
+    "time": "18:00",
+    "date": "2026-04-04",
+    "channel": "beIN Sports 1 HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "future-fc-vs-wadi-degla-2026-04-04"
+}

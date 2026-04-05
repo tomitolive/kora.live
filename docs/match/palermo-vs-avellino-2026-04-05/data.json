@@ -1,0 +1,14 @@
+{
+    "team_a": "Palermo",
+    "team_b": "Avellino",
+    "team_a_logo": "https://media.api-sports.io/football/teams/522.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/528.png",
+    "league": "Serie B",
+    "time": "17:30",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "palermo-vs-avellino-2026-04-05"
+}

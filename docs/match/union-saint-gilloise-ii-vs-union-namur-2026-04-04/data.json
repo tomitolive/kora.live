@@ -1,0 +1,14 @@
+{
+    "team_a": "Union Saint-Gilloise II",
+    "team_b": "Union Namur",
+    "team_a_logo": "https://media.api-sports.io/football/teams/19902.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/5964.png",
+    "league": "First Amateur Division",
+    "time": "17:30",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "union-saint-gilloise-ii-vs-union-namur-2026-04-04"
+}

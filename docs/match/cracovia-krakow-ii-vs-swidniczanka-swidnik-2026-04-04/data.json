@@ -1,0 +1,14 @@
+{
+    "team_a": "Cracovia Kraków II",
+    "team_b": "Świdniczanka Świdnik",
+    "team_a_logo": "https://media.api-sports.io/football/teams/16265.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/21661.png",
+    "league": "III Liga - Group 4",
+    "time": "10:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "cracovia-krakow-ii-vs-swidniczanka-swidnik-2026-04-04"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Ibri",
+    "team_b": "Al Nasr",
+    "team_a_logo": "https://media.api-sports.io/football/teams/15960.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/2878.png",
+    "league": "Professional League",
+    "time": "14:55",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "ibri-vs-al-nasr-2026-04-04"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Reggiana U19",
+    "team_b": "Modena U19",
+    "team_a_logo": "https://media.api-sports.io/football/teams/15676.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/24357.png",
+    "league": "Campionato Primavera - 2",
+    "time": "13:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "reggiana-u19-vs-modena-u19-2026-04-04"
+}

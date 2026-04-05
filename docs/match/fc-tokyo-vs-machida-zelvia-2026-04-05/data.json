@@ -1,0 +1,14 @@
+{
+    "team_a": "FC Tokyo",
+    "team_b": "Machida Zelvia",
+    "team_a_logo": "https://media.api-sports.io/football/teams/292.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/303.png",
+    "league": "J1 League",
+    "time": "06:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "fc-tokyo-vs-machida-zelvia-2026-04-05"
+}

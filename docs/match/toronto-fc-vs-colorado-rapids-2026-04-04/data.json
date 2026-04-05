@@ -1,0 +1,14 @@
+{
+    "team_a": "Toronto FC",
+    "team_b": "Colorado Rapids",
+    "team_a_logo": "https://media.api-sports.io/football/teams/1601.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/1610.png",
+    "league": "Major League Soccer",
+    "time": "17:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "toronto-fc-vs-colorado-rapids-2026-04-04"
+}

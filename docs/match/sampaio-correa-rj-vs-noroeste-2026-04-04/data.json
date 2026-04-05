@@ -1,0 +1,14 @@
+{
+    "team_a": "Sampaio Corrêa RJ",
+    "team_b": "Noroeste",
+    "team_a_logo": "https://media.api-sports.io/football/teams/13115.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/10037.png",
+    "league": "Serie D",
+    "time": "22:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "sampaio-correa-rj-vs-noroeste-2026-04-04"
+}

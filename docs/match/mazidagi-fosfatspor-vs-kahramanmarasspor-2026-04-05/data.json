@@ -1,0 +1,14 @@
+{
+    "team_a": "Mazıdağı Fosfatspor",
+    "team_b": "Kahramanmaraşspor",
+    "team_a_logo": "https://media.api-sports.io/football/teams/20295.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/3593.png",
+    "league": "3. Lig - Group 2",
+    "time": "11:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "mazidagi-fosfatspor-vs-kahramanmarasspor-2026-04-05"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Plzen",
+    "team_b": "Teplice",
+    "team_a_logo": "https://media.api-sports.io/football/teams/567.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/3720.png",
+    "league": "Czech Liga",
+    "time": "16:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "plzen-vs-teplice-2026-04-04"
+}

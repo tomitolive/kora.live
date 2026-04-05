@@ -1,0 +1,14 @@
+{
+    "team_a": "Central Coast Mariners",
+    "team_b": "Perth Glory",
+    "team_a_logo": "https://media.api-sports.io/football/teams/941.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/940.png",
+    "league": "A-League",
+    "time": "06:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "central-coast-mariners-vs-perth-glory-2026-04-04"
+}

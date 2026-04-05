@@ -1,0 +1,14 @@
+{
+    "team_a": "Hércules II",
+    "team_b": "Crevillente",
+    "team_a_logo": "https://media.api-sports.io/football/teams/9693.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/9690.png",
+    "league": "Tercera División RFEF - Group 6",
+    "time": "16:30",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "hercules-ii-vs-crevillente-2026-04-04"
+}

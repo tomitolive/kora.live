@@ -1,0 +1,14 @@
+{
+    "team_a": "Porto U19",
+    "team_b": "Santa Clara U19",
+    "team_a_logo": "https://media.api-sports.io/football/teams/7922.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/26301.png",
+    "league": "Júniores U19",
+    "time": "10:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "porto-u19-vs-santa-clara-u19-2026-04-04"
+}

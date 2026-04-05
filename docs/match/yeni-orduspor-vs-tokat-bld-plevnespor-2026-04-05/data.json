@@ -1,0 +1,14 @@
+{
+    "team_a": "Yeni Orduspor",
+    "team_b": "Tokat Bld Plevnespor",
+    "team_a_logo": "https://media.api-sports.io/football/teams/7426.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/21035.png",
+    "league": "3. Lig - Group 3",
+    "time": "11:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "yeni-orduspor-vs-tokat-bld-plevnespor-2026-04-05"
+}

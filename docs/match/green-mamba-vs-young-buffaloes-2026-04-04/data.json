@@ -1,0 +1,14 @@
+{
+    "team_a": "Green Mamba",
+    "team_b": "Young Buffaloes",
+    "team_a_logo": "https://media.api-sports.io/football/teams/6421.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/8076.png",
+    "league": "Premier League",
+    "time": "13:00",
+    "date": "2026-04-04",
+    "channel": "beIN Sports 1 HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "green-mamba-vs-young-buffaloes-2026-04-04"
+}

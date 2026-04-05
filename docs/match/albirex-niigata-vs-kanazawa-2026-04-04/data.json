@@ -1,0 +1,14 @@
+{
+    "team_a": "Albirex Niigata",
+    "team_b": "Kanazawa",
+    "team_a_logo": "https://media.api-sports.io/football/teams/311.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/300.png",
+    "league": "J2/J3 League",
+    "time": "05:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "albirex-niigata-vs-kanazawa-2026-04-04"
+}

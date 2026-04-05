@@ -1,0 +1,14 @@
+{
+    "team_a": "Karaman FK",
+    "team_b": "Şanlıurfaspor",
+    "team_a_logo": "https://media.api-sports.io/football/teams/6526.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/3613.png",
+    "league": "2. Lig",
+    "time": "12:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "karaman-fk-vs-sanliurfaspor-2026-04-04"
+}

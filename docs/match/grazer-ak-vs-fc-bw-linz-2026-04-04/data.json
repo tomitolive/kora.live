@@ -1,0 +1,14 @@
+{
+    "team_a": "Grazer AK",
+    "team_b": "FC BW Linz",
+    "team_a_logo": "https://media.api-sports.io/football/teams/4256.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/1394.png",
+    "league": "Bundesliga",
+    "time": "15:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "grazer-ak-vs-fc-bw-linz-2026-04-04"
+}

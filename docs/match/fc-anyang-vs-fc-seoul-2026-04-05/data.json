@@ -1,0 +1,14 @@
+{
+    "team_a": "FC Anyang",
+    "team_b": "FC Seoul",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2748.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/2766.png",
+    "league": "K League 1",
+    "time": "05:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "fc-anyang-vs-fc-seoul-2026-04-05"
+}

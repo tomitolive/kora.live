@@ -1,0 +1,14 @@
+{
+    "team_a": "Dartford",
+    "team_b": "Chatham Town",
+    "team_a_logo": "https://media.api-sports.io/football/teams/4690.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/8737.png",
+    "league": "Non League Premier - Isthmian",
+    "time": "14:00",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "dartford-vs-chatham-town-2026-04-06"
+}

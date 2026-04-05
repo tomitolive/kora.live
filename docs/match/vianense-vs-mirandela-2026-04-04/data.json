@@ -1,0 +1,14 @@
+{
+    "team_a": "Vianense",
+    "team_b": "Mirandela",
+    "team_a_logo": "https://media.api-sports.io/football/teams/4809.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/4769.png",
+    "league": "Campeonato de Portugal Prio - Group A",
+    "time": "15:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "vianense-vs-mirandela-2026-04-04"
+}

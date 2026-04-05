@@ -1,0 +1,14 @@
+{
+    "team_a": "Jonava",
+    "team_b": "Kauno Žalgiris II",
+    "team_a_logo": "https://media.api-sports.io/football/teams/3862.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/13971.png",
+    "league": "1 Lyga",
+    "time": "12:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "jonava-vs-kauno-zalgiris-ii-2026-04-04"
+}

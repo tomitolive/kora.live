@@ -1,0 +1,14 @@
+{
+    "team_a": "Brzi Brod",
+    "team_b": "Sinđelić",
+    "team_a_logo": "https://media.api-sports.io/football/teams/17429.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/12342.png",
+    "league": "Srpska Liga - East",
+    "time": "14:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "brzi-brod-vs-sindelic-2026-04-05"
+}

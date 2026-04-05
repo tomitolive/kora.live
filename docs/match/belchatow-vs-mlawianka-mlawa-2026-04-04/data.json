@@ -1,0 +1,14 @@
+{
+    "team_a": "Bełchatów",
+    "team_b": "Mławianka Mława",
+    "team_a_logo": "https://media.api-sports.io/football/teams/4246.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/19618.png",
+    "league": "III Liga - Group 1",
+    "time": "13:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "belchatow-vs-mlawianka-mlawa-2026-04-04"
+}

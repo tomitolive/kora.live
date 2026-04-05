@@ -1,0 +1,14 @@
+{
+    "team_a": "Bekasi City",
+    "team_b": "Persekat",
+    "team_a_logo": "https://media.api-sports.io/football/teams/11133.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/11130.png",
+    "league": "Liga 2",
+    "time": "08:30",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "bekasi-city-vs-persekat-2026-04-06"
+}

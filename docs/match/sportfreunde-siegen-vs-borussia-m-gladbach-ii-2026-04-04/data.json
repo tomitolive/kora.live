@@ -1,0 +1,14 @@
+{
+    "team_a": "Sportfreunde Siegen",
+    "team_b": "Borussia M'gladbach II",
+    "team_a_logo": "https://media.api-sports.io/football/teams/13935.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/9368.png",
+    "league": "Regionalliga - West",
+    "time": "12:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "sportfreunde-siegen-vs-borussia-m-gladbach-ii-2026-04-04"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Al Ula",
+    "team_b": "Al-Adalah",
+    "team_a_logo": "https://media.api-sports.io/football/teams/26357.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/2950.png",
+    "league": "Division 1",
+    "time": "16:15",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "al-ula-vs-al-adalah-2026-04-04"
+}

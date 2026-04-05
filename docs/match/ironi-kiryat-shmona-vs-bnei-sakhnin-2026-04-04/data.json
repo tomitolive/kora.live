@@ -1,0 +1,14 @@
+{
+    "team_a": "Ironi Kiryat Shmona",
+    "team_b": "Bnei Sakhnin",
+    "team_a_logo": "https://media.api-sports.io/football/teams/4510.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/4481.png",
+    "league": "Ligat Ha'al",
+    "time": "17:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "ironi-kiryat-shmona-vs-bnei-sakhnin-2026-04-04"
+}

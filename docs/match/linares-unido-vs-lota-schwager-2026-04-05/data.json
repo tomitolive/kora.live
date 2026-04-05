@@ -1,0 +1,14 @@
+{
+    "team_a": "Linares Unido",
+    "team_b": "Lota Schwager",
+    "team_a_logo": "https://media.api-sports.io/football/teams/15717.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/27606.png",
+    "league": "Segunda División",
+    "time": "19:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "linares-unido-vs-lota-schwager-2026-04-05"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "FC Porto",
+    "team_b": "Famalicao",
+    "team_a_logo": "https://media.api-sports.io/football/teams/212.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/242.png",
+    "league": "Primeira Liga",
+    "time": "19:30",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "fc-porto-vs-famalicao-2026-04-04"
+}

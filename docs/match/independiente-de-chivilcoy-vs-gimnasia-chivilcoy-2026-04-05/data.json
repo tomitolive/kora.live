@@ -1,0 +1,14 @@
+{
+    "team_a": "Independiente De Chivilcoy",
+    "team_b": "Gimnasia Chivilcoy",
+    "team_a_logo": "https://media.api-sports.io/football/teams/1960.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/25758.png",
+    "league": "Torneo Federal A",
+    "time": "19:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "independiente-de-chivilcoy-vs-gimnasia-chivilcoy-2026-04-05"
+}

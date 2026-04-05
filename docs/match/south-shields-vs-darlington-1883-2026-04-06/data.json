@@ -1,0 +1,14 @@
+{
+    "team_a": "South Shields",
+    "team_b": "Darlington 1883",
+    "team_a_logo": "https://media.api-sports.io/football/teams/7746.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/10157.png",
+    "league": "National League - North",
+    "time": "14:00",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "south-shields-vs-darlington-1883-2026-04-06"
+}

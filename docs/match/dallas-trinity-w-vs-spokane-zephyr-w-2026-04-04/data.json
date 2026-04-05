@@ -1,0 +1,14 @@
+{
+    "team_a": "Dallas Trinity W",
+    "team_b": "Spokane Zephyr W",
+    "team_a_logo": "https://media.api-sports.io/football/teams/24660.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/24662.png",
+    "league": "USL Super League",
+    "time": "21:30",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "dallas-trinity-w-vs-spokane-zephyr-w-2026-04-04"
+}

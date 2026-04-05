@@ -1,0 +1,14 @@
+{
+    "team_a": "Nea Salamis",
+    "team_b": "Ayia Napa",
+    "team_a_logo": "https://media.api-sports.io/football/teams/3401.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/3409.png",
+    "league": "2. Division",
+    "time": "12:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "nea-salamis-vs-ayia-napa-2026-04-04"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Lamphun Warrior",
+    "team_b": "Ayutthaya FC",
+    "team_a_logo": "https://media.api-sports.io/football/teams/6572.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/2803.png",
+    "league": "Thai League 1",
+    "time": "11:30",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "lamphun-warrior-vs-ayutthaya-fc-2026-04-05"
+}

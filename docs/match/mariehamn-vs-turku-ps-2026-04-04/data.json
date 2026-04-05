@@ -1,0 +1,14 @@
+{
+    "team_a": "Mariehamn",
+    "team_b": "Turku PS",
+    "team_a_logo": "https://media.api-sports.io/football/teams/587.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/1168.png",
+    "league": "Veikkausliiga",
+    "time": "14:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "mariehamn-vs-turku-ps-2026-04-04"
+}

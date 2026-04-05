@@ -1,0 +1,14 @@
+{
+    "team_a": "Tournai",
+    "team_b": "Richelle United",
+    "team_a_logo": "https://media.api-sports.io/football/teams/5957.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/5913.png",
+    "league": "Second Amateur Division - ACFF",
+    "time": "17:30",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "tournai-vs-richelle-united-2026-04-04"
+}

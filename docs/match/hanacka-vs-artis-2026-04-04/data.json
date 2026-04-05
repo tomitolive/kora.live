@@ -1,0 +1,14 @@
+{
+    "team_a": "Hanácká",
+    "team_b": "Artis",
+    "team_a_logo": "https://media.api-sports.io/football/teams/7291.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/4257.png",
+    "league": "FNL",
+    "time": "14:30",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "hanacka-vs-artis-2026-04-04"
+}

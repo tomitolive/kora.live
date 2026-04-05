@@ -1,0 +1,14 @@
+{
+    "team_a": "Illertissen",
+    "team_b": "Aubstadt",
+    "team_a_logo": "https://media.api-sports.io/football/teams/9330.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/9323.png",
+    "league": "Regionalliga - Bayern",
+    "time": "12:00",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "illertissen-vs-aubstadt-2026-04-06"
+}

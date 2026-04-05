@@ -1,0 +1,14 @@
+{
+    "team_a": "Dalian Yingbo B",
+    "team_b": "Shanghai Second",
+    "team_a_logo": "https://media.api-sports.io/football/teams/27621.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/27619.png",
+    "league": "League Two",
+    "time": "07:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "dalian-yingbo-b-vs-shanghai-second-2026-04-04"
+}

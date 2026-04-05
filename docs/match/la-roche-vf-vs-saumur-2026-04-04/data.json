@@ -1,0 +1,14 @@
+{
+    "team_a": "La Roche VF",
+    "team_b": "Saumur",
+    "team_a_logo": "https://media.api-sports.io/football/teams/9915.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/3225.png",
+    "league": "National 2 - Group A",
+    "time": "16:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "la-roche-vf-vs-saumur-2026-04-04"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Yacoub El Mansour",
+    "team_b": "Olympique Safi",
+    "team_a_logo": "https://media.api-sports.io/football/teams/25058.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/975.png",
+    "league": "Botola Pro",
+    "time": "19:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "yacoub-el-mansour-vs-olympique-safi-2026-04-04"
+}

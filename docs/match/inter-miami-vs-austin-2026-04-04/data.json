@@ -1,0 +1,14 @@
+{
+    "team_a": "Inter Miami",
+    "team_b": "Austin",
+    "team_a_logo": "https://media.api-sports.io/football/teams/9568.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/16489.png",
+    "league": "Major League Soccer",
+    "time": "23:30",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "inter-miami-vs-austin-2026-04-04"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Masr",
+    "team_b": "El Mokawloon",
+    "team_a_logo": "https://media.api-sports.io/football/teams/7520.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/1575.png",
+    "league": "Premier League",
+    "time": "18:00",
+    "date": "2026-04-06",
+    "channel": "beIN Sports 1 HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "masr-vs-el-mokawloon-2026-04-06"
+}

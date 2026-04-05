@@ -1,0 +1,14 @@
+{
+    "team_a": "Cerdanyola del Vallès",
+    "team_b": "Europa II",
+    "team_a_logo": "https://media.api-sports.io/football/teams/9670.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/24575.png",
+    "league": "Tercera División RFEF - Group 5",
+    "time": "14:30",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "cerdanyola-del-valles-vs-europa-ii-2026-04-04"
+}

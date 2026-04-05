@@ -1,0 +1,14 @@
+{
+    "team_a": "Dinamo Minsk",
+    "team_b": "Belshina",
+    "team_a_logo": "https://media.api-sports.io/football/teams/394.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/3384.png",
+    "league": "Premier League",
+    "time": "15:00",
+    "date": "2026-04-04",
+    "channel": "beIN Sports 1 HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "dinamo-minsk-vs-belshina-2026-04-04"
+}

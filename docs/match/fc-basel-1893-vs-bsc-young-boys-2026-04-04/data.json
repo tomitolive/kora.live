@@ -1,0 +1,14 @@
+{
+    "team_a": "FC Basel 1893",
+    "team_b": "BSC Young Boys",
+    "team_a_logo": "https://media.api-sports.io/football/teams/551.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/565.png",
+    "league": "Super League",
+    "time": "18:30",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "fc-basel-1893-vs-bsc-young-boys-2026-04-04"
+}

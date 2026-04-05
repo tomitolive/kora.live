@@ -1,0 +1,14 @@
+{
+    "team_a": "Real Murcia",
+    "team_b": "Atlético Madrid II",
+    "team_a_logo": "https://media.api-sports.io/football/teams/5275.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/9570.png",
+    "league": "Primera División RFEF - Group 2",
+    "time": "16:15",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "real-murcia-vs-atletico-madrid-ii-2026-04-05"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Gimnástica Torrelavega",
+    "team_b": "Escobedo",
+    "team_a_logo": "https://media.api-sports.io/football/teams/5264.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/9386.png",
+    "league": "Tercera División RFEF - Group 3",
+    "time": "15:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "gimnastica-torrelavega-vs-escobedo-2026-04-05"
+}

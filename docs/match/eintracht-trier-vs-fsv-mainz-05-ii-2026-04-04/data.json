@@ -1,0 +1,14 @@
+{
+    "team_a": "Eintracht Trier",
+    "team_b": "FSV Mainz 05 II",
+    "team_a_logo": "https://media.api-sports.io/football/teams/1627.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/1331.png",
+    "league": "Regionalliga - SudWest",
+    "time": "12:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "eintracht-trier-vs-fsv-mainz-05-ii-2026-04-04"
+}

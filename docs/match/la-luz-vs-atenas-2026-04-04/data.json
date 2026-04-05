@@ -1,0 +1,14 @@
+{
+    "team_a": "La Luz",
+    "team_b": "Atenas",
+    "team_a_logo": "https://media.api-sports.io/football/teams/18295.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/2364.png",
+    "league": "Segunda División",
+    "time": "15:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "la-luz-vs-atenas-2026-04-04"
+}

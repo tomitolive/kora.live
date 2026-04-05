@@ -1,0 +1,14 @@
+{
+    "team_a": "Egham Town",
+    "team_b": "Hanworth Villa",
+    "team_a_logo": "https://media.api-sports.io/football/teams/8773.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/8811.png",
+    "league": "Non League Div One - Isthmian South Central",
+    "time": "14:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "egham-town-vs-hanworth-villa-2026-04-04"
+}

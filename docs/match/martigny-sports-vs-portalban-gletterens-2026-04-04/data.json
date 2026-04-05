@@ -1,0 +1,14 @@
+{
+    "team_a": "Martigny Sports",
+    "team_b": "Portalban / Gletterens",
+    "team_a_logo": "https://media.api-sports.io/football/teams/12694.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/16337.png",
+    "league": "1. Liga Classic - Group 1",
+    "time": "14:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "martigny-sports-vs-portalban-gletterens-2026-04-04"
+}

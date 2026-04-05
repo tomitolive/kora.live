@@ -1,0 +1,14 @@
+{
+    "team_a": "Motril",
+    "team_b": "Mijas Las Lagunas",
+    "team_a_logo": "https://media.api-sports.io/football/teams/9751.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/22569.png",
+    "league": "Tercera División RFEF - Group 9",
+    "time": "16:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "motril-vs-mijas-las-lagunas-2026-04-05"
+}

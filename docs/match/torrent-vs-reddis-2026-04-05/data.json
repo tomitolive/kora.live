@@ -1,0 +1,14 @@
+{
+    "team_a": "Torrent",
+    "team_b": "Reddis",
+    "team_a_logo": "https://media.api-sports.io/football/teams/15348.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/22136.png",
+    "league": "Segunda División RFEF - Group 3",
+    "time": "10:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "torrent-vs-reddis-2026-04-05"
+}

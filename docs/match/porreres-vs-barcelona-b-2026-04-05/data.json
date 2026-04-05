@@ -1,0 +1,14 @@
+{
+    "team_a": "Porreres",
+    "team_b": "Barcelona B",
+    "team_a_logo": "https://media.api-sports.io/football/teams/24580.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/712.png",
+    "league": "Segunda División RFEF - Group 3",
+    "time": "10:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "porreres-vs-barcelona-b-2026-04-05"
+}

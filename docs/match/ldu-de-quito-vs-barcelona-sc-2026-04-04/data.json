@@ -1,0 +1,14 @@
+{
+    "team_a": "LDU de Quito",
+    "team_b": "Barcelona SC",
+    "team_a_logo": "https://media.api-sports.io/football/teams/1158.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/1152.png",
+    "league": "Liga Pro",
+    "time": "00:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "ldu-de-quito-vs-barcelona-sc-2026-04-04"
+}

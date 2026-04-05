@@ -1,0 +1,14 @@
+{
+    "team_a": "CSM Satu Mare",
+    "team_b": "Dumbrăviţa",
+    "team_a_logo": "https://media.api-sports.io/football/teams/16279.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/7469.png",
+    "league": "Liga II",
+    "time": "08:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "csm-satu-mare-vs-dumbravita-2026-04-04"
+}

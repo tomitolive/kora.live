@@ -1,0 +1,14 @@
+{
+    "team_a": "Falkenbergs FF",
+    "team_b": "Ljungskile SK",
+    "team_a_logo": "https://media.api-sports.io/football/teams/812.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/2165.png",
+    "league": "Superettan",
+    "time": "11:00",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "falkenbergs-ff-vs-ljungskile-sk-2026-04-06"
+}

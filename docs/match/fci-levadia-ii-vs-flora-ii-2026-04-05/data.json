@@ -1,0 +1,14 @@
+{
+    "team_a": "FCI Levadia II",
+    "team_b": "Flora II",
+    "team_a_logo": "https://media.api-sports.io/football/teams/3517.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/3518.png",
+    "league": "Esiliiga A",
+    "time": "10:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "fci-levadia-ii-vs-flora-ii-2026-04-05"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Albion Rovers",
+    "team_b": "Celtic II",
+    "team_a_logo": "https://media.api-sports.io/football/teams/6756.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/16845.png",
+    "league": "Football League - Lowland League",
+    "time": "14:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "albion-rovers-vs-celtic-ii-2026-04-04"
+}

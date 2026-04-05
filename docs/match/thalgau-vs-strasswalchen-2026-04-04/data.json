@@ -1,0 +1,14 @@
+{
+    "team_a": "Thalgau",
+    "team_b": "Straßwalchen",
+    "team_a_logo": "https://media.api-sports.io/football/teams/8316.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/4985.png",
+    "league": "Landesliga - Salzburg",
+    "time": "14:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "thalgau-vs-strasswalchen-2026-04-04"
+}

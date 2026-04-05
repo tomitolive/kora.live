@@ -1,0 +1,14 @@
+{
+    "team_a": "Inter",
+    "team_b": "AS Roma",
+    "team_a_logo": "https://media.api-sports.io/football/teams/505.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/497.png",
+    "league": "Serie A",
+    "time": "18:45",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "inter-vs-as-roma-2026-04-05"
+}

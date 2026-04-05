@@ -1,0 +1,14 @@
+{
+    "team_a": "Yate Town",
+    "team_b": "Evesham United",
+    "team_a_logo": "https://media.api-sports.io/football/teams/7762.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/7640.png",
+    "league": "Non League Premier - Southern South",
+    "time": "14:00",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "yate-town-vs-evesham-united-2026-04-06"
+}

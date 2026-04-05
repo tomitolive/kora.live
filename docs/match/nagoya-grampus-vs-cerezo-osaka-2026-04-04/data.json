@@ -1,0 +1,14 @@
+{
+    "team_a": "Nagoya Grampus",
+    "team_b": "Cerezo Osaka",
+    "team_a_logo": "https://media.api-sports.io/football/teams/288.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/291.png",
+    "league": "J1 League",
+    "time": "06:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "nagoya-grampus-vs-cerezo-osaka-2026-04-04"
+}

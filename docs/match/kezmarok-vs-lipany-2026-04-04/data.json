@@ -1,0 +1,14 @@
+{
+    "team_a": "Kežmarok",
+    "team_b": "Lipany",
+    "team_a_logo": "https://media.api-sports.io/football/teams/14989.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/10548.png",
+    "league": "3. liga - East",
+    "time": "14:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "kezmarok-vs-lipany-2026-04-04"
+}

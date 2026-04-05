@@ -1,0 +1,14 @@
+{
+    "team_a": "Sion II",
+    "team_b": "Lancy",
+    "team_a_logo": "https://media.api-sports.io/football/teams/10590.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/6628.png",
+    "league": "1. Liga Classic - Group 1",
+    "time": "13:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "sion-ii-vs-lancy-2026-04-04"
+}

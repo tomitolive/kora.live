@@ -1,0 +1,14 @@
+{
+    "team_a": "Zvezdara",
+    "team_b": "Padinska Skela",
+    "team_a_logo": "https://media.api-sports.io/football/teams/12358.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/22086.png",
+    "league": "Srpska Liga - Belgrade",
+    "time": "16:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "zvezdara-vs-padinska-skela-2026-04-04"
+}

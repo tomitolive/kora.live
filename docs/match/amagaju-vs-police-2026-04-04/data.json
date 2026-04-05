@@ -1,0 +1,14 @@
+{
+    "team_a": "Amagaju",
+    "team_b": "Police",
+    "team_a_logo": "https://media.api-sports.io/football/teams/5311.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/5322.png",
+    "league": "National Soccer League",
+    "time": "13:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "amagaju-vs-police-2026-04-04"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Slovan Sabinov",
+    "team_b": "Poprad",
+    "team_a_logo": "https://media.api-sports.io/football/teams/15043.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/10539.png",
+    "league": "3. liga - East",
+    "time": "14:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "slovan-sabinov-vs-poprad-2026-04-05"
+}

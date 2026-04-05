@@ -1,0 +1,14 @@
+{
+    "team_a": "Grêmio U20",
+    "team_b": "Sao Luiz U20",
+    "team_a_logo": "https://media.api-sports.io/football/teams/13011.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/24936.png",
+    "league": "Estadual Junior U20",
+    "time": "18:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "gremio-u20-vs-sao-luiz-u20-2026-04-04"
+}

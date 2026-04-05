@@ -1,0 +1,14 @@
+{
+    "team_a": "Angby",
+    "team_b": "Sunnersta",
+    "team_a_logo": "https://media.api-sports.io/football/teams/27410.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/23659.png",
+    "league": "Division 2 - Norra Svealand",
+    "time": "11:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "angby-vs-sunnersta-2026-04-05"
+}

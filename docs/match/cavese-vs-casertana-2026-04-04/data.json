@@ -1,0 +1,14 @@
+{
+    "team_a": "Cavese",
+    "team_b": "Casertana",
+    "team_a_logo": "https://media.api-sports.io/football/teams/1712.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/885.png",
+    "league": "Serie C - Girone C",
+    "time": "18:45",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "cavese-vs-casertana-2026-04-04"
+}

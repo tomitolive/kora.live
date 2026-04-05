@@ -1,0 +1,14 @@
+{
+    "team_a": "Fenerbahçe",
+    "team_b": "Beşiktaş",
+    "team_a_logo": "https://media.api-sports.io/football/teams/611.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/549.png",
+    "league": "Süper Lig",
+    "time": "17:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "fenerbahce-vs-besiktas-2026-04-05"
+}

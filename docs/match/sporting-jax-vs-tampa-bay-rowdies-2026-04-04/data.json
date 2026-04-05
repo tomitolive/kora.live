@@ -1,0 +1,14 @@
+{
+    "team_a": "Sporting JAX",
+    "team_b": "Tampa Bay Rowdies",
+    "team_a_logo": "https://media.api-sports.io/football/teams/25959.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/4021.png",
+    "league": "USL Championship",
+    "time": "23:30",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "sporting-jax-vs-tampa-bay-rowdies-2026-04-04"
+}

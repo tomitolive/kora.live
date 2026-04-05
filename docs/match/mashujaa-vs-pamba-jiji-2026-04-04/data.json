@@ -1,0 +1,14 @@
+{
+    "team_a": "Mashujaa",
+    "team_b": "Pamba Jiji",
+    "team_a_logo": "https://media.api-sports.io/football/teams/22176.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/24707.png",
+    "league": "Ligi kuu Bara",
+    "time": "13:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "mashujaa-vs-pamba-jiji-2026-04-04"
+}

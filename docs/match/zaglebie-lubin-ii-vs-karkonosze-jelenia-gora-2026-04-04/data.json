@@ -1,0 +1,14 @@
+{
+    "team_a": "Zagłębie Lubin II",
+    "team_b": "Karkonosze Jelenia Góra",
+    "team_a_logo": "https://media.api-sports.io/football/teams/6963.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/17402.png",
+    "league": "III Liga - Group 3",
+    "time": "10:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "zaglebie-lubin-ii-vs-karkonosze-jelenia-gora-2026-04-04"
+}

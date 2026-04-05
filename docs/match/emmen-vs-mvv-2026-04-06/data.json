@@ -1,0 +1,14 @@
+{
+    "team_a": "Emmen",
+    "team_b": "MVV",
+    "team_a_logo": "https://media.api-sports.io/football/teams/208.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/412.png",
+    "league": "Eerste Divisie",
+    "time": "14:45",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "emmen-vs-mvv-2026-04-06"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "PSK Dinskaya",
+    "team_b": "Lugansk",
+    "team_a_logo": "https://media.api-sports.io/football/teams/26146.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/27647.png",
+    "league": "Second League - Group 1",
+    "time": "11:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "psk-dinskaya-vs-lugansk-2026-04-04"
+}

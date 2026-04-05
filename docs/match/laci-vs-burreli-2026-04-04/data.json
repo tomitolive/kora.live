@@ -1,0 +1,14 @@
+{
+    "team_a": "Laci",
+    "team_b": "Burreli",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2256.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/3324.png",
+    "league": "1st Division",
+    "time": "13:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "laci-vs-burreli-2026-04-04"
+}

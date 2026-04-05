@@ -1,0 +1,14 @@
+{
+    "team_a": "Esportivo U20",
+    "team_b": "Internacional U20",
+    "team_a_logo": "https://media.api-sports.io/football/teams/24929.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/12962.png",
+    "league": "Estadual Junior U20",
+    "time": "19:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "esportivo-u20-vs-internacional-u20-2026-04-04"
+}

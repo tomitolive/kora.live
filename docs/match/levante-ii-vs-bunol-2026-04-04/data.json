@@ -1,0 +1,14 @@
+{
+    "team_a": "Levante II",
+    "team_b": "Buñol",
+    "team_a_logo": "https://media.api-sports.io/football/teams/9591.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/15524.png",
+    "league": "Tercera División RFEF - Group 6",
+    "time": "15:30",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "levante-ii-vs-bunol-2026-04-04"
+}

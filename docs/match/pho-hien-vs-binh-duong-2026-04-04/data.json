@@ -1,0 +1,14 @@
+{
+    "team_a": "Pho Hien",
+    "team_b": "Binh Duong",
+    "team_a_logo": "https://media.api-sports.io/football/teams/9166.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/3668.png",
+    "league": "V.League 1",
+    "time": "11:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "pho-hien-vs-binh-duong-2026-04-04"
+}

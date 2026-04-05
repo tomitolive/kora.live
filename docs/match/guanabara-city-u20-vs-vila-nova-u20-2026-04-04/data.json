@@ -1,0 +1,14 @@
+{
+    "team_a": "Guanabara City U20",
+    "team_b": "Vila Nova U20",
+    "team_a_logo": "https://media.api-sports.io/football/teams/23199.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/13070.png",
+    "league": "Goiano U20",
+    "time": "12:30",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "guanabara-city-u20-vs-vila-nova-u20-2026-04-04"
+}

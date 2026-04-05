@@ -1,0 +1,14 @@
+{
+    "team_a": "Loto Popo",
+    "team_b": "Buffles",
+    "team_a_logo": "https://media.api-sports.io/football/teams/18114.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/5457.png",
+    "league": "Championnat National",
+    "time": "15:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "loto-popo-vs-buffles-2026-04-04"
+}

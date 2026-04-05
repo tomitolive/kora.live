@@ -1,0 +1,14 @@
+{
+    "team_a": "Sassuolo",
+    "team_b": "Cagliari",
+    "team_a_logo": "https://media.api-sports.io/football/teams/488.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/490.png",
+    "league": "Serie A",
+    "time": "13:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "sassuolo-vs-cagliari-2026-04-04"
+}

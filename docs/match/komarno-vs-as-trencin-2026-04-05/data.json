@@ -1,0 +1,14 @@
+{
+    "team_a": "Komárno",
+    "team_b": "AS Trencin",
+    "team_a_logo": "https://media.api-sports.io/football/teams/10535.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/655.png",
+    "league": "Super Liga",
+    "time": "13:30",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "komarno-vs-as-trencin-2026-04-05"
+}

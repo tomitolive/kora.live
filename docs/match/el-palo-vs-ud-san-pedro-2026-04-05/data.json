@@ -1,0 +1,14 @@
+{
+    "team_a": "El Palo",
+    "team_b": "UD San Pedro",
+    "team_a_logo": "https://media.api-sports.io/football/teams/9745.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/17562.png",
+    "league": "Tercera División RFEF - Group 9",
+    "time": "10:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "el-palo-vs-ud-san-pedro-2026-04-05"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Sparta Praha W",
+    "team_b": "Slavia Praha W",
+    "team_a_logo": "https://media.api-sports.io/football/teams/10925.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/10923.png",
+    "league": "1. Liga Women",
+    "time": "12:00",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "sparta-praha-w-vs-slavia-praha-w-2026-04-06"
+}

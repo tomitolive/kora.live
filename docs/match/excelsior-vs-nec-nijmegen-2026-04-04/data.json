@@ -1,0 +1,14 @@
+{
+    "team_a": "Excelsior",
+    "team_b": "NEC Nijmegen",
+    "team_a_logo": "https://media.api-sports.io/football/teams/196.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/413.png",
+    "league": "Eredivisie",
+    "time": "19:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "excelsior-vs-nec-nijmegen-2026-04-04"
+}

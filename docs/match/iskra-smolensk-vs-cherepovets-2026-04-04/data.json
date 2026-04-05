@@ -1,0 +1,14 @@
+{
+    "team_a": "Iskra Smolensk",
+    "team_b": "Cherepovets",
+    "team_a_logo": "https://media.api-sports.io/football/teams/27645.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/24450.png",
+    "league": "Second League - Group 2",
+    "time": "11:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "iskra-smolensk-vs-cherepovets-2026-04-04"
+}

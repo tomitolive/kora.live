@@ -1,0 +1,14 @@
+{
+    "team_a": "Fiorentina W",
+    "team_b": "Juventus W",
+    "team_a_logo": "https://media.api-sports.io/football/teams/1880.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/1886.png",
+    "league": "Serie A Women",
+    "time": "10:30",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "fiorentina-w-vs-juventus-w-2026-04-04"
+}

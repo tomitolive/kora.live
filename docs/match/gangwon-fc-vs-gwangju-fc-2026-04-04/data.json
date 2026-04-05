@@ -1,0 +1,14 @@
+{
+    "team_a": "Gangwon FC",
+    "team_b": "Gwangju FC",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2746.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/2759.png",
+    "league": "K League 1",
+    "time": "07:30",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "gangwon-fc-vs-gwangju-fc-2026-04-04"
+}

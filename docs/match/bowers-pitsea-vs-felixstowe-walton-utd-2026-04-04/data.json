@@ -1,0 +1,14 @@
+{
+    "team_a": "Bowers & Pitsea",
+    "team_b": "Felixstowe & Walton Utd",
+    "team_a_logo": "https://media.api-sports.io/football/teams/7764.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/7642.png",
+    "league": "Non League Div One - Isthmian North",
+    "time": "14:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "bowers-pitsea-vs-felixstowe-walton-utd-2026-04-04"
+}

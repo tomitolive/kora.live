@@ -1,0 +1,14 @@
+{
+    "team_a": "Shenyang Urban",
+    "team_b": "Beijing Guoan",
+    "team_a_logo": "https://media.api-sports.io/football/teams/5684.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/830.png",
+    "league": "Super League",
+    "time": "07:30",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "shenyang-urban-vs-beijing-guoan-2026-04-04"
+}

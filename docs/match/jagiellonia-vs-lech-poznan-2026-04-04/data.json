@@ -1,0 +1,14 @@
+{
+    "team_a": "Jagiellonia",
+    "team_b": "Lech Poznan",
+    "team_a_logo": "https://media.api-sports.io/football/teams/336.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/347.png",
+    "league": "Ekstraklasa",
+    "time": "18:15",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "jagiellonia-vs-lech-poznan-2026-04-04"
+}

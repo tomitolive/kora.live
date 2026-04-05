@@ -1,0 +1,14 @@
+{
+    "team_a": "Midland",
+    "team_b": "Temperley",
+    "team_a_logo": "https://media.api-sports.io/football/teams/1963.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/454.png",
+    "league": "Primera Nacional",
+    "time": "19:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "midland-vs-temperley-2026-04-04"
+}

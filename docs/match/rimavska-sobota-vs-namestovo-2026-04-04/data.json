@@ -1,0 +1,14 @@
+{
+    "team_a": "Rimavská Sobota",
+    "team_b": "Námestovo",
+    "team_a_logo": "https://media.api-sports.io/football/teams/10557.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/14088.png",
+    "league": "3. liga - Center",
+    "time": "14:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "rimavska-sobota-vs-namestovo-2026-04-04"
+}

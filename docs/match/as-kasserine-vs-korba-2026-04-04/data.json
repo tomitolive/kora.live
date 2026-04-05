@@ -1,0 +1,14 @@
+{
+    "team_a": "AS Kasserine",
+    "team_b": "Korba",
+    "team_a_logo": "https://media.api-sports.io/football/teams/10615.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/10617.png",
+    "league": "Ligue 2",
+    "time": "13:30",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "as-kasserine-vs-korba-2026-04-04"
+}

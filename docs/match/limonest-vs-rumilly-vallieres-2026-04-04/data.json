@@ -1,0 +1,14 @@
+{
+    "team_a": "Limonest",
+    "team_b": "Rumilly Vallières",
+    "team_a_logo": "https://media.api-sports.io/football/teams/3071.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/9973.png",
+    "league": "National 2 - Group C",
+    "time": "16:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "limonest-vs-rumilly-vallieres-2026-04-04"
+}

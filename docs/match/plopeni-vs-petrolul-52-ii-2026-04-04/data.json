@@ -1,0 +1,14 @@
+{
+    "team_a": "Plopeni",
+    "team_b": "Petrolul 52 II",
+    "team_a_logo": "https://media.api-sports.io/football/teams/16293.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/24844.png",
+    "league": "Liga III - Serie 2",
+    "time": "14:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "plopeni-vs-petrolul-52-ii-2026-04-04"
+}

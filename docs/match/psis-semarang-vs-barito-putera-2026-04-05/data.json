@@ -1,0 +1,14 @@
+{
+    "team_a": "PSIS Semarang",
+    "team_b": "Barito Putera",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2451.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/2453.png",
+    "league": "Liga 2",
+    "time": "08:30",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "psis-semarang-vs-barito-putera-2026-04-05"
+}

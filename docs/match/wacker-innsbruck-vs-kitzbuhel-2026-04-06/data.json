@@ -1,0 +1,14 @@
+{
+    "team_a": "Wacker Innsbruck",
+    "team_b": "Kitzbühel",
+    "team_a_logo": "https://media.api-sports.io/football/teams/1073.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/4947.png",
+    "league": "Regionalliga - West",
+    "time": "14:00",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "wacker-innsbruck-vs-kitzbuhel-2026-04-06"
+}

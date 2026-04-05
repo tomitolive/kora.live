@@ -1,0 +1,14 @@
+{
+    "team_a": "Trafford",
+    "team_b": "Runcorn Linnets",
+    "team_a_logo": "https://media.api-sports.io/football/teams/7677.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/7666.png",
+    "league": "Non League Div One - Northern West",
+    "time": "14:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "trafford-vs-runcorn-linnets-2026-04-04"
+}

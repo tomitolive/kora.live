@@ -1,0 +1,14 @@
+{
+    "team_a": "Dock Sud",
+    "team_b": "Sportivo Italiano",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2429.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/8388.png",
+    "league": "Primera B Metropolitana",
+    "time": "18:30",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "dock-sud-vs-sportivo-italiano-2026-04-05"
+}

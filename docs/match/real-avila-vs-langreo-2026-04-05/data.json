@@ -1,0 +1,14 @@
+{
+    "team_a": "Real Ávila",
+    "team_b": "Langreo",
+    "team_a_logo": "https://media.api-sports.io/football/teams/9736.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/5265.png",
+    "league": "Segunda División RFEF - Group 1",
+    "time": "15:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "real-avila-vs-langreo-2026-04-05"
+}

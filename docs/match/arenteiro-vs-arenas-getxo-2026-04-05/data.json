@@ -1,0 +1,14 @@
+{
+    "team_a": "Arenteiro",
+    "team_b": "Arenas Getxo",
+    "team_a_logo": "https://media.api-sports.io/football/teams/9604.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/9578.png",
+    "league": "Primera División RFEF - Group 1",
+    "time": "10:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "arenteiro-vs-arenas-getxo-2026-04-05"
+}

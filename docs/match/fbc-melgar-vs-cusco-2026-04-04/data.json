@@ -1,0 +1,14 @@
+{
+    "team_a": "FBC Melgar",
+    "team_b": "Cusco",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2554.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/10013.png",
+    "league": "Primera División",
+    "time": "20:30",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "fbc-melgar-vs-cusco-2026-04-04"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "FC Differdange 03",
+    "team_b": "US Mondorf-les-bains",
+    "team_a_logo": "https://media.api-sports.io/football/teams/684.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/2037.png",
+    "league": "National Division",
+    "time": "16:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "fc-differdange-03-vs-us-mondorf-les-bains-2026-04-04"
+}

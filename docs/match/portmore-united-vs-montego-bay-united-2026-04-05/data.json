@@ -1,0 +1,14 @@
+{
+    "team_a": "Portmore United",
+    "team_b": "Montego Bay United",
+    "team_a_logo": "https://media.api-sports.io/football/teams/3443.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/3441.png",
+    "league": "Premier League",
+    "time": "20:30",
+    "date": "2026-04-05",
+    "channel": "beIN Sports 1 HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": true,
+    "slug": "portmore-united-vs-montego-bay-united-2026-04-05"
+}

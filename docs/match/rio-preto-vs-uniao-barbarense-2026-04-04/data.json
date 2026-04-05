@@ -1,0 +1,14 @@
+{
+    "team_a": "Rio Preto",
+    "team_b": "Uniao Barbarense",
+    "team_a_logo": "https://media.api-sports.io/football/teams/10040.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/22954.png",
+    "league": "Paulista - A3",
+    "time": "18:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "rio-preto-vs-uniao-barbarense-2026-04-04"
+}

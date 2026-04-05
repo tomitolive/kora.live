@@ -1,0 +1,14 @@
+{
+    "team_a": "Szeged 2011",
+    "team_b": "Vasas",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2418.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/675.png",
+    "league": "NB II",
+    "time": "15:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "szeged-2011-vs-vasas-2026-04-05"
+}

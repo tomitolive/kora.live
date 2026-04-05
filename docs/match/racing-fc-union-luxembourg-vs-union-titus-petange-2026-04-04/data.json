@@ -1,0 +1,14 @@
+{
+    "team_a": "Racing FC Union Luxembourg",
+    "team_b": "Union Titus Petange",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2030.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/2032.png",
+    "league": "National Division",
+    "time": "16:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "racing-fc-union-luxembourg-vs-union-titus-petange-2026-04-04"
+}

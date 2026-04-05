@@ -1,0 +1,14 @@
+{
+    "team_a": "Portuguesa Santista",
+    "team_b": "Paulista",
+    "team_a_logo": "https://media.api-sports.io/football/teams/10023.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/10038.png",
+    "league": "Paulista - A3",
+    "time": "13:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "portuguesa-santista-vs-paulista-2026-04-05"
+}

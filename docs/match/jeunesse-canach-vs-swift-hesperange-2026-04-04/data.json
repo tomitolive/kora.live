@@ -1,0 +1,14 @@
+{
+    "team_a": "Jeunesse Canach",
+    "team_b": "Swift Hesperange",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2029.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/11907.png",
+    "league": "National Division",
+    "time": "16:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "jeunesse-canach-vs-swift-hesperange-2026-04-04"
+}

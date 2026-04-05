@@ -1,0 +1,14 @@
+{
+    "team_a": "Accra Lions",
+    "team_b": "Home Stars",
+    "team_a_logo": "https://media.api-sports.io/football/teams/17992.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/22768.png",
+    "league": "Division One League",
+    "time": "15:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "accra-lions-vs-home-stars-2026-04-05"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Gemert",
+    "team_b": "Kloetinge",
+    "team_a_logo": "https://media.api-sports.io/football/teams/1230.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/3930.png",
+    "league": "Derde Divisie - Sunday",
+    "time": "13:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "gemert-vs-kloetinge-2026-04-04"
+}

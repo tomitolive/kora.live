@@ -1,0 +1,14 @@
+{
+    "team_a": "Vitória U20",
+    "team_b": "Leonico U20",
+    "team_a_logo": "https://media.api-sports.io/football/teams/13072.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/23283.png",
+    "league": "Baiano U20",
+    "time": "12:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "vitoria-u20-vs-leonico-u20-2026-04-04"
+}

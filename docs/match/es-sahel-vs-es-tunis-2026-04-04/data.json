@@ -1,0 +1,14 @@
+{
+    "team_a": "ES Sahel",
+    "team_b": "ES Tunis",
+    "team_a_logo": "https://media.api-sports.io/football/teams/990.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/980.png",
+    "league": "Ligue 1",
+    "time": "13:30",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "es-sahel-vs-es-tunis-2026-04-04"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Bohemians",
+    "team_b": "Waterford",
+    "team_a_logo": "https://media.api-sports.io/football/teams/3840.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/3845.png",
+    "league": "Premier Division",
+    "time": "16:00",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "bohemians-vs-waterford-2026-04-06"
+}

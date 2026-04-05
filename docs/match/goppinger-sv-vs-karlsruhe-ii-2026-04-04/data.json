@@ -1,0 +1,14 @@
+{
+    "team_a": "Göppinger SV",
+    "team_b": "Karlsruhe II",
+    "team_a_logo": "https://media.api-sports.io/football/teams/12777.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/26166.png",
+    "league": "Oberliga - Baden-Württemberg",
+    "time": "12:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "goppinger-sv-vs-karlsruhe-ii-2026-04-04"
+}

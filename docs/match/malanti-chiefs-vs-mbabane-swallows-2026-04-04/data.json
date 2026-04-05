@@ -1,0 +1,14 @@
+{
+    "team_a": "Malanti Chiefs",
+    "team_b": "Mbabane Swallows",
+    "team_a_logo": "https://media.api-sports.io/football/teams/16816.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/8107.png",
+    "league": "Premier League",
+    "time": "13:00",
+    "date": "2026-04-04",
+    "channel": "beIN Sports 1 HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "malanti-chiefs-vs-mbabane-swallows-2026-04-04"
+}

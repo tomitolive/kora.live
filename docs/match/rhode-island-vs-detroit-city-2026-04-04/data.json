@@ -1,0 +1,14 @@
+{
+    "team_a": "Rhode Island",
+    "team_b": "Detroit City",
+    "team_a_logo": "https://media.api-sports.io/football/teams/22855.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/9043.png",
+    "league": "USL Championship",
+    "time": "20:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "rhode-island-vs-detroit-city-2026-04-04"
+}

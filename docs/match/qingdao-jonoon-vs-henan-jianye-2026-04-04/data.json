@@ -1,0 +1,14 @@
+{
+    "team_a": "Qingdao Jonoon",
+    "team_b": "Henan Jianye",
+    "team_a_logo": "https://media.api-sports.io/football/teams/1431.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/840.png",
+    "league": "Super League",
+    "time": "07:30",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "qingdao-jonoon-vs-henan-jianye-2026-04-04"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Kelty Hearts",
+    "team_b": "Queen of the South",
+    "team_a_logo": "https://media.api-sports.io/football/teams/6773.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/1384.png",
+    "league": "League One",
+    "time": "14:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "kelty-hearts-vs-queen-of-the-south-2026-04-04"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Atlético Porcuna",
+    "team_b": "Ciudad de Torredonjimeno",
+    "team_a_logo": "https://media.api-sports.io/football/teams/7523.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/9743.png",
+    "league": "Tercera División RFEF - Group 9",
+    "time": "16:30",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "atletico-porcuna-vs-ciudad-de-torredonjimeno-2026-04-04"
+}

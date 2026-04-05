@@ -1,0 +1,14 @@
+{
+    "team_a": "Joseense",
+    "team_b": "ECUS",
+    "team_a_logo": "https://media.api-sports.io/football/teams/22950.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/23573.png",
+    "league": "Paulista - A4",
+    "time": "18:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "joseense-vs-ecus-2026-04-04"
+}

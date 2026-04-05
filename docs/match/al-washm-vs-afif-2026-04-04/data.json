@@ -1,0 +1,14 @@
+{
+    "team_a": "Al-Washm",
+    "team_b": "Afif",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2953.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/2970.png",
+    "league": "Division 2",
+    "time": "13:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "al-washm-vs-afif-2026-04-04"
+}

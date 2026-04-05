@@ -97,21 +97,41 @@ class CupLiveScraper:
                     await page.goto(target_url, wait_until="networkidle", timeout=60000)
                     
                     # 1. Look for aplr-menu links (Specific user requirement)
-                    menu_links = await page.query_selector_all(".aplr-menu a.aplr-link")
+                    # Use a recursive check across all frames as menus are often in side-loaded players
                     sources = []
-                    for link in menu_links:
-                        href = await link.get_attribute("href")
-                        text = await link.inner_text()
-                        if href:
-                            sources.append({"name": text.strip() or f"سيرفر {len(sources)+1}", "url": href})
+                    from urllib.parse import urljoin
                     
-                    # 2. Fallback to iframes if no menu links found
-                    if not sources:
-                        iframes = await page.query_selector_all("iframe[src]")
-                        for ifr in iframes:
-                            src = await ifr.get_attribute("src")
-                            if src and "google" not in src and "ads" not in src:
-                                sources.append({"name": f"سيرفر {len(sources)+1}", "url": src})
+                    for frame in page.frames:
+                        try:
+                            # Support multiple selector variants for maximum coverage
+                            menu_links = await frame.query_selector_all(".aplr-menu a.aplr-link, ul.aplr-menu li a")
+                            for link in menu_links:
+                                href = await link.get_attribute("href")
+                                text = await link.inner_text()
+                                if href and href != "#":
+                                    full_url = urljoin(frame.url, href)
+                                    # Avoid duplicates
+                                    if not any(s['url'] == full_url for s in sources):
+                                        sources.append({
+                                            "name": text.strip() or f"سيرفر {len(sources)+1}", 
+                                            "url": full_url
+                                        })
+                        except:
+                            continue
+                    
+                    # 2. Fallback to iframes if no menu links found or alongside them
+                    # Check all frames for iframes as well, but main page is usually enough
+                    for frame in page.frames:
+                        try:
+                            iframes = await frame.query_selector_all("iframe[src]")
+                            for ifr in iframes:
+                                src = await ifr.get_attribute("src")
+                                if src and "google" not in src and "ads" not in src and not src.startswith("data:"):
+                                    full_src = urljoin(frame.url, src)
+                                    if not any(s['url'] == full_src for s in sources):
+                                        sources.append({"name": f"سيرفر {len(sources)+1}", "url": full_src})
+                        except:
+                            continue
                     
                     return sources
             except Exception as e:

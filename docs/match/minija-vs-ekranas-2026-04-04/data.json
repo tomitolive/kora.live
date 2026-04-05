@@ -1,0 +1,14 @@
+{
+    "team_a": "Minija",
+    "team_b": "Ekranas",
+    "team_a_logo": "https://media.api-sports.io/football/teams/3864.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/10696.png",
+    "league": "1 Lyga",
+    "time": "11:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "minija-vs-ekranas-2026-04-04"
+}

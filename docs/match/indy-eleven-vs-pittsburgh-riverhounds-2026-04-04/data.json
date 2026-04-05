@@ -1,0 +1,14 @@
+{
+    "team_a": "Indy Eleven",
+    "team_b": "Pittsburgh Riverhounds",
+    "team_a_logo": "https://media.api-sports.io/football/teams/3996.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/4010.png",
+    "league": "USL Championship",
+    "time": "23:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "indy-eleven-vs-pittsburgh-riverhounds-2026-04-04"
+}

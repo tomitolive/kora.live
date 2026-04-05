@@ -1,0 +1,14 @@
+{
+    "team_a": "Aberystwyth Town",
+    "team_b": "Llantwit Major",
+    "team_a_logo": "https://media.api-sports.io/football/teams/351.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/2196.png",
+    "league": "FAW Championship",
+    "time": "13:30",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "aberystwyth-town-vs-llantwit-major-2026-04-04"
+}

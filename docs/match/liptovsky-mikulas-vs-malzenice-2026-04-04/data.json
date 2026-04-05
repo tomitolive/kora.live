@@ -1,0 +1,14 @@
+{
+    "team_a": "Liptovský Mikuláš",
+    "team_b": "Malženice",
+    "team_a_logo": "https://media.api-sports.io/football/teams/10536.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/14058.png",
+    "league": "2. liga",
+    "time": "14:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "liptovsky-mikulas-vs-malzenice-2026-04-04"
+}

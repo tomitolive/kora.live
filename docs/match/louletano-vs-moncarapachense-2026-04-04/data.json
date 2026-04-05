@@ -1,0 +1,14 @@
+{
+    "team_a": "Louletano",
+    "team_b": "Moncarapachense",
+    "team_a_logo": "https://media.api-sports.io/football/teams/4758.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/4847.png",
+    "league": "Campeonato de Portugal Prio - Group D",
+    "time": "15:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "louletano-vs-moncarapachense-2026-04-04"
+}

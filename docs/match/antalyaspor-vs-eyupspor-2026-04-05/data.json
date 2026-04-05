@@ -1,0 +1,14 @@
+{
+    "team_a": "Antalyaspor",
+    "team_b": "Eyüpspor",
+    "team_a_logo": "https://media.api-sports.io/football/teams/1005.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/3588.png",
+    "league": "Süper Lig",
+    "time": "14:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "antalyaspor-vs-eyupspor-2026-04-05"
+}

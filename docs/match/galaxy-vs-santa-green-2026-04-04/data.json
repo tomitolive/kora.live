@@ -1,0 +1,14 @@
+{
+    "team_a": "Galaxy",
+    "team_b": "Santa Green",
+    "team_a_logo": "https://media.api-sports.io/football/teams/5422.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/26691.png",
+    "league": "Premier League",
+    "time": "13:30",
+    "date": "2026-04-04",
+    "channel": "beIN Sports 1 HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "galaxy-vs-santa-green-2026-04-04"
+}

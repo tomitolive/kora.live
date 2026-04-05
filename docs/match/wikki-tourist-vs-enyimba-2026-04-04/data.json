@@ -1,0 +1,14 @@
+{
+    "team_a": "Wikki Tourist",
+    "team_b": "Enyimba",
+    "team_a_logo": "https://media.api-sports.io/football/teams/5194.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/5177.png",
+    "league": "NPFL",
+    "time": "15:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "wikki-tourist-vs-enyimba-2026-04-04"
+}

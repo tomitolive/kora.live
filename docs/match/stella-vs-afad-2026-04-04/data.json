@@ -1,0 +1,14 @@
+{
+    "team_a": "Stella",
+    "team_b": "AFAD",
+    "team_a_logo": "https://media.api-sports.io/football/teams/16588.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/4511.png",
+    "league": "Ligue 1",
+    "time": "16:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "stella-vs-afad-2026-04-04"
+}

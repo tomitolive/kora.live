@@ -1,42 +1,209 @@
 {% extends "base.html" %}
 
+{% block extra_css %}
+    .tabs {
+        display: flex;
+        justify-content: center;
+        gap: 1rem;
+        margin-bottom: 2rem;
+        overflow-x: auto;
+        padding-bottom: 0.5rem;
+    }
+    .tab-btn {
+        background: var(--surface);
+        border: 1px solid var(--border);
+        padding: 0.8rem 2rem;
+        border-radius: 50px;
+        font-weight: 800;
+        cursor: pointer;
+        transition: var(--transition);
+        white-space: nowrap;
+    }
+    .tab-btn.active {
+        background: var(--primary);
+        color: var(--white);
+        border-color: var(--primary);
+        box-shadow: 0 4px 12px rgba(10, 92, 42, 0.2);
+    }
+    .league-group {
+        margin-bottom: 2.5rem;
+    }
+    .league-header {
+        background: linear-gradient(to left, var(--surface), transparent);
+        padding: 0.8rem 1.2rem;
+        border-right: 5px solid var(--primary);
+        font-weight: 800;
+        margin-bottom: 1.2rem;
+        border-radius: 4px;
+        font-size: 1.2rem;
+        color: var(--text-main);
+    }
+    .match-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+        gap: 1.2rem;
+    }
+    .match-card {
+        background: var(--white);
+        border: 1px solid var(--border);
+        border-radius: 12px;
+        padding: 1.2rem;
+        transition: var(--transition);
+        display: flex;
+        flex-direction: column;
+        gap: 1rem;
+        box-shadow: var(--shadow);
+        position: relative;
+    }
+    .match-card:hover {
+        border-color: var(--primary);
+        box-shadow: 0 8px 24px rgba(0,0,0,0.08);
+    }
+    .match-main {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .team {
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 0.6rem;
+    }
+    .team-name {
+        font-weight: 800;
+        font-size: 0.95rem;
+        color: var(--text-main);
+    }
+    .match-status {
+        text-align: center;
+        padding: 0 1rem;
+    }
+    .vs-text {
+        font-weight: 900;
+        color: var(--primary);
+        font-size: 1.2rem;
+        display: block;
+        margin-bottom: 0.2rem;
+    }
+    .time-text {
+        font-size: 0.85rem;
+        font-weight: 700;
+        color: var(--text-secondary);
+    }
+    .live-badge {
+        background: #e74c3c;
+        color: white;
+        padding: 2px 8px;
+        border-radius: 4px;
+        font-size: 0.7rem;
+        font-weight: 900;
+        animation: pulse 1.5s infinite;
+    }
+    @keyframes pulse {
+        0% { opacity: 1; }
+        50% { opacity: 0.5; }
+        100% { opacity: 1; }
+    }
+    .meta-footer {
+        display: flex;
+        justify-content: space-between;
+        font-size: 0.8rem;
+        color: var(--text-secondary);
+        font-weight: 700;
+        padding-top: 0.8rem;
+        border-top: 1px dashed var(--border);
+    }
+    .meta-item {
+        display: flex;
+        align-items: center;
+        gap: 0.4rem;
+    }
+{% endblock %}
+
 {% block content %}
 <section class="matches-section">
-    <h2 style="margin-bottom: 1.5rem; font-weight: 800; border-right: 4px solid var(--primary); padding-right: 0.8rem;">مباريات اليوم</h2>
-    <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 1rem;">
-        {% for match in matches %}
-        <a href="/match/{{ match.slug }}/" class="match-card" style="background: var(--surface); padding: 1.2rem; border-radius: 8px; border: 1px solid var(--border); display: flex; flex-direction: column; align-items: center; text-align: center;">
-            <div style="font-size: 0.8rem; color: var(--primary); font-weight: 700; margin-bottom: 0.8rem;">{{ match.league }}</div>
-            <div style="display: flex; justify-content: space-between; align-items: center; width: 100%; margin-bottom: 1rem;">
-                <div style="flex: 1; font-weight: 700;">{{ match.team_a }}</div>
-                <div style="padding: 0 1rem; color: var(--primary); font-weight: 800;">VS</div>
-                <div style="flex: 1; font-weight: 700;">{{ match.team_b }}</div>
+    <div class="tabs">
+        <button id="btn-{{ dates.yesterday }}" class="tab-btn" onclick="showDate('{{ dates.yesterday }}')">مباريات الأمس</button>
+        <button id="btn-{{ dates.today }}" class="tab-btn active" onclick="showDate('{{ dates.today }}')">مباريات اليوم</button>
+        <button id="btn-{{ dates.tomorrow }}" class="tab-btn" onclick="showDate('{{ dates.tomorrow }}')">مباريات الغد</button>
+    </div>
+
+    {% for date, leagues in schedule.items() %}
+    <div id="date-{{ date }}" class="date-group" style="display: {{ 'block' if date == dates.today else 'none' }};">
+        {% for league, matches in leagues.items() %}
+        <div class="league-group">
+            <h3 class="league-header">{{ league }}</h3>
+            <div class="match-grid">
+                {% for match in matches %}
+                <a href="match/{{ match.slug }}/index.html" class="match-card">
+                    <div class="match-main">
+                        <div class="team">
+                            <img src="{{ match.team_a_logo }}" alt="{{ match.team_a }}" class="team-logo-img" onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed={{ match.team_a }}'">
+                            <span class="team-name">{{ match.team_a }}</span>
+                        </div>
+                        <div class="match-status">
+                            <span class="vs-text">VS</span>
+                            <span class="time-text">{{ match.time }}</span>
+                            {% if match.live %}
+                            <div style="margin-top: 0.4rem;"><span class="live-badge">مباشر</span></div>
+                            {% endif %}
+                        </div>
+                        <div class="team">
+                            <img src="{{ match.team_b_logo }}" alt="{{ match.team_b }}" class="team-logo-img" onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed={{ match.team_b }}'">
+                            <span class="team-name">{{ match.team_b }}</span>
+                        </div>
+                    </div>
+                    <div class="meta-footer">
+                        <div class="meta-item">📺 {{ match.channel or 'TBD' }}</div>
+                        <div class="meta-item">🎙️ {{ match.commentator or 'TBD' }}</div>
+                    </div>
+                </a>
+                {% endfor %}
             </div>
-            <div style="font-size: 0.9rem; color: var(--text-secondary);">
-                <span>🕒 {{ match.time }}</span>
-                <span style="margin-right: 1rem; font-weight: 700; color: {{ '#0A5C2A' if match.live else '#555555' }}">{{ 'مباشر' if match.live else 'لم تبدأ' }}</span>
-            </div>
-        </a>
+        </div>
         {% endfor %}
     </div>
+    {% endfor %}
 </section>
 
 <section class="news-section" style="margin-top: 4rem;">
-    <h2 style="margin-bottom: 1.5rem; font-weight: 800; border-right: 4px solid var(--primary); padding-right: 0.8rem;">آخر الأخبار</h2>
-    <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 1.5rem;">
+    <h2 style="margin-bottom: 2rem; font-weight: 900; border-right: 5px solid var(--primary); padding-right: 1rem; font-size: 1.8rem;">آخر الأخبار الرياضية</h2>
+    <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 2rem;">
         {% for article in news %}
-        <a href="/news/{{ article.slug }}/" class="news-card" style="background: var(--white); border-radius: 10px; overflow: hidden; border: 1px solid var(--border); box-shadow: var(--shadow);">
-            <img src="{{ article.image }}" alt="{{ article.title }}" style="width: 100%; height: 180px; object-fit: cover;">
-            <div style="padding: 1.2rem;">
-                <h3 style="font-size: 1.1rem; font-weight: 800; margin-bottom: 0.8rem; line-height: 1.4;">{{ article.title }}</h3>
-                <p style="font-size: 0.9rem; color: var(--text-secondary); margin-bottom: 1rem;">{{ article.excerpt }}</p>
-                <div style="font-size: 0.8rem; color: var(--primary); font-weight: 700;">📅 {{ article.date }}</div>
+        <a href="news/{{ article.slug }}/index.html" class="news-card" style="background: var(--white); border-radius: 15px; overflow: hidden; border: 1px solid var(--border); box-shadow: var(--shadow); transition: var(--transition); display: flex; flex-direction: column;">
+            <div style="position: relative; overflow: hidden;">
+                <img src="{{ article.image }}" alt="{{ article.title }}" style="width: 100%; height: 200px; object-fit: cover; transition: var(--transition);">
+            </div>
+            <div style="padding: 1.5rem; flex: 1; display: flex; flex-direction: column; justify-content: space-between;">
+                <div>
+                    <h3 style="font-size: 1.2rem; font-weight: 800; margin-bottom: 1rem; line-height: 1.5; color: var(--text-main);">{{ article.title }}</h3>
+                    <p style="font-size: 0.95rem; color: var(--text-secondary); margin-bottom: 1.5rem; line-height: 1.6;">{{ article.excerpt }}</p>
+                </div>
+                <div style="font-size: 0.85rem; color: var(--primary); font-weight: 800; display: flex; align-items: center; gap: 0.5rem;">
+                    <span>📅</span> {{ article.date }}
+                </div>
             </div>
         </a>
         {% endfor %}
     </div>
-    <div style="text-align: center; margin-top: 2rem;">
-        <a href="/news/" class="btn">عرض كل الأخبار</a>
-    </div>
 </section>
+{% endblock %}
+
+{% block extra_js %}
+<script>
+    function showDate(date) {
+        // Hide all date groups
+        document.querySelectorAll('.date-group').forEach(el => el.style.display = 'none');
+        // Show target date group
+        const target = document.getElementById('date-' + date);
+        if (target) target.style.display = 'block';
+        
+        // Update button states
+        document.querySelectorAll('.tab-btn').forEach(btn => btn.classList.remove('active'));
+        const activeBtn = document.getElementById('btn-' + date);
+        if (activeBtn) activeBtn.classList.add('active');
+    }
+</script>
 {% endblock %}

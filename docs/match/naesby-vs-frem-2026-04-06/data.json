@@ -1,0 +1,14 @@
+{
+    "team_a": "Næsby",
+    "team_b": "Frem",
+    "team_a_logo": "https://media.api-sports.io/football/teams/8635.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/6018.png",
+    "league": "3. Division",
+    "time": "12:00",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "naesby-vs-frem-2026-04-06"
+}

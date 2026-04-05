@@ -1,0 +1,14 @@
+{
+    "team_a": "Jendouba Sport",
+    "team_b": "Ariana",
+    "team_a_logo": "https://media.api-sports.io/football/teams/10611.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/10598.png",
+    "league": "Ligue 2",
+    "time": "13:30",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "jendouba-sport-vs-ariana-2026-04-04"
+}

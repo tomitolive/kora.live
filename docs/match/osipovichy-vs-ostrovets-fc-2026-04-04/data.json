@@ -1,0 +1,14 @@
+{
+    "team_a": "Osipovichy",
+    "team_b": "Ostrovets FC",
+    "team_a_logo": "https://media.api-sports.io/football/teams/4273.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/13149.png",
+    "league": "1. Division",
+    "time": "14:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "osipovichy-vs-ostrovets-fc-2026-04-04"
+}

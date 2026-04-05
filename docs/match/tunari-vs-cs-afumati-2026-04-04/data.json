@@ -1,0 +1,14 @@
+{
+    "team_a": "Tunari",
+    "team_b": "CS Afumati",
+    "team_a_logo": "https://media.api-sports.io/football/teams/6908.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/2608.png",
+    "league": "Liga II",
+    "time": "08:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "tunari-vs-cs-afumati-2026-04-04"
+}

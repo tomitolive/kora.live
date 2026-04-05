@@ -1,0 +1,14 @@
+{
+    "team_a": "Paderborn II",
+    "team_b": "Rot-weiss Oberhausen",
+    "team_a_logo": "https://media.api-sports.io/football/teams/12827.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/1658.png",
+    "league": "Regionalliga - West",
+    "time": "12:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "paderborn-ii-vs-rot-weiss-oberhausen-2026-04-05"
+}

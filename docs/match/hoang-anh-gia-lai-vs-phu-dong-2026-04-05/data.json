@@ -1,0 +1,14 @@
+{
+    "team_a": "Hoang Anh Gia Lai",
+    "team_b": "Phu Dong",
+    "team_a_logo": "https://media.api-sports.io/football/teams/3673.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/9167.png",
+    "league": "V.League 1",
+    "time": "10:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "hoang-anh-gia-lai-vs-phu-dong-2026-04-05"
+}

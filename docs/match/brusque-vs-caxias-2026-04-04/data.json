@@ -1,0 +1,14 @@
+{
+    "team_a": "Brusque",
+    "team_b": "Caxias",
+    "team_a_logo": "https://media.api-sports.io/football/teams/1211.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/7770.png",
+    "league": "Serie C",
+    "time": "21:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "brusque-vs-caxias-2026-04-04"
+}

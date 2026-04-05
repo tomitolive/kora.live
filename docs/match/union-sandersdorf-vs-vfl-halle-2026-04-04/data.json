@@ -1,0 +1,14 @@
+{
+    "team_a": "Union Sandersdorf",
+    "team_b": "VfL Halle",
+    "team_a_logo": "https://media.api-sports.io/football/teams/12885.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/14812.png",
+    "league": "Oberliga - Nordost-Süd",
+    "time": "12:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "union-sandersdorf-vs-vfl-halle-2026-04-04"
+}

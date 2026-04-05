@@ -1,0 +1,14 @@
+{
+    "team_a": "Rousset-Ste Victoire",
+    "team_b": "Nimes",
+    "team_a_logo": "https://media.api-sports.io/football/teams/3292.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/92.png",
+    "league": "National 2 - Group C",
+    "time": "16:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "rousset-ste-victoire-vs-nimes-2026-04-04"
+}

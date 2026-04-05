@@ -1,0 +1,14 @@
+{
+    "team_a": "PAOK II",
+    "team_b": "Nestos Chrisoupolis",
+    "team_a_logo": "https://media.api-sports.io/football/teams/18018.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/12367.png",
+    "league": "Super League 2",
+    "time": "12:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "paok-ii-vs-nestos-chrisoupolis-2026-04-05"
+}

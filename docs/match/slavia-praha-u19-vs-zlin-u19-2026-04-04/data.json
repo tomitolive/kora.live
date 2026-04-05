@@ -1,0 +1,14 @@
+{
+    "team_a": "Slavia Praha U19",
+    "team_b": "Zlín U19",
+    "team_a_logo": "https://media.api-sports.io/football/teams/7933.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/14840.png",
+    "league": "1. Liga U19",
+    "time": "11:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "slavia-praha-u19-vs-zlin-u19-2026-04-04"
+}

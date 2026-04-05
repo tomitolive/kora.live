@@ -1,0 +1,14 @@
+{
+    "team_a": "PRO Vercelli",
+    "team_b": "Inter U23",
+    "team_a_logo": "https://media.api-sports.io/football/teams/526.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/26355.png",
+    "league": "Serie C - Girone A",
+    "time": "12:30",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "pro-vercelli-vs-inter-u23-2026-04-04"
+}

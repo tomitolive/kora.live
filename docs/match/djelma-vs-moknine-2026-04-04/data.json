@@ -1,0 +1,14 @@
+{
+    "team_a": "Djelma",
+    "team_b": "Moknine",
+    "team_a_logo": "https://media.api-sports.io/football/teams/10661.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/10624.png",
+    "league": "Ligue 2",
+    "time": "13:30",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "djelma-vs-moknine-2026-04-04"
+}

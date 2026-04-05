@@ -1,0 +1,14 @@
+{
+    "team_a": "Louisville City",
+    "team_b": "Charleston Battery",
+    "team_a_logo": "https://media.api-sports.io/football/teams/4000.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/3990.png",
+    "league": "USL Championship",
+    "time": "20:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "louisville-city-vs-charleston-battery-2026-04-04"
+}

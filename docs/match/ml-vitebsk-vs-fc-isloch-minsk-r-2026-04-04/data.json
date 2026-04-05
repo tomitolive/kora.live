@@ -1,0 +1,14 @@
+{
+    "team_a": "ML Vitebsk",
+    "team_b": "FC Isloch Minsk R.",
+    "team_a_logo": "https://media.api-sports.io/football/teams/7808.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/391.png",
+    "league": "Premier League",
+    "time": "13:00",
+    "date": "2026-04-04",
+    "channel": "beIN Sports 1 HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "ml-vitebsk-vs-fc-isloch-minsk-r-2026-04-04"
+}

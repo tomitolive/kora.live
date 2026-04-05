@@ -1,0 +1,14 @@
+{
+    "team_a": "Golden Kicks",
+    "team_b": "Golden Warriors",
+    "team_a_logo": "https://media.api-sports.io/football/teams/21074.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/26797.png",
+    "league": "Division One League",
+    "time": "15:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "golden-kicks-vs-golden-warriors-2026-04-04"
+}

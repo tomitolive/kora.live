@@ -1,0 +1,14 @@
+{
+    "team_a": "Mekelle Kenema",
+    "team_b": "Sidama Bunna",
+    "team_a_logo": "https://media.api-sports.io/football/teams/4121.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/4123.png",
+    "league": "Premier League",
+    "time": "15:00",
+    "date": "2026-04-04",
+    "channel": "beIN Sports 1 HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "mekelle-kenema-vs-sidama-bunna-2026-04-04"
+}

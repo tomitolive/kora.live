@@ -1,0 +1,14 @@
+{
+    "team_a": "Omiya Ardija",
+    "team_b": "FC Gifu",
+    "team_a_logo": "https://media.api-sports.io/football/teams/313.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/297.png",
+    "league": "J2/J3 League",
+    "time": "05:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "omiya-ardija-vs-fc-gifu-2026-04-04"
+}

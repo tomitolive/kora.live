@@ -1,0 +1,14 @@
+{
+    "team_a": "Aurora",
+    "team_b": "Antigua GFC",
+    "team_a_logo": "https://media.api-sports.io/football/teams/10154.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/3656.png",
+    "league": "Liga Nacional",
+    "time": "17:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "aurora-vs-antigua-gfc-2026-04-04"
+}

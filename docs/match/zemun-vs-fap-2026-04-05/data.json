@@ -1,0 +1,14 @@
+{
+    "team_a": "Zemun",
+    "team_b": "FAP",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2642.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/19845.png",
+    "league": "Prva Liga",
+    "time": "13:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "zemun-vs-fap-2026-04-05"
+}

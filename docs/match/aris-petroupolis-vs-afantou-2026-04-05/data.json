@@ -1,0 +1,14 @@
+{
+    "team_a": "Aris Petroupolis",
+    "team_b": "Afantou",
+    "team_a_logo": "https://media.api-sports.io/football/teams/20676.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/20043.png",
+    "league": "Gamma Ethniki - Group 5",
+    "time": "12:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "aris-petroupolis-vs-afantou-2026-04-05"
+}

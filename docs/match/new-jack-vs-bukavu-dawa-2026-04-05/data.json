@@ -1,0 +1,14 @@
+{
+    "team_a": "New Jack",
+    "team_b": "Bukavu Dawa",
+    "team_a_logo": "https://media.api-sports.io/football/teams/24108.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/8573.png",
+    "league": "Ligue 1",
+    "time": "10:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "new-jack-vs-bukavu-dawa-2026-04-05"
+}

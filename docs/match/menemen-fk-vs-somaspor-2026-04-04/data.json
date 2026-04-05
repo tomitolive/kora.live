@@ -1,0 +1,14 @@
+{
+    "team_a": "Menemen FK",
+    "team_b": "Somaspor",
+    "team_a_logo": "https://media.api-sports.io/football/teams/3599.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/6538.png",
+    "league": "2. Lig",
+    "time": "13:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "menemen-fk-vs-somaspor-2026-04-04"
+}

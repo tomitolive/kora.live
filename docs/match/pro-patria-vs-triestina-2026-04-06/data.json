@@ -1,0 +1,14 @@
+{
+    "team_a": "Pro Patria",
+    "team_b": "Triestina",
+    "team_a_logo": "https://media.api-sports.io/football/teams/1706.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/877.png",
+    "league": "Serie C - Girone A",
+    "time": "12:30",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "pro-patria-vs-triestina-2026-04-06"
+}

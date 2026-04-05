@@ -1,16 +1,20 @@
 import os
 import json
 import logging
+import datetime
 from jinja2 import Environment, FileSystemLoader
 from slugify import slugify
+from news_generator import NewsGenerator
 from config import (
     TEMPLATES_DIR, DOCS_DIR, SCRAPED_URLS_FILE, COLORS
 )
 
 class SiteGenerator:
     def __init__(self):
+        import os
         self.env = Environment(loader=FileSystemLoader(TEMPLATES_DIR))
         self.scraped_urls = self.load_scraped_urls()
+        self.news_gen = NewsGenerator()
         self.common_data = {
             "colors": COLORS
         }
@@ -57,27 +61,29 @@ class SiteGenerator:
         
         html = template.render(
             **match_data,
-            watch_url=watch_url,
+            watch_url="watch.html" if has_servers else None,
             colors=COLORS
         )
-        with open(output_path, "w") as f:
-            f.write(html)
-            
+        # 3. Generate match data JSON for dynamic updates
+        self.generate_match_json(match_data)
+        
         # 4. Generate watch.html if servers available
         if has_servers:
             self.generate_watch_page(match_data)
         
-        self.scraped_urls[f"/match/{slug}/"] = {
+        self.scraped_urls[f"match/{slug}/"] = {
             "type": "match",
             "slug": slug,
             "title": f"{match_data['team_a']} vs {match_data['team_b']}",
             "team_a": match_data['team_a'],
             "team_b": match_data['team_b'],
+            "team_a_logo": match_data.get('team_a_logo'),
+            "team_b_logo": match_data.get('team_b_logo'),
             "league": match_data['league'],
             "time": match_data['time'],
             "date": match_data['date'],
             "live": match_data.get('live', False),
-            "watch_url": watch_url
+            "watch_url": "watch.html" if has_servers else None
         }
         self.save_scraped_urls()
 
@@ -88,17 +94,31 @@ class SiteGenerator:
         output_path = os.path.join(match_dir, "watch.html")
         template = self.env.get_template("watch.html")
         
-        # Use extracted servers
-        servers = match_data.get('servers', [])
-        
+        # servers is already in match_data['servers'] if passed from bot.py
+        # 2. Generate SEO description if missing
+        if not match_data.get('description'):
+            logging.info(f"Generating SEO description for {match_data['team_a']} vs {match_data['team_b']}")
+            prompt = f"اكتب وصفاً تفصيلياً لمباراة {match_data['team_a']} ضد {match_data['team_b']} في {match_data['league']}. ركز على أهمية المباراة وجاذبية البث المباشر على CupLive."
+            match_data['description'] = self.news_gen.generate_article(prompt)
+
         html = template.render(
             **match_data,
-            servers=servers,
+            watch_url="watch.html",
             colors=COLORS
         )
         with open(output_path, "w") as f:
             f.write(html)
         logging.info(f"Generated watch page: {output_path}")
+
+    def generate_match_json(self, match_data):
+        """Generates a dedicated data.json for each match to allow dynamic frontend updates."""
+        match_dir = os.path.join(DOCS_DIR, "match", match_data['slug'])
+        os.makedirs(match_dir, exist_ok=True)
+        
+        json_path = os.path.join(match_dir, "data.json")
+        with open(json_path, 'w', encoding='utf-8') as f:
+            json.dump(match_data, f, ensure_ascii=False, indent=4)
+        logging.info(f"Generated match JSON: {json_path}")
 
     def generate_article_page(self, article_data):
         slug = slugify(article_data['article_title'])
@@ -107,7 +127,7 @@ class SiteGenerator:
         
         self.render_to_file("article.html", output_file, article_data)
         
-        self.scraped_urls[f"/news/{slug}/"] = {
+        self.scraped_urls[f"news/{slug}/"] = {
             "type": "news",
             "slug": slug,
             "title": article_data['article_title'],
@@ -118,17 +138,42 @@ class SiteGenerator:
         self.save_scraped_urls()
 
     def generate_index(self):
-        # Get latest matches and news from scraped_urls
+        """Generates the advanced homepage with Yesterday/Today/Tomorrow tabs and league grouping."""
         all_items = list(self.scraped_urls.values())
         matches = [v for v in all_items if v.get('type') == 'match']
-        latest_matches = matches[-6:] if len(matches) >= 6 else matches
         
+        # Group by date
+        by_date = {}
+        for m in matches:
+            d = m['date']
+            if d not in by_date: by_date[d] = []
+            by_date[d].append(m)
+            
+        # For each date, group by league
+        schedule_data = {}
+        for d, day_matches in by_date.items():
+            by_league = {}
+            for m in day_matches:
+                l = m['league']
+                if l not in by_league: by_league[l] = []
+                by_league[l].append(m)
+            schedule_data[d] = by_league
+            
         news = [v for v in all_items if v.get('type') == 'news']
-        latest_news = news[-6:] if len(news) >= 6 else news
+        latest_news = news[-10:] if len(news) >= 10 else news
+        
+        today = datetime.date.today().strftime("%Y-%m-%d")
+        yesterday = (datetime.date.today() - datetime.timedelta(days=1)).strftime("%Y-%m-%d")
+        tomorrow = (datetime.date.today() + datetime.timedelta(days=1)).strftime("%Y-%m-%d")
         
         data = {
-            "matches": latest_matches,
-            "news": latest_news
+            "schedule": schedule_data,
+            "news": latest_news,
+            "dates": {
+                "yesterday": yesterday,
+                "today": today,
+                "tomorrow": tomorrow
+            }
         }
         self.render_to_file("index.html", os.path.join(DOCS_DIR, "index.html"), data)
 
@@ -150,7 +195,8 @@ class SiteGenerator:
         xml = '<?xml version="1.0" encoding="UTF-8"?>\n'
         xml += '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
         for u in urls:
-            full_url = f"https://cuplive.online{u}"
+            # urls already contain the path like 'match/slug/'
+            full_url = f"https://cuplive.online/{u}"
             xml += f'  <url><loc>{full_url}</loc><lastmod>{now}</lastmod></url>\n'
         xml += '</urlset>'
         

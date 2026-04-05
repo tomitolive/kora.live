@@ -1,0 +1,14 @@
+{
+    "team_a": "Cadiz",
+    "team_b": "Cordoba",
+    "team_a_logo": "https://media.api-sports.io/football/teams/724.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/713.png",
+    "league": "Segunda División",
+    "time": "12:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "cadiz-vs-cordoba-2026-04-04"
+}

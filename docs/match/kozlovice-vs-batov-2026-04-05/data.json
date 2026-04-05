@@ -1,0 +1,14 @@
+{
+    "team_a": "Kozlovice",
+    "team_b": "Baťov",
+    "team_a_logo": "https://media.api-sports.io/football/teams/7311.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/19420.png",
+    "league": "4. liga - Divizie E",
+    "time": "13:30",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "kozlovice-vs-batov-2026-04-05"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Saronikos Anavyssou",
+    "team_b": "Ethnikos Piraeus",
+    "team_a_logo": "https://media.api-sports.io/football/teams/24860.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/5042.png",
+    "league": "Gamma Ethniki - Group 6",
+    "time": "13:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "saronikos-anavyssou-vs-ethnikos-piraeus-2026-04-05"
+}

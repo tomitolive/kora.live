@@ -1,0 +1,14 @@
+{
+    "team_a": "All Boys",
+    "team_b": "Ferro Carril Oeste",
+    "team_a_logo": "https://media.api-sports.io/football/teams/464.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/470.png",
+    "league": "Primera Nacional",
+    "time": "18:30",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "all-boys-vs-ferro-carril-oeste-2026-04-04"
+}

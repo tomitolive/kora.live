@@ -1,0 +1,14 @@
+{
+    "team_a": "OshMU Aldier",
+    "team_b": "Bishkek City",
+    "team_a_logo": "https://media.api-sports.io/football/teams/21168.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/25766.png",
+    "league": "Premier League",
+    "time": "10:30",
+    "date": "2026-04-05",
+    "channel": "beIN Sports 1 HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "oshmu-aldier-vs-bishkek-city-2026-04-05"
+}

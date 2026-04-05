@@ -1,0 +1,14 @@
+{
+    "team_a": "Cultural Leonesa",
+    "team_b": "Valladolid",
+    "team_a_logo": "https://media.api-sports.io/football/teams/725.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/720.png",
+    "league": "Segunda División",
+    "time": "16:30",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "cultural-leonesa-vs-valladolid-2026-04-04"
+}

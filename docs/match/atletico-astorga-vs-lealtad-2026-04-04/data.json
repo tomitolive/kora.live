@@ -1,0 +1,14 @@
+{
+    "team_a": "Atlético Astorga",
+    "team_b": "Lealtad",
+    "team_a_logo": "https://media.api-sports.io/football/teams/9723.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/9396.png",
+    "league": "Segunda División RFEF - Group 1",
+    "time": "15:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "atletico-astorga-vs-lealtad-2026-04-04"
+}

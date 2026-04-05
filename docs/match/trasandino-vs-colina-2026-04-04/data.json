@@ -1,0 +1,14 @@
+{
+    "team_a": "Trasandino",
+    "team_b": "Colina",
+    "team_a_logo": "https://media.api-sports.io/football/teams/5646.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/5634.png",
+    "league": "Segunda División",
+    "time": "20:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "trasandino-vs-colina-2026-04-04"
+}

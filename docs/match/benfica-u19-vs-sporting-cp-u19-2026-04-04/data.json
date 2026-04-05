@@ -1,0 +1,14 @@
+{
+    "team_a": "Benfica U19",
+    "team_b": "Sporting CP U19",
+    "team_a_logo": "https://media.api-sports.io/football/teams/7888.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/7997.png",
+    "league": "Júniores U19",
+    "time": "10:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "benfica-u19-vs-sporting-cp-u19-2026-04-04"
+}

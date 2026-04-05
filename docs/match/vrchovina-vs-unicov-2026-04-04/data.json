@@ -1,0 +1,14 @@
+{
+    "team_a": "Vrchovina",
+    "team_b": "Uničov",
+    "team_a_logo": "https://media.api-sports.io/football/teams/7376.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/7369.png",
+    "league": "3. liga - MSFL",
+    "time": "13:30",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "vrchovina-vs-unicov-2026-04-04"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Blacktown Spartans",
+    "team_b": "Canterbury Bankstown",
+    "team_a_logo": "https://media.api-sports.io/football/teams/16771.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/20791.png",
+    "league": "New South Wales NPL 2",
+    "time": "06:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "blacktown-spartans-vs-canterbury-bankstown-2026-04-04"
+}

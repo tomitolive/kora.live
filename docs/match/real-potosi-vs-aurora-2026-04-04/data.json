@@ -1,0 +1,14 @@
+{
+    "team_a": "Real Potosí",
+    "team_b": "Aurora",
+    "team_a_logo": "https://media.api-sports.io/football/teams/3708.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/3637.png",
+    "league": "Primera División",
+    "time": "21:15",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "real-potosi-vs-aurora-2026-04-04"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Deltras",
+    "team_b": "Persela Lamongan",
+    "team_a_logo": "https://media.api-sports.io/football/teams/15771.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/2450.png",
+    "league": "Liga 2",
+    "time": "12:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "deltras-vs-persela-lamongan-2026-04-05"
+}

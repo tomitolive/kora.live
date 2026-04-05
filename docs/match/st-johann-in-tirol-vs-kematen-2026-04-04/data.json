@@ -1,0 +1,14 @@
+{
+    "team_a": "St. Johann in Tirol",
+    "team_b": "Kematen",
+    "team_a_logo": "https://media.api-sports.io/football/teams/8343.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/8336.png",
+    "league": "Landesliga - Tirol",
+    "time": "15:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "st-johann-in-tirol-vs-kematen-2026-04-04"
+}

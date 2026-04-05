@@ -1,0 +1,14 @@
+{
+    "team_a": "Beitar Jerusalem",
+    "team_b": "Ironi Tiberias",
+    "team_a_logo": "https://media.api-sports.io/football/teams/657.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/6181.png",
+    "league": "Ligat Ha'al",
+    "time": "17:30",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "beitar-jerusalem-vs-ironi-tiberias-2026-04-04"
+}

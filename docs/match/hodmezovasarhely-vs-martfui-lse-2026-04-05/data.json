@@ -1,0 +1,14 @@
+{
+    "team_a": "Hódmezővásárhely",
+    "team_b": "Martfűi LSE",
+    "team_a_logo": "https://media.api-sports.io/football/teams/5101.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/21856.png",
+    "league": "NB III - Southeast",
+    "time": "14:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "hodmezovasarhely-vs-martfui-lse-2026-04-05"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Jubilo Iwata",
+    "team_b": "Ventforet Kofu",
+    "team_a_logo": "https://media.api-sports.io/football/teams/280.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/308.png",
+    "league": "J2/J3 League",
+    "time": "05:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "jubilo-iwata-vs-ventforet-kofu-2026-04-04"
+}

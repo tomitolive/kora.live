@@ -1,0 +1,14 @@
+{
+    "team_a": "Lovćen",
+    "team_b": "Igalo",
+    "team_a_logo": "https://media.api-sports.io/football/teams/3739.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/3746.png",
+    "league": "Second League",
+    "time": "12:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "lovcen-vs-igalo-2026-04-04"
+}

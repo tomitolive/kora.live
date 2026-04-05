@@ -1,0 +1,14 @@
+{
+    "team_a": "PAO Kristoni",
+    "team_b": "Orestis Orestiadas",
+    "team_a_logo": "https://media.api-sports.io/football/teams/20056.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/22240.png",
+    "league": "Gamma Ethniki - Group 1",
+    "time": "13:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "pao-kristoni-vs-orestis-orestiadas-2026-04-05"
+}

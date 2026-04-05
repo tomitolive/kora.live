@@ -1,0 +1,14 @@
+{
+    "team_a": "Metropolitan Police",
+    "team_b": "Hartley Wintney",
+    "team_a_logo": "https://media.api-sports.io/football/teams/4683.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/7719.png",
+    "league": "Non League Div One - Isthmian South Central",
+    "time": "14:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "metropolitan-police-vs-hartley-wintney-2026-04-04"
+}

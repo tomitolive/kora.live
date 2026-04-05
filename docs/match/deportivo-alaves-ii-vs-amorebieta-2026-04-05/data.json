@@ -1,0 +1,14 @@
+{
+    "team_a": "Deportivo Alavés II",
+    "team_b": "Amorebieta",
+    "team_a_logo": "https://media.api-sports.io/football/teams/9582.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/9380.png",
+    "league": "Segunda División RFEF - Group 2",
+    "time": "10:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "deportivo-alaves-ii-vs-amorebieta-2026-04-05"
+}

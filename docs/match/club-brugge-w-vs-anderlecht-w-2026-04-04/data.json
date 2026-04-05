@@ -1,0 +1,14 @@
+{
+    "team_a": "Club Brugge W",
+    "team_b": "Anderlecht W",
+    "team_a_logo": "https://media.api-sports.io/football/teams/6344.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/1792.png",
+    "league": "Super League Women",
+    "time": "14:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "club-brugge-w-vs-anderlecht-w-2026-04-04"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Bsk Bijelo Brdo",
+    "team_b": "Orijent 1919",
+    "team_a_logo": "https://media.api-sports.io/football/teams/1487.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/6256.png",
+    "league": "First NL",
+    "time": "13:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "bsk-bijelo-brdo-vs-orijent-1919-2026-04-04"
+}

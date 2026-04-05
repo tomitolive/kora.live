@@ -1,0 +1,14 @@
+{
+    "team_a": "Cove Rangers",
+    "team_b": "Alloa Athletic",
+    "team_a_logo": "https://media.api-sports.io/football/teams/6763.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/1391.png",
+    "league": "League One",
+    "time": "14:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "cove-rangers-vs-alloa-athletic-2026-04-04"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Sloboda Uzice",
+    "team_b": "Jošanica",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2641.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/12320.png",
+    "league": "Srpska Liga - West",
+    "time": "13:30",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "sloboda-uzice-vs-josanica-2026-04-04"
+}

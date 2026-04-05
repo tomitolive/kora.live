@@ -1,0 +1,14 @@
+{
+    "team_a": "Eger",
+    "team_b": "Gödöllő",
+    "team_a_logo": "https://media.api-sports.io/football/teams/5089.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/11701.png",
+    "league": "NB III - Northeast",
+    "time": "14:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "eger-vs-godollo-2026-04-05"
+}

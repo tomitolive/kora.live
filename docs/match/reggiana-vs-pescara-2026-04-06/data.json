@@ -1,0 +1,14 @@
+{
+    "team_a": "Reggiana",
+    "team_b": "Pescara",
+    "team_a_logo": "https://media.api-sports.io/football/teams/880.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/525.png",
+    "league": "Serie B",
+    "time": "13:00",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "reggiana-vs-pescara-2026-04-06"
+}

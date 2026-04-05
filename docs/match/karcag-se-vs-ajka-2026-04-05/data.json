@@ -1,0 +1,14 @@
+{
+    "team_a": "Karcag SE",
+    "team_b": "Ajka",
+    "team_a_logo": "https://media.api-sports.io/football/teams/17289.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/4714.png",
+    "league": "NB II",
+    "time": "14:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "karcag-se-vs-ajka-2026-04-05"
+}

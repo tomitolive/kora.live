@@ -1,0 +1,14 @@
+{
+    "team_a": "Castellonense",
+    "team_b": "La Nucía",
+    "team_a_logo": "https://media.api-sports.io/football/teams/22138.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/9393.png",
+    "league": "Tercera División RFEF - Group 6",
+    "time": "16:15",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "castellonense-vs-la-nucia-2026-04-04"
+}

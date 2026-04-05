@@ -1,0 +1,14 @@
+{
+    "team_a": "Lechia Zielona Góra",
+    "team_b": "Carina Gubin",
+    "team_a_logo": "https://media.api-sports.io/football/teams/14143.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/17401.png",
+    "league": "III Liga - Group 3",
+    "time": "17:30",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "lechia-zielona-gora-vs-carina-gubin-2026-04-04"
+}

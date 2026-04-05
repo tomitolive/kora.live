@@ -1,0 +1,14 @@
+{
+    "team_a": "Remo Stars",
+    "team_b": "Shooting Stars",
+    "team_a_logo": "https://media.api-sports.io/football/teams/5191.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/5504.png",
+    "league": "NPFL",
+    "time": "15:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "remo-stars-vs-shooting-stars-2026-04-05"
+}

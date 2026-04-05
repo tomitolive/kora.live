@@ -1,0 +1,14 @@
+{
+    "team_a": "Sloga Požega",
+    "team_b": "FK Radnički Valjevo",
+    "team_a_logo": "https://media.api-sports.io/football/teams/12345.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/26416.png",
+    "league": "Srpska Liga - West",
+    "time": "13:30",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "sloga-pozega-vs-fk-radnicki-valjevo-2026-04-04"
+}

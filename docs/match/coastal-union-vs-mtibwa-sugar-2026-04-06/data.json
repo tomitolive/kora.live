@@ -1,0 +1,14 @@
+{
+    "team_a": "Coastal Union",
+    "team_b": "Mtibwa Sugar",
+    "team_a_logo": "https://media.api-sports.io/football/teams/12189.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/12195.png",
+    "league": "Ligi kuu Bara",
+    "time": "16:00",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "coastal-union-vs-mtibwa-sugar-2026-04-06"
+}

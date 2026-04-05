@@ -1,0 +1,14 @@
+{
+    "team_a": "AZ Alkmaar",
+    "team_b": "Fortuna Sittard",
+    "team_a_logo": "https://media.api-sports.io/football/teams/201.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/205.png",
+    "league": "Eredivisie",
+    "time": "16:45",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "az-alkmaar-vs-fortuna-sittard-2026-04-04"
+}

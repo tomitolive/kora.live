@@ -1,0 +1,14 @@
+{
+    "team_a": "Rot-Weiß Essen",
+    "team_b": "MSV Duisburg",
+    "team_a_logo": "https://media.api-sports.io/football/teams/1621.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/187.png",
+    "league": "3. Liga",
+    "time": "14:30",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "rot-weiss-essen-vs-msv-duisburg-2026-04-04"
+}

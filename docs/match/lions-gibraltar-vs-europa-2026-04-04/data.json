@@ -1,0 +1,14 @@
+{
+    "team_a": "Lions Gibraltar",
+    "team_b": "Europa",
+    "team_a_logo": "https://media.api-sports.io/football/teams/16133.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/10125.png",
+    "league": "Premier Division",
+    "time": "14:30",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "lions-gibraltar-vs-europa-2026-04-04"
+}

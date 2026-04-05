@@ -1,0 +1,14 @@
+{
+    "team_a": "Batman Petrolspor",
+    "team_b": "Muğlaspor",
+    "team_a_logo": "https://media.api-sports.io/football/teams/7395.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/7414.png",
+    "league": "2. Lig",
+    "time": "12:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "batman-petrolspor-vs-muglaspor-2026-04-04"
+}

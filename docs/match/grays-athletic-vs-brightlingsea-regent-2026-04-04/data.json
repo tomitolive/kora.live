@@ -1,0 +1,14 @@
+{
+    "team_a": "Grays Athletic",
+    "team_b": "Brightlingsea Regent",
+    "team_a_logo": "https://media.api-sports.io/football/teams/7228.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/7704.png",
+    "league": "Non League Div One - Isthmian North",
+    "time": "14:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "grays-athletic-vs-brightlingsea-regent-2026-04-04"
+}

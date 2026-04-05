@@ -1,0 +1,14 @@
+{
+    "team_a": "Luftëtari",
+    "team_b": "Besa Kavajë",
+    "team_a_logo": "https://media.api-sports.io/football/teams/17740.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/3322.png",
+    "league": "1st Division",
+    "time": "13:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "luftetari-vs-besa-kavaje-2026-04-05"
+}

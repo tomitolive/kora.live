@@ -1,0 +1,14 @@
+{
+    "team_a": "Deportivo Armenio",
+    "team_b": "UAI Urquiza",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2427.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/1956.png",
+    "league": "Primera B Metropolitana",
+    "time": "18:30",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "deportivo-armenio-vs-uai-urquiza-2026-04-04"
+}

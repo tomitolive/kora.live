@@ -1,0 +1,14 @@
+{
+    "team_a": "Prudentópolis",
+    "team_b": "Laranja Mecânica",
+    "team_a_logo": "https://media.api-sports.io/football/teams/7850.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/18746.png",
+    "league": "Paranaense - 2",
+    "time": "18:30",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "prudentopolis-vs-laranja-mecanica-2026-04-04"
+}

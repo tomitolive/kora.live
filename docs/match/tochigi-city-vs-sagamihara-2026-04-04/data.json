@@ -1,0 +1,14 @@
+{
+    "team_a": "Tochigi City",
+    "team_b": "Sagamihara",
+    "team_a_logo": "https://media.api-sports.io/football/teams/7145.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/4324.png",
+    "league": "J2/J3 League",
+    "time": "05:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "tochigi-city-vs-sagamihara-2026-04-04"
+}

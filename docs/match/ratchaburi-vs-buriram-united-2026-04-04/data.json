@@ -1,0 +1,14 @@
+{
+    "team_a": "Ratchaburi",
+    "team_b": "Buriram United",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2776.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/2780.png",
+    "league": "Thai League 1",
+    "time": "12:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "ratchaburi-vs-buriram-united-2026-04-04"
+}

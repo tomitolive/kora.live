@@ -1,0 +1,14 @@
+{
+    "team_a": "Linares Deportivo",
+    "team_b": "Antoniano",
+    "team_a_logo": "https://media.api-sports.io/football/teams/9398.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/7522.png",
+    "league": "Segunda División RFEF - Group 4",
+    "time": "15:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "linares-deportivo-vs-antoniano-2026-04-04"
+}

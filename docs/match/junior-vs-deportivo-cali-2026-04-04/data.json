@@ -1,0 +1,14 @@
+{
+    "team_a": "Junior",
+    "team_b": "Deportivo Cali",
+    "team_a_logo": "https://media.api-sports.io/football/teams/1135.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/1127.png",
+    "league": "Primera A",
+    "time": "01:30",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "junior-vs-deportivo-cali-2026-04-04"
+}

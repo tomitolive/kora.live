@@ -1,0 +1,14 @@
+{
+    "team_a": "Dunarea Calarasi",
+    "team_b": "Tricolorul Breaza",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2582.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/22203.png",
+    "league": "Liga III - Play-offs",
+    "time": "14:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "dunarea-calarasi-vs-tricolorul-breaza-2026-04-04"
+}

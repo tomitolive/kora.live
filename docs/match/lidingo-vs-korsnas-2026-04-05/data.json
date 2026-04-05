@@ -1,0 +1,14 @@
+{
+    "team_a": "Lidingö",
+    "team_b": "Korsnäs",
+    "team_a_logo": "https://media.api-sports.io/football/teams/6685.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/18427.png",
+    "league": "Division 2 - Norra Svealand",
+    "time": "13:45",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "lidingo-vs-korsnas-2026-04-05"
+}

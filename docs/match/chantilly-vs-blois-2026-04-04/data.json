@@ -1,0 +1,14 @@
+{
+    "team_a": "Chantilly",
+    "team_b": "Blois",
+    "team_a_logo": "https://media.api-sports.io/football/teams/3162.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/3026.png",
+    "league": "National 2 - Group B",
+    "time": "15:30",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "chantilly-vs-blois-2026-04-04"
+}

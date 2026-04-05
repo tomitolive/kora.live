@@ -1,0 +1,14 @@
+{
+    "team_a": "OH Leuven",
+    "team_b": "Standard Liege",
+    "team_a_logo": "https://media.api-sports.io/football/teams/260.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/733.png",
+    "league": "Jupiler Pro League",
+    "time": "16:15",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "oh-leuven-vs-standard-liege-2026-04-04"
+}

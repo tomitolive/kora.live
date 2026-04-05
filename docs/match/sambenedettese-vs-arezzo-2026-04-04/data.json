@@ -1,0 +1,14 @@
+{
+    "team_a": "Sambenedettese",
+    "team_b": "Arezzo",
+    "team_a_logo": "https://media.api-sports.io/football/teams/871.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/876.png",
+    "league": "Serie C - Girone B",
+    "time": "12:30",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "sambenedettese-vs-arezzo-2026-04-04"
+}

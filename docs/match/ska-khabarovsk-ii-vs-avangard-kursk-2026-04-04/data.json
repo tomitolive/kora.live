@@ -1,0 +1,14 @@
+{
+    "team_a": "SKA Khabarovsk II",
+    "team_b": "Avangard Kursk",
+    "team_a_logo": "https://media.api-sports.io/football/teams/17721.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/2009.png",
+    "league": "Second League - Group 3",
+    "time": "03:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "ska-khabarovsk-ii-vs-avangard-kursk-2026-04-04"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Lokomotiv G. Oryahovitsa",
+    "team_b": "Sevlievo",
+    "team_a_logo": "https://media.api-sports.io/football/teams/1420.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/5024.png",
+    "league": "Second League",
+    "time": "14:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "lokomotiv-g-oryahovitsa-vs-sevlievo-2026-04-04"
+}

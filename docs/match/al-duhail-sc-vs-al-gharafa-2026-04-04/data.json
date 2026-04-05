@@ -1,0 +1,14 @@
+{
+    "team_a": "Al-Duhail SC",
+    "team_b": "Al-Gharafa",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2904.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/2903.png",
+    "league": "Stars League",
+    "time": "17:30",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "al-duhail-sc-vs-al-gharafa-2026-04-04"
+}

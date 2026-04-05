@@ -1,0 +1,14 @@
+{
+    "team_a": "Wisła Kraków II",
+    "team_b": "Naprzód",
+    "team_a_logo": "https://media.api-sports.io/football/teams/24324.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/26184.png",
+    "league": "III Liga - Group 4",
+    "time": "10:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "wisla-krakow-ii-vs-naprzod-2026-04-04"
+}

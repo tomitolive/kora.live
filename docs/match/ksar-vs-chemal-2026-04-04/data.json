@@ -1,0 +1,14 @@
+{
+    "team_a": "Ksar",
+    "team_b": "Chemal",
+    "team_a_logo": "https://media.api-sports.io/football/teams/16170.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/20469.png",
+    "league": "Premier League",
+    "time": "16:45",
+    "date": "2026-04-04",
+    "channel": "beIN Sports 1 HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "ksar-vs-chemal-2026-04-04"
+}

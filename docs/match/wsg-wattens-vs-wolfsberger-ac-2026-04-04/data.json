@@ -1,0 +1,14 @@
+{
+    "team_a": "WSG Wattens",
+    "team_b": "Wolfsberger AC",
+    "team_a_logo": "https://media.api-sports.io/football/teams/1398.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/1025.png",
+    "league": "Bundesliga",
+    "time": "15:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "wsg-wattens-vs-wolfsberger-ac-2026-04-04"
+}

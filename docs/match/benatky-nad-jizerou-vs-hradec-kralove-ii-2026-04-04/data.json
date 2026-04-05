@@ -1,0 +1,14 @@
+{
+    "team_a": "Benátky nad Jizerou",
+    "team_b": "Hradec Králové II",
+    "team_a_logo": "https://media.api-sports.io/football/teams/7274.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/14495.png",
+    "league": "3. liga - CFL B",
+    "time": "14:30",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "benatky-nad-jizerou-vs-hradec-kralove-ii-2026-04-04"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Deportivo Recoleta",
+    "team_b": "Club Sp. San Lorenzo",
+    "team_a_logo": "https://media.api-sports.io/football/teams/10476.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/2125.png",
+    "league": "Division Profesional - Apertura",
+    "time": "23:30",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "deportivo-recoleta-vs-club-sp-san-lorenzo-2026-04-04"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Green City",
+    "team_b": "Pigotts Bullets",
+    "team_a_logo": "https://media.api-sports.io/football/teams/22794.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/22800.png",
+    "league": "Premier Division",
+    "time": "20:15",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "green-city-vs-pigotts-bullets-2026-04-05"
+}

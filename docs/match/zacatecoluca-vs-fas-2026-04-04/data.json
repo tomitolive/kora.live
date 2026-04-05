@@ -1,0 +1,14 @@
+{
+    "team_a": "Zacatecoluca",
+    "team_b": "FAS",
+    "team_a_logo": "https://media.api-sports.io/football/teams/26155.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/4302.png",
+    "league": "Primera Division",
+    "time": "22:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "zacatecoluca-vs-fas-2026-04-04"
+}

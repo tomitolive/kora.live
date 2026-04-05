@@ -1,0 +1,14 @@
+{
+    "team_a": "Borussia Dortmund II",
+    "team_b": "Fortuna Köln",
+    "team_a_logo": "https://media.api-sports.io/football/teams/9367.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/1326.png",
+    "league": "Regionalliga - West",
+    "time": "12:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "borussia-dortmund-ii-vs-fortuna-koln-2026-04-04"
+}

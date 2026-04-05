@@ -1,0 +1,14 @@
+{
+    "team_a": "Bình Phước",
+    "team_b": "PVF-CAND",
+    "team_a_logo": "https://media.api-sports.io/football/teams/9161.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/26649.png",
+    "league": "V.League 2",
+    "time": "11:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "binh-phuoc-vs-pvf-cand-2026-04-04"
+}

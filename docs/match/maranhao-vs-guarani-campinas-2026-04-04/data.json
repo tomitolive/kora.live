@@ -1,0 +1,14 @@
+{
+    "team_a": "Maranhão",
+    "team_b": "Guarani Campinas",
+    "team_a_logo": "https://media.api-sports.io/football/teams/7832.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/138.png",
+    "league": "Serie C",
+    "time": "20:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "maranhao-vs-guarani-campinas-2026-04-04"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "IMT Novi Beograd",
+    "team_b": "Vojvodina",
+    "team_a_logo": "https://media.api-sports.io/football/teams/12316.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/702.png",
+    "league": "Super Liga",
+    "time": "18:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "imt-novi-beograd-vs-vojvodina-2026-04-04"
+}

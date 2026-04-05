@@ -1,0 +1,14 @@
+{
+    "team_a": "Vsetín",
+    "team_b": "Frýdek-Místek",
+    "team_a_logo": "https://media.api-sports.io/football/teams/7377.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/7288.png",
+    "league": "3. liga - MSFL",
+    "time": "12:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "vsetin-vs-frydek-mistek-2026-04-04"
+}

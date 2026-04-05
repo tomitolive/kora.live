@@ -1,0 +1,14 @@
+{
+    "team_a": "Ljutomer",
+    "team_b": "Šmartno",
+    "team_a_logo": "https://media.api-sports.io/football/teams/20344.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/12904.png",
+    "league": "3. SNL - East",
+    "time": "14:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "ljutomer-vs-smartno-2026-04-04"
+}

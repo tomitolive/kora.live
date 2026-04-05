@@ -1,0 +1,14 @@
+{
+    "team_a": "Lioli",
+    "team_b": "Linare",
+    "team_a_logo": "https://media.api-sports.io/football/teams/20982.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/20981.png",
+    "league": "Premier League",
+    "time": "13:00",
+    "date": "2026-04-04",
+    "channel": "beIN Sports 1 HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "lioli-vs-linare-2026-04-04"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Crowborough Athletic",
+    "team_b": "Sevenoaks Town",
+    "team_a_logo": "https://media.api-sports.io/football/teams/8760.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/7249.png",
+    "league": "Non League Div One - Isthmian South East",
+    "time": "14:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "crowborough-athletic-vs-sevenoaks-town-2026-04-04"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Simba Bhora",
+    "team_b": "Dynamos",
+    "team_a_logo": "https://media.api-sports.io/football/teams/21055.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/5221.png",
+    "league": "Premier Soccer League",
+    "time": "13:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "simba-bhora-vs-dynamos-2026-04-05"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "FK Kukesi",
+    "team_b": "Apolonia Fier",
+    "team_a_logo": "https://media.api-sports.io/football/teams/577.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/3321.png",
+    "league": "1st Division",
+    "time": "13:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "fk-kukesi-vs-apolonia-fier-2026-04-04"
+}

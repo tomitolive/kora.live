@@ -1,0 +1,14 @@
+{
+    "team_a": "Galvez",
+    "team_b": "Araguaína",
+    "team_a_logo": "https://media.api-sports.io/football/teams/1228.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/12290.png",
+    "league": "Serie D",
+    "time": "23:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "galvez-vs-araguaina-2026-04-04"
+}

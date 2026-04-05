@@ -1,0 +1,14 @@
+{
+    "team_a": "Ballkani",
+    "team_b": "Dukagjini",
+    "team_a_logo": "https://media.api-sports.io/football/teams/12733.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/14393.png",
+    "league": "Superliga",
+    "time": "13:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "ballkani-vs-dukagjini-2026-04-04"
+}

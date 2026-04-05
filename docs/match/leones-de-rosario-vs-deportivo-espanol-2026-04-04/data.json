@@ -1,0 +1,14 @@
+{
+    "team_a": "Leones de Rosario",
+    "team_b": "Deportivo Español",
+    "team_a_logo": "https://media.api-sports.io/football/teams/27282.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/8381.png",
+    "league": "Primera C",
+    "time": "18:30",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "leones-de-rosario-vs-deportivo-espanol-2026-04-04"
+}

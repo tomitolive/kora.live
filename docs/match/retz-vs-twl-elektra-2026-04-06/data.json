@@ -1,0 +1,14 @@
+{
+    "team_a": "Retz",
+    "team_b": "TWL Elektra",
+    "team_a_logo": "https://media.api-sports.io/football/teams/8288.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/16999.png",
+    "league": "Regionalliga - Ost",
+    "time": "14:00",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "retz-vs-twl-elektra-2026-04-06"
+}

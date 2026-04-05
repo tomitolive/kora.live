@@ -1,0 +1,14 @@
+{
+    "team_a": "Bangu U20",
+    "team_b": "Volta Redonda U20",
+    "team_a_logo": "https://media.api-sports.io/football/teams/22831.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/13074.png",
+    "league": "Copa Rio U20",
+    "time": "18:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "bangu-u20-vs-volta-redonda-u20-2026-04-04"
+}

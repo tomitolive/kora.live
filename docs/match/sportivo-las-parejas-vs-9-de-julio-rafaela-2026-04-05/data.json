@@ -1,0 +1,14 @@
+{
+    "team_a": "Sportivo Las Parejas",
+    "team_b": "9 de Julio Rafaela",
+    "team_a_logo": "https://media.api-sports.io/football/teams/1950.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/21040.png",
+    "league": "Torneo Federal A",
+    "time": "19:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "sportivo-las-parejas-vs-9-de-julio-rafaela-2026-04-05"
+}

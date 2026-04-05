@@ -1,0 +1,14 @@
+{
+    "team_a": "Al Riyadh",
+    "team_b": "Al Shabab",
+    "team_a_logo": "https://media.api-sports.io/football/teams/10511.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/2940.png",
+    "league": "Pro League",
+    "time": "18:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "al-riyadh-vs-al-shabab-2026-04-05"
+}

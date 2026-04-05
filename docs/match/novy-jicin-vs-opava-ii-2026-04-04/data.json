@@ -1,0 +1,14 @@
+{
+    "team_a": "Nový Jičín",
+    "team_b": "Opava II",
+    "team_a_logo": "https://media.api-sports.io/football/teams/7323.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/15135.png",
+    "league": "4. liga - Divizie F",
+    "time": "13:30",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "novy-jicin-vs-opava-ii-2026-04-04"
+}

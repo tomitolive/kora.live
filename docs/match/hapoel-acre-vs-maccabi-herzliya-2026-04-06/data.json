@@ -1,0 +1,14 @@
+{
+    "team_a": "Hapoel Acre",
+    "team_b": "Maccabi Herzliya",
+    "team_a_logo": "https://media.api-sports.io/football/teams/4482.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/4503.png",
+    "league": "Liga Leumit",
+    "time": "14:00",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "hapoel-acre-vs-maccabi-herzliya-2026-04-06"
+}

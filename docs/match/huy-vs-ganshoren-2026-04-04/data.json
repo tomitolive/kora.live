@@ -1,0 +1,14 @@
+{
+    "team_a": "Huy",
+    "team_b": "Ganshoren",
+    "team_a_logo": "https://media.api-sports.io/football/teams/5832.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/5806.png",
+    "league": "Second Amateur Division - ACFF",
+    "time": "17:30",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "huy-vs-ganshoren-2026-04-04"
+}

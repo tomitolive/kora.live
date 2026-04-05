@@ -1,0 +1,14 @@
+{
+    "team_a": "Sao Jose",
+    "team_b": "Blumenau",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2232.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/19635.png",
+    "league": "Serie D",
+    "time": "20:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "sao-jose-vs-blumenau-2026-04-04"
+}

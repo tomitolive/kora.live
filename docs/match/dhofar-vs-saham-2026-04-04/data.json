@@ -1,0 +1,14 @@
+{
+    "team_a": "Dhofar",
+    "team_b": "Saham",
+    "team_a_logo": "https://media.api-sports.io/football/teams/5330.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/5335.png",
+    "league": "Professional League",
+    "time": "13:55",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "dhofar-vs-saham-2026-04-04"
+}

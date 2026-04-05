@@ -1,0 +1,14 @@
+{
+    "team_a": "Servette FC",
+    "team_b": "FC Luzern",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2184.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/644.png",
+    "league": "Super League",
+    "time": "14:30",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "servette-fc-vs-fc-luzern-2026-04-06"
+}

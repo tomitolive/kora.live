@@ -1,0 +1,14 @@
+{
+    "team_a": "Pacos Ferreira U19",
+    "team_b": "Sporting Braga U19",
+    "team_a_logo": "https://media.api-sports.io/football/teams/22516.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/22375.png",
+    "league": "Júniores U19",
+    "time": "15:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "pacos-ferreira-u19-vs-sporting-braga-u19-2026-04-04"
+}

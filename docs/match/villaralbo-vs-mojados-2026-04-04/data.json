@@ -1,0 +1,14 @@
+{
+    "team_a": "Villaralbo",
+    "team_b": "Mojados",
+    "team_a_logo": "https://media.api-sports.io/football/teams/22144.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/24578.png",
+    "league": "Tercera División RFEF - Group 8",
+    "time": "15:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "villaralbo-vs-mojados-2026-04-04"
+}

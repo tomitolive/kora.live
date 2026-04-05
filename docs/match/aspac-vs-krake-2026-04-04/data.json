@@ -1,0 +1,14 @@
+{
+    "team_a": "ASPAC",
+    "team_b": "Kraké",
+    "team_a_logo": "https://media.api-sports.io/football/teams/5453.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/25025.png",
+    "league": "Championnat National",
+    "time": "15:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "aspac-vs-krake-2026-04-04"
+}

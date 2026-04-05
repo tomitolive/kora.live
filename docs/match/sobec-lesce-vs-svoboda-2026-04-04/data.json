@@ -1,0 +1,14 @@
+{
+    "team_a": "Šobec Lesce",
+    "team_b": "Svoboda",
+    "team_a_logo": "https://media.api-sports.io/football/teams/16314.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/16310.png",
+    "league": "3. SNL - West",
+    "time": "14:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "sobec-lesce-vs-svoboda-2026-04-04"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Juventude U20",
+    "team_b": "Santa Maria U20",
+    "team_a_logo": "https://media.api-sports.io/football/teams/13020.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/25932.png",
+    "league": "Estadual Junior U20",
+    "time": "18:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "juventude-u20-vs-santa-maria-u20-2026-04-05"
+}

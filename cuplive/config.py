@@ -39,4 +39,5 @@ CHANNEL_MAP_FILE = os.path.join(BASE_DIR, "channel_map.json")
 
 # --- Settings ---
 MAX_NEWS = 10
+MAX_PAGES_PER_RUN = 10
 DELAY = 2

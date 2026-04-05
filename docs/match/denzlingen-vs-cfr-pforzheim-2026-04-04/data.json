@@ -1,0 +1,14 @@
+{
+    "team_a": "Denzlingen",
+    "team_b": "CFR Pforzheim",
+    "team_a_logo": "https://media.api-sports.io/football/teams/21500.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/1659.png",
+    "league": "Oberliga - Baden-Württemberg",
+    "time": "12:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "denzlingen-vs-cfr-pforzheim-2026-04-04"
+}

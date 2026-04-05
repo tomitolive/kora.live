@@ -1,0 +1,14 @@
+{
+    "team_a": "Sharjah FC",
+    "team_b": "Al-Wasl FC",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2874.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/2872.png",
+    "league": "Pro League",
+    "time": "16:30",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "sharjah-fc-vs-al-wasl-fc-2026-04-05"
+}

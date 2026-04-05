@@ -1,0 +1,14 @@
+{
+    "team_a": "Atletico Mitre",
+    "team_b": "Deportivo Madryn",
+    "team_a_logo": "https://media.api-sports.io/football/teams/466.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/1929.png",
+    "league": "Primera Nacional",
+    "time": "22:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "atletico-mitre-vs-deportivo-madryn-2026-04-05"
+}

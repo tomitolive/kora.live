@@ -1,0 +1,14 @@
+{
+    "team_a": "Marbella",
+    "team_b": "Villarreal II",
+    "team_a_logo": "https://media.api-sports.io/football/teams/5267.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/9595.png",
+    "league": "Primera División RFEF - Group 2",
+    "time": "14:15",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "marbella-vs-villarreal-ii-2026-04-04"
+}

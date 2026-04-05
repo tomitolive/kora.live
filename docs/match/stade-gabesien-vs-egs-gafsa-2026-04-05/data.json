@@ -1,0 +1,14 @@
+{
+    "team_a": "Stade Gabesien",
+    "team_b": "EGS Gafsa",
+    "team_a_logo": "https://media.api-sports.io/football/teams/985.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/10604.png",
+    "league": "Ligue 2",
+    "time": "13:30",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "stade-gabesien-vs-egs-gafsa-2026-04-05"
+}

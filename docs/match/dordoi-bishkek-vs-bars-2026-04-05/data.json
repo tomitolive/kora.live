@@ -1,0 +1,14 @@
+{
+    "team_a": "Dordoi Bishkek",
+    "team_b": "Bars",
+    "team_a_logo": "https://media.api-sports.io/football/teams/8026.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/25765.png",
+    "league": "Premier League",
+    "time": "12:30",
+    "date": "2026-04-05",
+    "channel": "beIN Sports 1 HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "dordoi-bishkek-vs-bars-2026-04-05"
+}

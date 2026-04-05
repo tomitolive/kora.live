@@ -1,0 +1,14 @@
+{
+    "team_a": "Chabab Mohammédia",
+    "team_b": "Moghreb Tetouan",
+    "team_a_logo": "https://media.api-sports.io/football/teams/6387.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/965.png",
+    "league": "Botola 2",
+    "time": "14:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "chabab-mohammedia-vs-moghreb-tetouan-2026-04-04"
+}

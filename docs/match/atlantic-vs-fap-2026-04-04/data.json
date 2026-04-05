@@ -1,0 +1,14 @@
+{
+    "team_a": "Atlantic",
+    "team_b": "FAP",
+    "team_a_logo": "https://media.api-sports.io/football/teams/25429.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/16525.png",
+    "league": "Elite Two",
+    "time": "13:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "atlantic-vs-fap-2026-04-04"
+}

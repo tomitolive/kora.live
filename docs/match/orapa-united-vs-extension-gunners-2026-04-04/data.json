@@ -1,0 +1,14 @@
+{
+    "team_a": "Orapa United",
+    "team_b": "Extension Gunners",
+    "team_a_logo": "https://media.api-sports.io/football/teams/5425.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/5420.png",
+    "league": "Premier League",
+    "time": "13:30",
+    "date": "2026-04-04",
+    "channel": "beIN Sports 1 HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "orapa-united-vs-extension-gunners-2026-04-04"
+}

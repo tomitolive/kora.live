@@ -1,0 +1,14 @@
+{
+    "team_a": "Progresul Fundulea",
+    "team_b": "Dinamo Bucureşti II",
+    "team_a_logo": "https://media.api-sports.io/football/teams/19180.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/16286.png",
+    "league": "Liga III - Serie 3",
+    "time": "14:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "progresul-fundulea-vs-dinamo-bucuresti-ii-2026-04-04"
+}

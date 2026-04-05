@@ -1,0 +1,14 @@
+{
+    "team_a": "Lech Poznań II",
+    "team_b": "Stargard Szczeciński",
+    "team_a_logo": "https://media.api-sports.io/football/teams/9133.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/6959.png",
+    "league": "III Liga - Group 2",
+    "time": "10:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "lech-poznan-ii-vs-stargard-szczecinski-2026-04-04"
+}

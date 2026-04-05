@@ -1,0 +1,14 @@
+{
+    "team_a": "Pogon Szczecin W",
+    "team_b": "Lech Poznan W",
+    "team_a_logo": "https://media.api-sports.io/football/teams/22259.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/26149.png",
+    "league": "Ekstraliga Women",
+    "time": "10:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "pogon-szczecin-w-vs-lech-poznan-w-2026-04-04"
+}

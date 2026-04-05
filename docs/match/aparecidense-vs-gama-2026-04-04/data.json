@@ -1,0 +1,14 @@
+{
+    "team_a": "Aparecidense",
+    "team_b": "Gama",
+    "team_a_logo": "https://media.api-sports.io/football/teams/1202.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/1222.png",
+    "league": "Serie D",
+    "time": "19:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "aparecidense-vs-gama-2026-04-04"
+}

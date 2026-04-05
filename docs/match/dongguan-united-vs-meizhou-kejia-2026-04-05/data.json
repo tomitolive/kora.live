@@ -1,0 +1,14 @@
+{
+    "team_a": "Dongguan United",
+    "team_b": "Meizhou Kejia",
+    "team_a_logo": "https://media.api-sports.io/football/teams/17263.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/1439.png",
+    "league": "League One",
+    "time": "07:30",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "dongguan-united-vs-meizhou-kejia-2026-04-05"
+}

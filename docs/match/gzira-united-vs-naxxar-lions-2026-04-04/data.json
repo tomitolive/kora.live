@@ -1,0 +1,14 @@
+{
+    "team_a": "Gzira United",
+    "team_b": "Naxxar Lions",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2264.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/4605.png",
+    "league": "FA Trophy",
+    "time": "11:45",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "gzira-united-vs-naxxar-lions-2026-04-04"
+}

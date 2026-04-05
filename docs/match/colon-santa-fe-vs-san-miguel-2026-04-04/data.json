@@ -1,0 +1,14 @@
+{
+    "team_a": "Colon Santa Fe",
+    "team_b": "San Miguel",
+    "team_a_logo": "https://media.api-sports.io/football/teams/448.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/8379.png",
+    "league": "Primera Nacional",
+    "time": "22:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "colon-santa-fe-vs-san-miguel-2026-04-04"
+}

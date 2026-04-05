@@ -1,0 +1,14 @@
+{
+    "team_a": "KAC Kenitra",
+    "team_b": "Stade Marocain",
+    "team_a_logo": "https://media.api-sports.io/football/teams/979.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/15549.png",
+    "league": "Botola 2",
+    "time": "14:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "kac-kenitra-vs-stade-marocain-2026-04-04"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Lazio",
+    "team_b": "Parma",
+    "team_a_logo": "https://media.api-sports.io/football/teams/487.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/523.png",
+    "league": "Serie A",
+    "time": "18:45",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "lazio-vs-parma-2026-04-04"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Epinal",
+    "team_b": "Chambly Thelle FC",
+    "team_a_logo": "https://media.api-sports.io/football/teams/1309.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/1291.png",
+    "league": "National 2 - Group B",
+    "time": "16:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "epinal-vs-chambly-thelle-fc-2026-04-04"
+}

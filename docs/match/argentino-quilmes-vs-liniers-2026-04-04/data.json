@@ -1,0 +1,14 @@
+{
+    "team_a": "Argentino Quilmes",
+    "team_b": "Liniers",
+    "team_a_logo": "https://media.api-sports.io/football/teams/8376.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/8395.png",
+    "league": "Primera B Metropolitana",
+    "time": "19:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "argentino-quilmes-vs-liniers-2026-04-04"
+}

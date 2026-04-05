@@ -1,0 +1,14 @@
+{
+    "team_a": "Köln II",
+    "team_b": "Fortuna Düsseldorf II",
+    "team_a_logo": "https://media.api-sports.io/football/teams/9371.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/9369.png",
+    "league": "Regionalliga - West",
+    "time": "12:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "koln-ii-vs-fortuna-dusseldorf-ii-2026-04-04"
+}

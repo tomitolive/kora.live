@@ -1,0 +1,14 @@
+{
+    "team_a": "Unirea Braniştea",
+    "team_b": "FC Oţelul II",
+    "team_a_logo": "https://media.api-sports.io/football/teams/19186.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/26676.png",
+    "league": "Liga III - Serie 2",
+    "time": "14:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "unirea-branistea-vs-fc-otelul-ii-2026-04-04"
+}

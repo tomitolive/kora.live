@@ -1,0 +1,14 @@
+{
+    "team_a": "Komárno II",
+    "team_b": "Gabčíkovo",
+    "team_a_logo": "https://media.api-sports.io/football/teams/26245.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/21926.png",
+    "league": "3. liga - West",
+    "time": "14:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "komarno-ii-vs-gabcikovo-2026-04-04"
+}

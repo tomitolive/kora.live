@@ -1,0 +1,14 @@
+{
+    "team_a": "OFK Vršac",
+    "team_b": "Semendrija 1924",
+    "team_a_logo": "https://media.api-sports.io/football/teams/12329.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/4254.png",
+    "league": "Prva Liga",
+    "time": "13:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "ofk-vrsac-vs-semendrija-1924-2026-04-05"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Al Sharq",
+    "team_b": "Al-Sadd",
+    "team_a_logo": "https://media.api-sports.io/football/teams/10512.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/10515.png",
+    "league": "Division 2",
+    "time": "13:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "al-sharq-vs-al-sadd-2026-04-04"
+}

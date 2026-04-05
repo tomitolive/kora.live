@@ -1,0 +1,14 @@
+{
+    "team_a": "Eskişehirspor",
+    "team_b": "Kütahyaspor",
+    "team_a_logo": "https://media.api-sports.io/football/teams/3572.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/11092.png",
+    "league": "3. Lig - Group 4",
+    "time": "13:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "eskisehirspor-vs-kutahyaspor-2026-04-05"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Mura",
+    "team_b": "Olimpija Ljubljana",
+    "team_a_logo": "https://media.api-sports.io/football/teams/4197.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/677.png",
+    "league": "1. SNL",
+    "time": "13:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "mura-vs-olimpija-ljubljana-2026-04-04"
+}

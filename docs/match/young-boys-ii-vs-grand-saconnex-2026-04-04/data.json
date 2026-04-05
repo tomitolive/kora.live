@@ -1,0 +1,14 @@
+{
+    "team_a": "Young Boys II",
+    "team_b": "Grand-Saconnex",
+    "team_a_logo": "https://media.api-sports.io/football/teams/12698.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/17415.png",
+    "league": "1. Liga Promotion",
+    "time": "13:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "young-boys-ii-vs-grand-saconnex-2026-04-04"
+}

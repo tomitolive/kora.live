@@ -1,0 +1,14 @@
+{
+    "team_a": "Nasarawa United",
+    "team_b": "Kun Khalifat FC",
+    "team_a_logo": "https://media.api-sports.io/football/teams/5188.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/26401.png",
+    "league": "NPFL",
+    "time": "15:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "nasarawa-united-vs-kun-khalifat-fc-2026-04-05"
+}

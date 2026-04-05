@@ -1,0 +1,14 @@
+{
+    "team_a": "Hapoel Beer Sheva",
+    "team_b": "Hapoel Petah Tikva",
+    "team_a_logo": "https://media.api-sports.io/football/teams/563.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/4488.png",
+    "league": "Ligat Ha'al",
+    "time": "17:15",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "hapoel-beer-sheva-vs-hapoel-petah-tikva-2026-04-04"
+}

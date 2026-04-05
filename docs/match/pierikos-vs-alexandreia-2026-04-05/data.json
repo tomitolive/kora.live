@@ -1,0 +1,14 @@
+{
+    "team_a": "Pierikos",
+    "team_b": "Alexandreia",
+    "team_a_logo": "https://media.api-sports.io/football/teams/12384.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/24869.png",
+    "league": "Gamma Ethniki - Group 2",
+    "time": "13:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "pierikos-vs-alexandreia-2026-04-05"
+}

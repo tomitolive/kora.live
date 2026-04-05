@@ -1,0 +1,14 @@
+{
+    "team_a": "Thor Akureyri",
+    "team_b": "FH hafnarfjordur",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2116.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/270.png",
+    "league": "Cup",
+    "time": "14:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "thor-akureyri-vs-fh-hafnarfjordur-2026-04-04"
+}

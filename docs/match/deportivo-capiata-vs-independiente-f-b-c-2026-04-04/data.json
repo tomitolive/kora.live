@@ -1,0 +1,14 @@
+{
+    "team_a": "Deportivo Capiata",
+    "team_b": "Independiente F.b.c.",
+    "team_a_logo": "https://media.api-sports.io/football/teams/1180.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/1186.png",
+    "league": "Division Intermedia",
+    "time": "20:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "deportivo-capiata-vs-independiente-f-b-c-2026-04-04"
+}

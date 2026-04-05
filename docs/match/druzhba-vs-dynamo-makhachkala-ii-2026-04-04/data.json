@@ -1,0 +1,14 @@
+{
+    "team_a": "Druzhba",
+    "team_b": "Dynamo Makhachkala II",
+    "team_a_logo": "https://media.api-sports.io/football/teams/6798.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/21853.png",
+    "league": "Second League - Group 1",
+    "time": "13:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "druzhba-vs-dynamo-makhachkala-ii-2026-04-04"
+}

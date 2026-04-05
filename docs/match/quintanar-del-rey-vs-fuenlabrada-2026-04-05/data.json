@@ -1,0 +1,14 @@
+{
+    "team_a": "Quintanar del Rey",
+    "team_b": "Fuenlabrada",
+    "team_a_logo": "https://media.api-sports.io/football/teams/9906.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/4906.png",
+    "league": "Segunda División RFEF - Group 5",
+    "time": "15:30",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "quintanar-del-rey-vs-fuenlabrada-2026-04-05"
+}

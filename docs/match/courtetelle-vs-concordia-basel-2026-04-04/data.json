@@ -1,0 +1,14 @@
+{
+    "team_a": "Courtételle",
+    "team_b": "Concordia Basel",
+    "team_a_logo": "https://media.api-sports.io/football/teams/17480.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/6622.png",
+    "league": "1. Liga Classic - Group 2",
+    "time": "14:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "courtetelle-vs-concordia-basel-2026-04-04"
+}

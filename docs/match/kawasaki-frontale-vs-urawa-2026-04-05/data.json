@@ -1,0 +1,14 @@
+{
+    "team_a": "Kawasaki Frontale",
+    "team_b": "Urawa",
+    "team_a_logo": "https://media.api-sports.io/football/teams/294.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/287.png",
+    "league": "J1 League",
+    "time": "07:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "kawasaki-frontale-vs-urawa-2026-04-05"
+}

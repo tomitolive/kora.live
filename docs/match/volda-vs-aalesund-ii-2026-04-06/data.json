@@ -1,0 +1,14 @@
+{
+    "team_a": "Volda",
+    "team_b": "Aalesund II",
+    "team_a_logo": "https://media.api-sports.io/football/teams/16226.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/16222.png",
+    "league": "3. Division - Girone 2",
+    "time": "14:00",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "volda-vs-aalesund-ii-2026-04-06"
+}

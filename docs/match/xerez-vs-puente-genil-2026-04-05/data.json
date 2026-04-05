@@ -1,0 +1,14 @@
+{
+    "team_a": "Xerez",
+    "team_b": "Puente Genil",
+    "team_a_logo": "https://media.api-sports.io/football/teams/9770.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/9764.png",
+    "league": "Segunda División RFEF - Group 4",
+    "time": "16:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "xerez-vs-puente-genil-2026-04-05"
+}

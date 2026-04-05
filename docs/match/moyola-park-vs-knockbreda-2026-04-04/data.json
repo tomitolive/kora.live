@@ -1,0 +1,14 @@
+{
+    "team_a": "Moyola Park",
+    "team_b": "Knockbreda",
+    "team_a_logo": "https://media.api-sports.io/football/teams/11117.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/5344.png",
+    "league": "Premier Intermediate League",
+    "time": "14:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "moyola-park-vs-knockbreda-2026-04-04"
+}

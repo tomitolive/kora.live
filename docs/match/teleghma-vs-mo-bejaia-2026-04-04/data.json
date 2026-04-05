@@ -1,0 +1,14 @@
+{
+    "team_a": "Teleghma",
+    "team_b": "MO Bejaia",
+    "team_a_logo": "https://media.api-sports.io/football/teams/10806.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/920.png",
+    "league": "Ligue 2",
+    "time": "14:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "teleghma-vs-mo-bejaia-2026-04-04"
+}

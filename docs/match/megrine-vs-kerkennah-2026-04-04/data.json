@@ -1,0 +1,14 @@
+{
+    "team_a": "Mégrine",
+    "team_b": "Kerkennah",
+    "team_a_logo": "https://media.api-sports.io/football/teams/20846.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/10616.png",
+    "league": "Ligue 2",
+    "time": "13:30",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "megrine-vs-kerkennah-2026-04-04"
+}

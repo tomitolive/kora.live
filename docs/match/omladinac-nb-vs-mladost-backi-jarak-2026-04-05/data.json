@@ -1,0 +1,14 @@
+{
+    "team_a": "Omladinac NB",
+    "team_b": "Mladost Bački Jarak",
+    "team_a_logo": "https://media.api-sports.io/football/teams/12330.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/26412.png",
+    "league": "Srpska Liga - Vojvodina",
+    "time": "09:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "omladinac-nb-vs-mladost-backi-jarak-2026-04-05"
+}

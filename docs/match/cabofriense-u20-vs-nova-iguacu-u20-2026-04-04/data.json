@@ -1,0 +1,14 @@
+{
+    "team_a": "Cabofriense U20",
+    "team_b": "Nova Iguaçu U20",
+    "team_a_logo": "https://media.api-sports.io/football/teams/27580.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/13032.png",
+    "league": "Copa Rio U20",
+    "time": "18:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "cabofriense-u20-vs-nova-iguacu-u20-2026-04-04"
+}

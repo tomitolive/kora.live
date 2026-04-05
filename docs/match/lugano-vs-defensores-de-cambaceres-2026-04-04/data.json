@@ -1,0 +1,14 @@
+{
+    "team_a": "Lugano",
+    "team_b": "Defensores de Cambaceres",
+    "team_a_logo": "https://media.api-sports.io/football/teams/8396.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/8392.png",
+    "league": "Primera C",
+    "time": "18:30",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "lugano-vs-defensores-de-cambaceres-2026-04-04"
+}

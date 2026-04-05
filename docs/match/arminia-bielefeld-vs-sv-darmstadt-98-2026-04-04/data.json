@@ -1,0 +1,14 @@
+{
+    "team_a": "Arminia Bielefeld",
+    "team_b": "SV Darmstadt 98",
+    "team_a_logo": "https://media.api-sports.io/football/teams/188.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/181.png",
+    "league": "2. Bundesliga",
+    "time": "11:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "arminia-bielefeld-vs-sv-darmstadt-98-2026-04-04"
+}

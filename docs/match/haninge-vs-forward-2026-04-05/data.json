@@ -1,0 +1,14 @@
+{
+    "team_a": "Haninge",
+    "team_b": "Forward",
+    "team_a_logo": "https://media.api-sports.io/football/teams/6672.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/11666.png",
+    "league": "Division 2 - Södra Svealand",
+    "time": "11:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "haninge-vs-forward-2026-04-05"
+}

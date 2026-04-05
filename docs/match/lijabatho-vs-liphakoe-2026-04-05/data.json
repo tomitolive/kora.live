@@ -1,0 +1,14 @@
+{
+    "team_a": "Lijabatho",
+    "team_b": "Liphakoe",
+    "team_a_logo": "https://media.api-sports.io/football/teams/20980.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/20983.png",
+    "league": "Premier League",
+    "time": "13:00",
+    "date": "2026-04-05",
+    "channel": "beIN Sports 1 HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "lijabatho-vs-liphakoe-2026-04-05"
+}

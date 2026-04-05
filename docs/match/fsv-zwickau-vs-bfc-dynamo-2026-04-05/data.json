@@ -1,0 +1,14 @@
+{
+    "team_a": "FSV Zwickau",
+    "team_b": "BFC Dynamo",
+    "team_a_logo": "https://media.api-sports.io/football/teams/1315.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/1636.png",
+    "league": "Regionalliga - Nordost",
+    "time": "16:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "fsv-zwickau-vs-bfc-dynamo-2026-04-05"
+}

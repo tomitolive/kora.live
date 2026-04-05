@@ -1,0 +1,14 @@
+{
+    "team_a": "Cruz Azul",
+    "team_b": "Pachuca",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2295.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/2292.png",
+    "league": "Liga MX",
+    "time": "01:05",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "cruz-azul-vs-pachuca-2026-04-05"
+}

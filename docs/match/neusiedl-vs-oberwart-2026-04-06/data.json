@@ -1,0 +1,14 @@
+{
+    "team_a": "Neusiedl",
+    "team_b": "Oberwart",
+    "team_a_logo": "https://media.api-sports.io/football/teams/4954.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/11200.png",
+    "league": "Regionalliga - Ost",
+    "time": "14:30",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "neusiedl-vs-oberwart-2026-04-06"
+}

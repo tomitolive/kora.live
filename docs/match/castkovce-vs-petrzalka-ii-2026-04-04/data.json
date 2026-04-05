@@ -1,0 +1,14 @@
+{
+    "team_a": "Častkovce",
+    "team_b": "Petržalka II",
+    "team_a_logo": "https://media.api-sports.io/football/teams/14066.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/26246.png",
+    "league": "3. liga - West",
+    "time": "14:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "castkovce-vs-petrzalka-ii-2026-04-04"
+}

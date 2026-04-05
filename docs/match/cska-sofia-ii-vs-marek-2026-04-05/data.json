@@ -1,0 +1,14 @@
+{
+    "team_a": "CSKA Sofia II",
+    "team_b": "Marek",
+    "team_a_logo": "https://media.api-sports.io/football/teams/1415.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/8543.png",
+    "league": "Second League",
+    "time": "14:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "cska-sofia-ii-vs-marek-2026-04-05"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "AS Jeunesse Esch",
+    "team_b": "F91 Dudelange",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2034.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/578.png",
+    "league": "National Division",
+    "time": "14:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "as-jeunesse-esch-vs-f91-dudelange-2026-04-04"
+}

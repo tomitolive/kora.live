@@ -1,0 +1,14 @@
+{
+    "team_a": "Long An",
+    "team_b": "Bắc Ninh",
+    "team_a_logo": "https://media.api-sports.io/football/teams/9165.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/26601.png",
+    "league": "V.League 2",
+    "time": "09:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "long-an-vs-bac-ninh-2026-04-04"
+}

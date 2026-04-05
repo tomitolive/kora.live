@@ -1,0 +1,14 @@
+{
+    "team_a": "Ascot United",
+    "team_b": "Fareham Town",
+    "team_a_logo": "https://media.api-sports.io/football/teams/8685.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/8782.png",
+    "league": "Non League Div One - Isthmian South Central",
+    "time": "14:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "ascot-united-vs-fareham-town-2026-04-04"
+}

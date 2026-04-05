@@ -1,0 +1,14 @@
+{
+    "team_a": "Austria Lustenau II",
+    "team_b": "Admira Dornbirn",
+    "team_a_logo": "https://media.api-sports.io/football/teams/8254.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/8350.png",
+    "league": "Landesliga - Vorarlbergliga",
+    "time": "15:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "austria-lustenau-ii-vs-admira-dornbirn-2026-04-05"
+}

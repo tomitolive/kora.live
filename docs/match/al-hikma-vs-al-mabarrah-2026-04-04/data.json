@@ -1,0 +1,14 @@
+{
+    "team_a": "Al Hikma",
+    "team_b": "Al Mabarrah",
+    "team_a_logo": "https://media.api-sports.io/football/teams/11879.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/11880.png",
+    "league": "Premier League",
+    "time": "12:30",
+    "date": "2026-04-04",
+    "channel": "beIN Sports 1 HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "al-hikma-vs-al-mabarrah-2026-04-04"
+}

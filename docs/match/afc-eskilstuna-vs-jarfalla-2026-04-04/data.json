@@ -1,0 +1,14 @@
+{
+    "team_a": "AFC Eskilstuna",
+    "team_b": "Järfälla",
+    "team_a_logo": "https://media.api-sports.io/football/teams/765.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/16598.png",
+    "league": "Ettan - Norra",
+    "time": "14:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "afc-eskilstuna-vs-jarfalla-2026-04-04"
+}

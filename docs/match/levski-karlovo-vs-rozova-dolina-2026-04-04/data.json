@@ -1,0 +1,14 @@
+{
+    "team_a": "Levski Karlovo",
+    "team_b": "Rozova dolina",
+    "team_a_logo": "https://media.api-sports.io/football/teams/1408.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/8537.png",
+    "league": "Third League - Southeast",
+    "time": "14:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "levski-karlovo-vs-rozova-dolina-2026-04-04"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Pacific FC",
+    "team_b": "Cavalry FC",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2622.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/2619.png",
+    "league": "Canadian Premier League",
+    "time": "22:00",
+    "date": "2026-04-05",
+    "channel": "beIN Sports 1 HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "pacific-fc-vs-cavalry-fc-2026-04-05"
+}

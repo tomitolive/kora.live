@@ -1,0 +1,14 @@
+{
+    "team_a": "Jeju United FC",
+    "team_b": "Bucheon FC 1995",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2761.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/2745.png",
+    "league": "K League 1",
+    "time": "05:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "jeju-united-fc-vs-bucheon-fc-1995-2026-04-04"
+}

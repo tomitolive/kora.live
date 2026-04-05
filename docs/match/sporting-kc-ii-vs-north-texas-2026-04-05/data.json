@@ -1,0 +1,14 @@
+{
+    "team_a": "Sporting KC II",
+    "team_b": "North Texas",
+    "team_a_logo": "https://media.api-sports.io/football/teams/4019.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/10282.png",
+    "league": "MLS Next Pro",
+    "time": "00:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "sporting-kc-ii-vs-north-texas-2026-04-05"
+}

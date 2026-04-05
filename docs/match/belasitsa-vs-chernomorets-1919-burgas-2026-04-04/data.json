@@ -1,0 +1,14 @@
+{
+    "team_a": "Belasitsa",
+    "team_b": "Chernomorets 1919 Burgas",
+    "team_a_logo": "https://media.api-sports.io/football/teams/8540.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/8530.png",
+    "league": "Second League",
+    "time": "14:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "belasitsa-vs-chernomorets-1919-burgas-2026-04-04"
+}

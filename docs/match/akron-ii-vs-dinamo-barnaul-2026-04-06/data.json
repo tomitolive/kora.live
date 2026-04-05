@@ -1,0 +1,14 @@
+{
+    "team_a": "Akron II",
+    "team_b": "Dinamo Barnaul",
+    "team_a_logo": "https://media.api-sports.io/football/teams/21535.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/6794.png",
+    "league": "Second League - Group 4",
+    "time": "10:00",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "akron-ii-vs-dinamo-barnaul-2026-04-06"
+}

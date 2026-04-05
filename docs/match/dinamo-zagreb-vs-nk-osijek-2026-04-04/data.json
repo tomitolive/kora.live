@@ -1,0 +1,14 @@
+{
+    "team_a": "Dinamo Zagreb",
+    "team_b": "NK Osijek",
+    "team_a_logo": "https://media.api-sports.io/football/teams/620.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/616.png",
+    "league": "HNL",
+    "time": "13:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "dinamo-zagreb-vs-nk-osijek-2026-04-04"
+}

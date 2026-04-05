@@ -1,0 +1,14 @@
+{
+    "team_a": "Stuttgart II",
+    "team_b": "SSV Jahn Regensburg",
+    "team_a_logo": "https://media.api-sports.io/football/teams/12867.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/177.png",
+    "league": "3. Liga",
+    "time": "14:30",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "stuttgart-ii-vs-ssv-jahn-regensburg-2026-04-04"
+}

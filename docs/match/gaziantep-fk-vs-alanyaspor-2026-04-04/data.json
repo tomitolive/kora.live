@@ -1,0 +1,14 @@
+{
+    "team_a": "Gaziantep FK",
+    "team_b": "Alanyaspor",
+    "team_a_logo": "https://media.api-sports.io/football/teams/3573.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/996.png",
+    "league": "Süper Lig",
+    "time": "14:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "gaziantep-fk-vs-alanyaspor-2026-04-04"
+}

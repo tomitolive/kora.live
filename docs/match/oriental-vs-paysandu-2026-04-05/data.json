@@ -1,0 +1,14 @@
+{
+    "team_a": "Oriental",
+    "team_b": "Paysandu",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2376.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/19410.png",
+    "league": "Segunda División",
+    "time": "19:30",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "oriental-vs-paysandu-2026-04-05"
+}

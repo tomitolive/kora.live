@@ -1,0 +1,14 @@
+{
+    "team_a": "Tuna Luso",
+    "team_b": "Imperatriz",
+    "team_a_logo": "https://media.api-sports.io/football/teams/15611.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/2213.png",
+    "league": "Serie D",
+    "time": "19:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "tuna-luso-vs-imperatriz-2026-04-05"
+}

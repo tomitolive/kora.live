@@ -1,0 +1,14 @@
+{
+    "team_a": "Luzern W",
+    "team_b": "Young Boys W",
+    "team_a_logo": "https://media.api-sports.io/football/teams/16040.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/17367.png",
+    "league": "AXA Women’s Super League",
+    "time": "15:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "luzern-w-vs-young-boys-w-2026-04-04"
+}

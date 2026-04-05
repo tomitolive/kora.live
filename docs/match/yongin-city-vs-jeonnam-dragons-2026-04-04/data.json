@@ -1,0 +1,14 @@
+{
+    "team_a": "Yongin City",
+    "team_b": "Jeonnam Dragons",
+    "team_a_logo": "https://media.api-sports.io/football/teams/9171.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/2760.png",
+    "league": "K League 2",
+    "time": "05:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "yongin-city-vs-jeonnam-dragons-2026-04-04"
+}

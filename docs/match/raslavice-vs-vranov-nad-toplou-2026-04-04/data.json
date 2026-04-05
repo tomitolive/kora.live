@@ -1,0 +1,14 @@
+{
+    "team_a": "Raslavice",
+    "team_b": "Vranov nad Topľou",
+    "team_a_logo": "https://media.api-sports.io/football/teams/17258.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/14079.png",
+    "league": "3. liga - East",
+    "time": "14:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "raslavice-vs-vranov-nad-toplou-2026-04-04"
+}

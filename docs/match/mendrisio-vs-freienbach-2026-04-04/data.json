@@ -1,0 +1,14 @@
+{
+    "team_a": "Mendrisio",
+    "team_b": "Freienbach",
+    "team_a_logo": "https://media.api-sports.io/football/teams/16354.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/6625.png",
+    "league": "1. Liga Classic - Group 3",
+    "time": "14:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "mendrisio-vs-freienbach-2026-04-04"
+}

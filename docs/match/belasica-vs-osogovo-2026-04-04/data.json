@@ -1,0 +1,14 @@
+{
+    "team_a": "Belasica",
+    "team_b": "Osogovo",
+    "team_a_logo": "https://media.api-sports.io/football/teams/4328.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/4354.png",
+    "league": "Second League",
+    "time": "13:30",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "belasica-vs-osogovo-2026-04-04"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Hibernian",
+    "team_b": "Kilmarnock",
+    "team_a_logo": "https://media.api-sports.io/football/teams/249.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/250.png",
+    "league": "Premiership",
+    "time": "14:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "hibernian-vs-kilmarnock-2026-04-04"
+}

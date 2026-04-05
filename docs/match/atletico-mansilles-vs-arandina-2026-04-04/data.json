@@ -1,0 +1,14 @@
+{
+    "team_a": "Atlético Mansillés",
+    "team_b": "Arandina",
+    "team_a_logo": "https://media.api-sports.io/football/teams/17502.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/9722.png",
+    "league": "Tercera División RFEF - Group 8",
+    "time": "15:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "atletico-mansilles-vs-arandina-2026-04-04"
+}

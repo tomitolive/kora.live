@@ -1,0 +1,14 @@
+{
+    "team_a": "Rydalmere Lions",
+    "team_b": "Inter Lions",
+    "team_a_logo": "https://media.api-sports.io/football/teams/20797.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/20795.png",
+    "league": "New South Wales NPL 2",
+    "time": "07:30",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "rydalmere-lions-vs-inter-lions-2026-04-04"
+}

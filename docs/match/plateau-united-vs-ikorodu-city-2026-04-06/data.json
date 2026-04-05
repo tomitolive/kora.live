@@ -1,0 +1,14 @@
+{
+    "team_a": "Plateau United",
+    "team_b": "Ikorodu City",
+    "team_a_logo": "https://media.api-sports.io/football/teams/5190.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/24512.png",
+    "league": "NPFL",
+    "time": "15:00",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "plateau-united-vs-ikorodu-city-2026-04-06"
+}

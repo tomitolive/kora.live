@@ -1,0 +1,14 @@
+{
+    "team_a": "Getafe II",
+    "team_b": "Colonia Moscardó",
+    "team_a_logo": "https://media.api-sports.io/football/teams/9572.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/17589.png",
+    "league": "Segunda División RFEF - Group 5",
+    "time": "09:30",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "getafe-ii-vs-colonia-moscardo-2026-04-05"
+}

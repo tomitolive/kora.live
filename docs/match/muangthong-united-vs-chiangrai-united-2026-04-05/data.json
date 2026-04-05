@@ -1,0 +1,14 @@
+{
+    "team_a": "Muangthong United",
+    "team_b": "Chiangrai United",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2786.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/2771.png",
+    "league": "Thai League 1",
+    "time": "11:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "muangthong-united-vs-chiangrai-united-2026-04-05"
+}

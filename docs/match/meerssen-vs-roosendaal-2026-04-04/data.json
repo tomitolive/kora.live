@@ -1,0 +1,14 @@
+{
+    "team_a": "Meerssen",
+    "team_b": "Roosendaal",
+    "team_a_logo": "https://media.api-sports.io/football/teams/14508.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/19266.png",
+    "league": "Derde Divisie - Sunday",
+    "time": "16:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "meerssen-vs-roosendaal-2026-04-04"
+}

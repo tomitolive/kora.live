@@ -1,0 +1,14 @@
+{
+    "team_a": "Varbergs BoIS FC",
+    "team_b": "Ostersunds FK",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2171.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/376.png",
+    "league": "Superettan",
+    "time": "13:00",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "varbergs-bois-fc-vs-ostersunds-fk-2026-04-06"
+}

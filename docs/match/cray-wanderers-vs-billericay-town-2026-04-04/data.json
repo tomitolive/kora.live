@@ -1,0 +1,14 @@
+{
+    "team_a": "Cray Wanderers",
+    "team_b": "Billericay Town",
+    "team_a_logo": "https://media.api-sports.io/football/teams/7711.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/4678.png",
+    "league": "Non League Premier - Isthmian",
+    "time": "14:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "cray-wanderers-vs-billericay-town-2026-04-04"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "VCD Athletic",
+    "team_b": "Jersey Bulls",
+    "team_a_logo": "https://media.api-sports.io/football/teams/7258.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/16987.png",
+    "league": "Non League Div One - Isthmian South East",
+    "time": "14:00",
+    "date": "2026-04-04",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "vcd-athletic-vs-jersey-bulls-2026-04-04"
+}

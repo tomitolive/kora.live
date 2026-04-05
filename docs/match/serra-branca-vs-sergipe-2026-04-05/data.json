@@ -1,0 +1,14 @@
+{
+    "team_a": "Serra Branca",
+    "team_b": "Sergipe",
+    "team_a_logo": "https://media.api-sports.io/football/teams/20710.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/2224.png",
+    "league": "Serie D",
+    "time": "19:30",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "serra-branca-vs-sergipe-2026-04-05"
+}
