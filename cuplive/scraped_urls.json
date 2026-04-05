@@ -7928,7 +7928,7 @@
         "league": "Copa Rio U20",
         "time": "18:00",
         "date": "2026-04-05",
-        "live": true
+        "live": false
     },
     "/match/sampaio-correa-u20-vs-madureira-u20-2026-04-05/": {
         "type": "match",
@@ -8071,7 +8071,7 @@
         "league": "Primera División",
         "time": "18:15",
         "date": "2026-04-05",
-        "live": true
+        "live": false
     },
     "/match/potters-tigers-vs-john-hughes-2026-04-05/": {
         "type": "match",
