@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>آخر أخبار الرياضة</title>
+    <title>Necaxa W ضد Tijuana W</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@300;400;500;700;800;900&display=swap" rel="stylesheet">
@@ -129,6 +129,82 @@
         }
 
         
+    .match-header {
+        background: var(--primary);
+        color: var(--white);
+        padding: 3rem 1rem;
+        border-radius: 12px;
+        text-align: center;
+        margin-bottom: 2rem;
+    }
+
+    .teams {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 3rem;
+        font-size: 2rem;
+        font-weight: 800;
+        margin-bottom: 1.5rem;
+    }
+
+    .vs {
+        opacity: 0.7;
+        font-size: 1.5rem;
+    }
+
+    .match-meta {
+        font-size: 1.1rem;
+        opacity: 0.9;
+        display: flex;
+        justify-content: center;
+        gap: 2rem;
+    }
+
+    .player-container {
+        position: relative;
+        padding-bottom: 56.25%; /* 16:9 */
+        height: 0;
+        overflow: hidden;
+        border-radius: 10px;
+        background: #000;
+        border: 1px solid var(--border);
+        box-shadow: var(--shadow);
+    }
+
+    .player-container iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        border: none;
+    }
+
+    .server-selector {
+        display: flex;
+        gap: 0.8rem;
+        margin-bottom: 1rem;
+        overflow-x: auto;
+        padding-bottom: 0.5rem;
+    }
+
+    .server-btn {
+        padding: 0.5rem 1.2rem;
+        background: var(--surface);
+        border: 1px solid var(--border);
+        border-radius: 5px;
+        font-weight: 700;
+        cursor: pointer;
+        white-space: nowrap;
+    }
+
+    .server-btn.active {
+        background: var(--primary);
+        color: var(--white);
+        border-color: var(--primary);
+    }
+
     </style>
 </head>
 <body>
@@ -145,13 +221,37 @@
 
     <main class="container">
         
-<header style="margin-bottom: 3rem; text-align: center;">
-    <h1 style="font-size: 2.5rem; font-weight: 800; color: var(--primary);">أخبار الرياضة العالمية</h1>
-    <p style="color: var(--text-secondary);">تغطية شاملة لأهم الأحداث والتقارير الرياضية على مدار الساعة</p>
-</header>
+<div class="match-header">
+    <div style="font-size: 1.1rem; margin-bottom: 1.5rem; opacity: 0.8;">Liga MX Femenil</div>
+    <div class="teams">
+        <span>Necaxa W</span>
+        <span class="vs">VS</span>
+        <span>Tijuana W</span>
+    </div>
+    <div class="match-meta">
+        <span>🕒 22:00</span>
+        <span>📺 بانتظار المصدر</span>
+    </div>
+</div>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 2rem;">
+<div class="stream-section">
+    <h3 style="margin-bottom: 1rem; font-weight: 800;">مشاهدة البث المباشر</h3>
     
+    <div class="server-selector" id="serverSelector">
+        
+        <button class="server-btn active" onclick="changeSource('https://tv1.koora-plus.top', this)">
+            سيرفر 1
+        </button>
+        
+    </div>
+
+    <div class="player-container">
+        <iframe id="mainPlayer" src="https://tv1.koora-plus.top" allowfullscreen allow="autoplay; encrypted-media"></iframe>
+    </div>
+    
+    <p style="margin-top: 1rem; color: var(--text-secondary); font-size: 0.9rem;">
+        * يرجى تغيير السيرفر في حال توقف البث. جميع الحقوق محفوظة لمصادر البث.
+    </p>
 </div>
 
     </main>
@@ -162,5 +262,14 @@
     </footer>
 
     
+<script>
+    function changeSource(url, btn) {
+        document.getElementById('mainPlayer').src = url;
+        const buttons = document.querySelectorAll('.server-btn');
+        buttons.forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+    }
+</script>
+
 </body>
 </html>

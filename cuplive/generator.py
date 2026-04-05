@@ -79,20 +79,27 @@ class SiteGenerator:
         self.save_scraped_urls()
 
     def generate_index(self):
-        items = list(self.scraped_urls.values())
-        matches = [i for i in items if i['type'] == 'match']
-        news = [i for i in items if i['type'] == 'news'][-10:] # Last 10
+        # Get latest matches and news from scraped_urls
+        all_items = list(self.scraped_urls.values())
+        matches = [v for v in all_items if v.get('type') == 'match']
+        latest_matches = matches[-6:] if len(matches) >= 6 else matches
         
-        self.render_to_file("index.html", os.path.join(DOCS_DIR, "index.html"), {
-            "matches": matches,
-            "news": news
-        })
+        news = [v for v in all_items if v.get('type') == 'news']
+        latest_news = news[-6:] if len(news) >= 6 else news
+        
+        data = {
+            "matches": latest_matches,
+            "news": latest_news
+        }
+        self.render_to_file("index.html", os.path.join(DOCS_DIR, "index.html"), data)
 
     def generate_news_list(self):
-        news = [i for i in list(self.scraped_urls.values()) if i['type'] == 'news']
-        self.render_to_file("news.html", os.path.join(DOCS_DIR, "news", "index.html"), {
-            "articles": news
-        })
+        all_items = list(self.scraped_urls.values())
+        news_list = [v for v in all_items if v.get('type') == 'news']
+        data = {
+            "articles": news_list
+        }
+        self.render_to_file("news.html", os.path.join(DOCS_DIR, "news", "index.html"), data)
 
     def generate_sitemap(self):
         sitemap_path = os.path.join(DOCS_DIR, "sitemap.xml")
@@ -110,6 +117,30 @@ class SiteGenerator:
         
         with open(sitemap_path, 'w', encoding='utf-8') as f:
             f.write(xml)
+
+    def generate_live_json(self):
+        """Generates a small JSON for the frontend containing only live matches and latest news."""
+        live_path = os.path.join(DOCS_DIR, "live.json")
+        items = list(self.scraped_urls.values())
+        
+        # Filter for live matches or today's matches
+        import datetime
+        today = datetime.date.today().strftime("%Y-%m-%d")
+        live_matches = [i for i in items if i['type'] == 'match' and (i.get('live') or i.get('date') == today)]
+        
+        # Latest 10 news articles
+        news = [i for i in items if i['type'] == 'news']
+        latest_news = news[-10:] if len(news) >= 10 else news
+        
+        data = {
+            "live_matches": live_matches,
+            "latest_news": latest_news,
+            "last_update": datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        }
+        
+        with open(live_path, 'w', encoding='utf-8') as f:
+            json.dump(data, f, ensure_ascii=False, indent=4)
+        logging.info(f"Generated live.json: {live_path}")
 
 if __name__ == "__main__":
     logging.basicConfig(level=logging.INFO)

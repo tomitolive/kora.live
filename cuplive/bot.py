@@ -1,5 +1,8 @@
-import asyncio
+import sys
 import os
+sys.path.append(os.path.dirname(os.path.abspath(__file__)))
+
+import asyncio
 import logging
 import threading
 import time
@@ -68,6 +71,7 @@ class CupLiveBot:
         self.generator.generate_news_list()
         self.generator.generate_index()
         self.generator.generate_sitemap()
+        self.generator.generate_live_json()
         self.git_push()
 
     async def run_match_cycle(self):
@@ -92,6 +96,7 @@ class CupLiveBot:
             self.generator.generate_match_page(match_data)
         
         self.generator.generate_index()
+        self.generator.generate_live_json()
         self.git_push()
 
     def match_monitor_thread(self):
