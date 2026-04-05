@@ -94,14 +94,25 @@ class CupLiveScraper:
                         from urllib.parse import urljoin
                         target_url = urljoin(STREAM_SOURCE, target_url)
                     
-                    await page.goto(target_url, wait_until="networkidle")
-                    # Extract iframe
-                    iframes = await page.query_selector_all("iframe[src]")
+                    await page.goto(target_url, wait_until="networkidle", timeout=60000)
+                    
+                    # 1. Look for aplr-menu links (Specific user requirement)
+                    menu_links = await page.query_selector_all(".aplr-menu a.aplr-link")
                     sources = []
-                    for ifr in iframes:
-                        src = await ifr.get_attribute("src")
-                        if src and "google" not in src and "ads" not in src:
-                            sources.append({"name": f"سيرفر {len(sources)+1}", "url": src})
+                    for link in menu_links:
+                        href = await link.get_attribute("href")
+                        text = await link.inner_text()
+                        if href:
+                            sources.append({"name": text.strip() or f"سيرفر {len(sources)+1}", "url": href})
+                    
+                    # 2. Fallback to iframes if no menu links found
+                    if not sources:
+                        iframes = await page.query_selector_all("iframe[src]")
+                        for ifr in iframes:
+                            src = await ifr.get_attribute("src")
+                            if src and "google" not in src and "ads" not in src:
+                                sources.append({"name": f"سيرفر {len(sources)+1}", "url": src})
+                    
                     return sources
             except Exception as e:
                 logging.error(f"Error scraping match stream: {e}")

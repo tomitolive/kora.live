@@ -43,10 +43,29 @@ class SiteGenerator:
 
     def generate_match_page(self, match_data):
         slug = slugify(f"{match_data['team_a']}-vs-{match_data['team_b']}-{match_data['date']}")
-        output_dir = os.path.join(DOCS_DIR, "match", slug)
-        output_file = os.path.join(output_dir, "index.html")
+        match_data['slug'] = slug
+        match_dir = os.path.join(DOCS_DIR, "match", slug)
+        os.makedirs(match_dir, exist_ok=True)
         
-        self.render_to_file("match.html", output_file, match_data)
+        # Render match index
+        output_path = os.path.join(match_dir, "index.html")
+        template = self.env.get_template("match.html")
+        
+        # Link to watch page if servers exist
+        has_servers = bool(match_data.get('servers'))
+        watch_url = f"/match/{match_data['slug']}/watch.html" if has_servers else None
+        
+        html = template.render(
+            **match_data,
+            watch_url=watch_url,
+            colors=COLORS
+        )
+        with open(output_path, "w") as f:
+            f.write(html)
+            
+        # 4. Generate watch.html if servers available
+        if has_servers:
+            self.generate_watch_page(match_data)
         
         self.scraped_urls[f"/match/{slug}/"] = {
             "type": "match",
@@ -57,9 +76,29 @@ class SiteGenerator:
             "league": match_data['league'],
             "time": match_data['time'],
             "date": match_data['date'],
-            "live": match_data.get('live', False)
+            "live": match_data.get('live', False),
+            "watch_url": watch_url
         }
         self.save_scraped_urls()
+
+    def generate_watch_page(self, match_data):
+        match_dir = os.path.join(DOCS_DIR, "match", match_data['slug'])
+        os.makedirs(match_dir, exist_ok=True)
+        
+        output_path = os.path.join(match_dir, "watch.html")
+        template = self.env.get_template("watch.html")
+        
+        # Use extracted servers
+        servers = match_data.get('servers', [])
+        
+        html = template.render(
+            **match_data,
+            servers=servers,
+            colors=COLORS
+        )
+        with open(output_path, "w") as f:
+            f.write(html)
+        logging.info(f"Generated watch page: {output_path}")
 
     def generate_article_page(self, article_data):
         slug = slugify(article_data['article_title'])
@@ -132,8 +171,23 @@ class SiteGenerator:
         news = [i for i in items if i['type'] == 'news']
         latest_news = news[-10:] if len(news) >= 10 else news
         
+        today_matches = [
+            {
+                "type": "match",
+                "slug": m['slug'],
+                "title": m['title'],
+                "team_a": m['team_a'],
+                "team_b": m['team_b'],
+                "league": m['league'],
+                "time": m['time'],
+                "date": m['date'],
+                "live": m.get('live', False),
+                "watch_url": m.get('watch_url')
+            } for m in live_matches if m.get('watch_url')
+        ]
+        
         data = {
-            "live_matches": live_matches,
+            "live_matches": today_matches,
             "latest_news": latest_news,
             "last_update": datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
         }

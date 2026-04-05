@@ -93,6 +93,10 @@ class CupLiveBot:
                 streams = await self.scraper.scrape_match_stream(f"{match_data['team_a']} vs {match_data['team_b']}")
                 if streams: match_data['servers'] = streams
             
+            # Ensure slug exists for JSON tracking if needed before generation
+            from slugify import slugify
+            match_data['slug'] = slugify(f"{match_data['team_a']}-vs-{match_data['team_b']}-{match_data['date']}")
+            
             self.generator.generate_match_page(match_data)
         
         self.generator.generate_index()

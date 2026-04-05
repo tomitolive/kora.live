@@ -81,38 +81,37 @@
 {% endblock %}
 
 {% block content %}
-<div class="match-header">
-    <div style="font-size: 1.1rem; margin-bottom: 1.5rem; opacity: 0.8;">{{ league }}</div>
-    <div class="teams">
-        <span>{{ team_a }}</span>
-        <span class="vs">VS</span>
-        <span>{{ team_b }}</span>
-    </div>
-    <div class="match-meta">
-        <span>🕒 {{ time }}</span>
-        <span>📺 {{ channel }}</span>
-    </div>
-</div>
+    <div class="match-card">
+        <div class="match-header">
+            <span class="league-tag">{{ league }}</span>
+            <span style="font-weight: 700; color: var(--text-main);">{{ time }}</span>
+        </div>
+        
+        <div class="match-teams">
+            <div class="team">
+                <div class="team-logo">{{ team_a[0] }}</div>
+                <div class="team-name">{{ team_a }}</div>
+            </div>
+            <div class="vs">VS</div>
+            <div class="team">
+                <div class="team-logo">{{ team_b[0] }}</div>
+                <div class="team-name">{{ team_b }}</div>
+            </div>
+        </div>
 
-<div class="stream-section">
-    <h3 style="margin-bottom: 1rem; font-weight: 800;">مشاهدة البث المباشر</h3>
-    
-    <div class="server-selector" id="serverSelector">
-        {% for server in servers %}
-        <button class="server-btn {% if loop.index == 1 %}active{% endif %}" onclick="changeSource('{{ server.url }}', this)">
-            {{ server.name }}
-        </button>
-        {% endfor %}
+        {% if watch_url %}
+        <div style="text-align: center; margin-top: 2rem;">
+            <a href="{{ watch_url }}" class="watch-btn" style="display: inline-block; background: var(--primary); color: white; padding: 1.2rem 3rem; border-radius: 50px; text-decoration: none; font-weight: 800; font-size: 1.2rem; box-shadow: 0 4px 15px rgba(10, 92, 42, 0.3); transition: var(--transition);">
+                إضغط هنا لمشاهدة المباراة بث مباشر 📺
+            </a>
+            <p style="margin-top: 1rem; color: var(--text-muted); font-weight: 600;">بث مباشر بجودة عالية - اختيار السيرفر متاح في صفحة المشاهدة</p>
+        </div>
+        {% else %}
+        <div style="text-align: center; margin-top: 2rem; padding: 1.5rem; background: var(--surface); border-radius: 8px;">
+            <p style="color: var(--text-muted); font-weight: 700;">البث المباشر سيتوفر قبل بداية المباراة بـ 15 دقيقة</p>
+        </div>
+        {% endif %}
     </div>
-
-    <div class="player-container">
-        <iframe id="mainPlayer" src="{{ servers[0].url if servers else '' }}" allowfullscreen allow="autoplay; encrypted-media"></iframe>
-    </div>
-    
-    <p style="margin-top: 1rem; color: var(--text-secondary); font-size: 0.9rem;">
-        * يرجى تغيير السيرفر في حال توقف البث. جميع الحقوق محفوظة لمصادر البث.
-    </p>
-</div>
 {% endblock %}
 
 {% block extra_js %}
