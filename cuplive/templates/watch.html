@@ -83,11 +83,20 @@
         </div>
     </div>
     
-    <iframe id="main-iframe" src="{{ servers[0].url if servers else '' }}" allowfullscreen></iframe>
+    <div style="background: #222; padding: 5px 15px; font-size: 0.8rem; color: #f1c40f; text-align: center; border-bottom: 1px solid #444;">
+        ⚠️ إذا لم يظهر البث، اضغط على السيرفر مرة أخرى أو استخدم زر "فتح في نافذة جديدة"
+    </div>
+
+    <iframe id="main-iframe" src="{{ servers[0].url if servers else '' }}" allowfullscreen referrerpolicy="no-referrer"></iframe>
+
+    <div style="position: absolute; bottom: 20px; right: 20px;">
+        <a id="external-link" href="{{ servers[0].url if servers else '#' }}" target="_blank" class="server-btn" style="background: #e74c3c; text-decoration: none;">فتح في نافذة جديدة ↗️</a>
+    </div>
 
     <script>
         function changeServer(url, btn) {
             document.getElementById('main-iframe').src = url;
+            document.getElementById('external-link').href = url;
             document.querySelectorAll('.server-btn').forEach(b => b.classList.remove('active'));
             btn.classList.add('active');
         }
