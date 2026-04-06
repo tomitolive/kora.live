@@ -150,6 +150,10 @@
 
 {% if watch_url %}
 <div class="player-container">
+    <div style="margin-bottom: 1.5rem; display: flex; justify-content: space-between; align-items: center;">
+        <h2 style="margin: 0; font-weight: 900; color: var(--text-main);">📺 مشغل المباراة</h2>
+        <a href="watch.html" class="tab-btn active" style="text-decoration: none; font-size: 0.9rem;">ملء الشاشة ⛶</a>
+    </div>
     <div class="video-wrapper">
         <iframe id="main-player" src="{{ watch_url }}" allowfullscreen frameborder="0"></iframe>
     </div>
