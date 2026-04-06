@@ -106,16 +106,16 @@
         </div>
     </div>
 
-    <iframe id="main-iframe" src="{{ servers[0].url if servers else '' }}" allowfullscreen></iframe>
+    <iframe id="main-iframe" src="https://koralive.aziz-jahor123.workers.dev/?url={{ servers[0].url | urlencode if servers else '' }}" allowfullscreen></iframe>
 
     <script>
+        const PROXY = 'https://koralive.aziz-jahor123.workers.dev/?url=';
+
         function changeServer(url, btn) {
-            document.getElementById('main-iframe').src = url;
+            document.getElementById('main-iframe').src = PROXY + encodeURIComponent(url);
             document.querySelectorAll('.server-btn').forEach(b => b.classList.remove('active'));
             btn.classList.add('active');
         }
-
-        // Auto-refresh logic handled by parent match.html but can be added here too if needed
     </script>
 </body>
 
