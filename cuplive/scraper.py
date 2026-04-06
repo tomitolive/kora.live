@@ -74,6 +74,37 @@ class CupLiveScraper:
         self.save_channel_map()
 
 
+    async def extract_m3u8_from_page(self, context, url, server_name):
+        """Visit a player URL and intercept the actual m3u8 stream link."""
+        logging.info(f"Extracting m3u8 from: {url}")
+        page = await context.new_page()
+        m3u8_found = []
+
+        async def on_request(request):
+            req_url = request.url
+            if any(ext in req_url for ext in [".m3u8", ".mpd", ".m3u"]):
+                if "ads" not in req_url and not any(x['url'] == req_url for x in m3u8_found):
+                    m3u8_found.append({"name": server_name, "url": req_url})
+                    logging.info(f"🎯 Found m3u8: {req_url}")
+
+        page.on("request", on_request)
+        try:
+            await page.goto(url, wait_until="networkidle", timeout=30000)
+            # Try clicking play buttons to trigger the stream
+            for sel in ["video", ".vjs-big-play-button", "#player", ".play-btn", "button"]:
+                try:
+                    el = await page.query_selector(sel)
+                    if el:
+                        await el.click()
+                        await asyncio.sleep(2)
+                        break
+                except: continue
+            await asyncio.sleep(3)  # wait for stream to start
+        except: pass
+        finally:
+            await page.close()
+        return m3u8_found
+
     async def scrape_from_url(self, base_url, match_name=None):
         logging.info(f"Scraping from: {base_url}")
         async with async_playwright() as p:
@@ -150,7 +181,24 @@ class CupLiveScraper:
                                         sources.append({"name": f"سيرفر {len(sources)+1}", "url": full_src})
                         except: continue
                 
-                return sources
+
+                # === DEEP PASS: Extract real .m3u8 from each server URL ===
+                deep_sources = []
+                for src in sources:
+                    src_url = src['url']
+                    # Only dig into player pages (not already m3u8/mp4)
+                    if any(ext in src_url for ext in [".m3u8", ".mp4", ".mpd"]):
+                        deep_sources.append(src)
+                    else:
+                        m3u8_list = await self.extract_m3u8_from_page(context, src_url, src['name'])
+                        if m3u8_list:
+                            deep_sources.extend(m3u8_list)
+                        else:
+                            # Keep the original URL as fallback
+                            deep_sources.append(src)
+
+                return deep_sources if deep_sources else sources
+
             except Exception as e:
                 logging.error(f"Error scraping {base_url}: {e}")
                 return []
