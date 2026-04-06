@@ -70,6 +70,7 @@
             100% { transform: scale(0.95); box-shadow: 0 0 0 0 rgba(255, 0, 0, 0); }
         }
     </style>
+    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
 </head>
 <body>
     
@@ -82,14 +83,45 @@
     
 
     <script>
+        var hls = null;
         function changeServer(url, btn) {
-            document.getElementById('main-iframe').src = url;
-            document.getElementById('external-link').href = url;
+            const iframe = document.getElementById('main-iframe');
+            const videoWrapper = document.getElementById('video-wrapper');
+            const video = document.getElementById('video-player');
+            const extLink = document.getElementById('external-link');
+            
+            if (extLink) extLink.href = url;
             document.querySelectorAll('.server-btn').forEach(b => b.classList.remove('active'));
-            btn.classList.add('active');
+            if (btn) btn.classList.add('active');
+
+            if (url.includes('.m3u8') || url.includes('.mp4') || url.includes('.mpd')) {
+                iframe.style.display = 'none';
+                iframe.src = 'about:blank';
+                videoWrapper.style.display = 'block';
+                
+                if (Hls.isSupported()) {
+                    if (hls) hls.destroy();
+                    hls = new Hls();
+                    hls.loadSource(url);
+                    hls.attachMedia(video);
+                    hls.on(Hls.Events.MANIFEST_PARSED, function() {
+                        video.play();
+                    });
+                } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+                    video.src = url;
+                    video.play();
+                }
+            } else {
+                if (hls) { hls.destroy(); hls = null; }
+                videoWrapper.style.display = 'none';
+                iframe.style.display = 'block';
+                iframe.src = url;
+            }
         }
-        
-        // Auto-refresh logic handled by parent match.html but can be added here too if needed
+
+        window.onload = function() {
+            
+        };
     </script>
 </body>
 </html>

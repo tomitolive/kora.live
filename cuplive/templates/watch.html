@@ -70,6 +70,7 @@
             100% { transform: scale(0.95); box-shadow: 0 0 0 0 rgba(255, 0, 0, 0); }
         }
     </style>
+    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
 </head>
 <body>
     {% if servers %}
@@ -88,10 +89,15 @@
         ⚠️ إذا لم يظهر البث، اضغط على السيرفر مرة أخرى أو استخدم زر "فتح في نافذة جديدة"
     </div>
 
-    <iframe id="main-iframe" src="{{ servers[0].url if servers else '' }}" allowfullscreen referrerpolicy="no-referrer"></iframe>
+    <div id="player-container" style="position: relative; width: 100%; height: calc(100vh - 55px); background: #000;">
+        <div id="video-wrapper" style="display: none; width: 100%; height: 100%;">
+            <video id="video-player" controls style="width: 100%; height: 100%;"></video>
+        </div>
+        <iframe id="main-iframe" src="" allowfullscreen referrerpolicy="no-referrer" style="width: 100%; height: 100%; border: none;"></iframe>
+    </div>
 
-    <div style="position: absolute; bottom: 20px; right: 20px;">
-        <a id="external-link" href="{{ servers[0].url if servers else '#' }}" target="_blank" class="server-btn" style="background: #e74c3c; text-decoration: none;">فتح في نافذة جديدة ↗️</a>
+    <div style="position: absolute; bottom: 20px; right: 20px; z-index: 100;">
+        <a id="external-link" href="#" target="_blank" class="server-btn" style="background: #e74c3c; text-decoration: none;">فتح في نافذة جديدة ↗️</a>
     </div>
     {% else %}
     <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh; text-align: center; padding: 2rem;">
@@ -103,14 +109,47 @@
     {% endif %}
 
     <script>
+        var hls = null;
         function changeServer(url, btn) {
-            document.getElementById('main-iframe').src = url;
-            document.getElementById('external-link').href = url;
+            const iframe = document.getElementById('main-iframe');
+            const videoWrapper = document.getElementById('video-wrapper');
+            const video = document.getElementById('video-player');
+            const extLink = document.getElementById('external-link');
+            
+            if (extLink) extLink.href = url;
             document.querySelectorAll('.server-btn').forEach(b => b.classList.remove('active'));
-            btn.classList.add('active');
+            if (btn) btn.classList.add('active');
+
+            if (url.includes('.m3u8') || url.includes('.mp4') || url.includes('.mpd')) {
+                iframe.style.display = 'none';
+                iframe.src = 'about:blank';
+                videoWrapper.style.display = 'block';
+                
+                if (Hls.isSupported()) {
+                    if (hls) hls.destroy();
+                    hls = new Hls();
+                    hls.loadSource(url);
+                    hls.attachMedia(video);
+                    hls.on(Hls.Events.MANIFEST_PARSED, function() {
+                        video.play();
+                    });
+                } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+                    video.src = url;
+                    video.play();
+                }
+            } else {
+                if (hls) { hls.destroy(); hls = null; }
+                videoWrapper.style.display = 'none';
+                iframe.style.display = 'block';
+                iframe.src = url;
+            }
         }
-        
-        // Auto-refresh logic handled by parent match.html but can be added here too if needed
+
+        window.onload = function() {
+            {% if servers %}
+            changeServer('{{ servers[0].url }}', document.querySelector('.server-btn'));
+            {% endif %}
+        };
     </script>
 </body>
 </html>

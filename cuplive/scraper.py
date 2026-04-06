@@ -73,82 +73,89 @@ class CupLiveScraper:
             await browser.close()
         self.save_channel_map()
 
-    async def scrape_match_stream(self, match_name):
-        from config import PREMIUM_SOURCE, STREAM_SOURCE
-        logging.info(f"Searching stream for {match_name}...")
-        
-        # Try Premium Source first as requested by user
-        sources = await self.scrape_from_url(PREMIUM_SOURCE, match_name)
-        if sources:
-            return sources
-            
-        # Fallback to secondary source
-        return await self.scrape_from_url(STREAM_SOURCE, match_name)
 
     async def scrape_from_url(self, base_url, match_name=None):
         logging.info(f"Scraping from: {base_url}")
         async with async_playwright() as p:
             browser = await p.chromium.launch(headless=True)
-            page = await browser.new_page()
+            context = await browser.new_context(user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36")
+            page = await context.new_page()
+            
+            extracted_streams = []
+            
+            # Intercept network requests for media streams
+            async def intercept_request(request):
+                url = request.url
+                if ".m3u8" in url or ".mpd" in url or ".mp4" in url:
+                    if not any(s['url'] == url for s in extracted_streams):
+                        extracted_streams.append({"name": f"سيرفر مباشر {len(extracted_streams)+1}", "url": url})
+            
+            page.on("request", intercept_request)
+            
             try:
                 await page.goto(base_url, wait_until="networkidle", timeout=60000)
                 
                 target_url = base_url
                 if match_name:
-                    # Look for match link if not already on a specific match page
                     links = await page.query_selector_all("a")
                     for link in links:
-                        text = await link.inner_text()
-                        if any(word.lower() in text.lower() for word in match_name.split() if len(word) > 3):
-                            found_href = await link.get_attribute("href")
-                            if found_href:
-                                from urllib.parse import urljoin
-                                target_url = urljoin(base_url, found_href)
-                                break
+                        try:
+                            text = await link.inner_text()
+                            if any(word.lower() in text.lower() for word in match_name.split() if len(word) > 3):
+                                found_href = await link.get_attribute("href")
+                                if found_href:
+                                    from urllib.parse import urljoin
+                                    target_url = urljoin(base_url, found_href)
+                                    break
+                        except: continue
                 
                 if target_url != base_url:
                     await page.goto(target_url, wait_until="networkidle", timeout=60000)
                 
-                sources = []
+                # 1. Try to click server buttons in all frames to trigger streams
+                for frame in page.frames:
+                    try:
+                        buttons = await frame.query_selector_all(".aplr-menu a, .aplr-link, button.server-btn")
+                        for btn in buttons[:5]:
+                            try:
+                                await btn.click()
+                                await asyncio.sleep(1.5)
+                            except: continue
+                    except: continue
+
+                sources = extracted_streams.copy()
                 from urllib.parse import urljoin
                 
                 for frame in page.frames:
                     try:
-                        # Improved aplr-menu selector
                         menu_links = await frame.query_selector_all(".aplr-menu a, ul.aplr-menu li a, .aplr-link")
                         for link in menu_links:
                             href = await link.get_attribute("href")
                             text = await link.inner_text()
-                            if href and href != "#":
+                            if href and href != "#" and "javascript" not in href:
                                 full_url = urljoin(frame.url, href)
                                 if not any(s['url'] == full_url for s in sources):
-                                    sources.append({
-                                        "name": text.strip() or f"سيرفر {len(sources)+1}", 
-                                        "url": full_url
-                                    })
-                    except:
-                        continue
-                
-                # If still no sources, look for iframes
+                                    sources.append({"name": text.strip() or f"سيرفر {len(sources)+1}", "url": full_url})
+                    except: continue
+
                 if not sources:
                     for frame in page.frames:
                         try:
                             iframes = await frame.query_selector_all("iframe[src]")
                             for ifr in iframes:
                                 src = await ifr.get_attribute("src")
-                                if src and "google" not in src and "ads" not in src and not src.startswith("data:"):
+                                if src and "google" not in src and "ads" not in src:
                                     full_src = urljoin(frame.url, src)
                                     if not any(s['url'] == full_src for s in sources):
                                         sources.append({"name": f"سيرفر {len(sources)+1}", "url": full_src})
-                        except:
-                            continue
+                        except: continue
                 
                 return sources
             except Exception as e:
                 logging.error(f"Error scraping {base_url}: {e}")
+                return []
             finally:
                 await browser.close()
-        return []
 
     async def scrape_live_soccer_matches(self, date_tab='today'):
         """Scrapes matches for yesterday, today, or tomorrow from live-soccer.info."""

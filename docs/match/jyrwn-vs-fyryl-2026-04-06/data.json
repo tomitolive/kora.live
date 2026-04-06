@@ -5,33 +5,11 @@
     "team_b_logo": "https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d18f8084373.png",
     "league": "الدوري الإسباني",
     "time": "00:00",
+    "date": "2026-04-06",
     "channel": "بي إن سبورت 2",
     "commentator": "محمد بركات",
     "stream_url": "https://a10.sia-koora.live/bein-2/",
+    "servers": [],
     "live": true,
-    "servers": [
-        {
-            "name": "بث رئيسي",
-            "url": "https://9live.kooraxx.com/albaplayer/bein-2/?serv=1"
-        },
-        {
-            "name": "جوال",
-            "url": "https://9live.kooraxx.com/albaplayer/bein-2/?serv=2"
-        },
-        {
-            "name": "English",
-            "url": "https://9live.kooraxx.com/albaplayer/bein-2/?serv=3"
-        },
-        {
-            "name": "French",
-            "url": "https://9live.kooraxx.com/albaplayer/bein-2/?serv=4"
-        },
-        {
-            "name": "سيرفر 5",
-            "url": "javascript:window.location.reload()"
-        }
-    ],
-    "date": "2026-04-06",
-    "slug": "jyrwn-vs-fyryl-2026-04-06",
-    "description": "<p>عذراً، تعذر توليد المقال حالياً. اكتب وصفاً تفصيلياً لمباراة جيرونا ضد فياريال في الدوري الإسباني. ركز على أهمية المباراة وجاذبية البث المباشر على CupLive.</p>"
+    "slug": "jyrwn-vs-fyryl-2026-04-06"
 }
