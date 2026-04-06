@@ -21,13 +21,13 @@ CHANNEL_RANGE = range(1, 51)
 
 # --- Design Tokens (White & Green) ---
 COLORS = {
-    "bg": "#FFFFFF",
-    "surface": "#F5F5F5",
-    "primary": "#0A5C2A",
-    "hover": "#1a7a3a",
-    "text_main": "#111111",
-    "text_secondary": "#555555",
-    "border": "#E0E0E0",
+    "bg": "#0a0a0a",
+    "surface": "#141414",
+    "primary": "#FF2A5F",
+    "hover": "#FFFFFF",
+    "text_main": "#F5F5F5",
+    "text_secondary": "#AAAAAA",
+    "border": "#222222",
     "white": "#FFFFFF"
 }
 
