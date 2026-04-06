@@ -9,16 +9,16 @@
     <link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@300;400;500;700;800;900&display=swap" rel="stylesheet">
     <style>
         :root {
-            --bg: #141414;
-            --surface: #181818;
-            --primary: #E50914;
-            --hover: #FFFFFF;
-            --text-main: #FFFFFF;
-            --text-secondary: #B3B3B3;
-            --border: #212121;
-            --white: #FFFFFF;
-            --shadow: 0 8px 30px rgba(0,0,0,0.8);
-            --transition: all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+            --bg: #09090b;
+            --surface: #18181b;
+            --primary: #22c55e;
+            --hover: #16a34a;
+            --text-main: #f4f4f5;
+            --text-secondary: #a1a1aa;
+            --border: #27272a;
+            --white: #ffffff;
+            --shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+            --transition: all 0.2s ease;
         }
 
         * {
@@ -126,7 +126,6 @@
 
         .btn:hover {
             background: var(--hover);
-            color: var(--bg);
         }
 
         .team-logo-img {
@@ -164,9 +163,7 @@
 
         .btn-watch:hover {
             background: var(--hover);
-            color: var(--bg);
-            transform: translateY(-2px);
-            box-shadow: 0 4px 15px rgba(255, 42, 95, 0.4);
+            transform: translateY(-1px);
         }
 
         {% block extra_css %}{% endblock %}
