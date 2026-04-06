@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>بث مباشر ألافيس و أوساسونا</title>
+    <style>
+        :root {
+            --primary: #0A5C2A;
+            --bg: #000000;
+            --surface: #1a1a1a;
+            --text: #ffffff;
+        }
+
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: var(--bg);
+            color: var(--text);
+            font-family: 'Tajawal', sans-serif;
+            overflow: hidden;
+        }
+
+        .player-header {
+            background: var(--surface);
+            padding: 10px 15px;
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            overflow-x: auto;
+            border-bottom: 1px solid #333;
+        }
+
+        .server-btn {
+            background: #333;
+            color: #ccc;
+            border: none;
+            padding: 8px 18px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-weight: 800;
+            white-space: nowrap;
+            transition: all 0.2s;
+            font-size: 0.9rem;
+        }
+
+        .server-btn:hover {
+            background: #444;
+            color: #fff;
+        }
+
+        .server-btn.active {
+            background: var(--primary);
+            color: #fff;
+        }
+
+        #main-iframe {
+            width: 100%;
+            height: calc(100vh - 55px);
+            border: none;
+            background: #000;
+        }
+
+        /* Pulse for Live indicator */
+        .live-dot {
+            height: 8px;
+            width: 8px;
+            background-color: #ff0000;
+            border-radius: 50%;
+            display: inline-block;
+            margin-left: 5px;
+            animation: pulse 1s infinite;
+        }
+
+        @keyframes pulse {
+            0% {
+                transform: scale(0.95);
+                box-shadow: 0 0 0 0 rgba(255, 0, 0, 0.7);
+            }
+
+            70% {
+                transform: scale(1);
+                box-shadow: 0 0 0 10px rgba(255, 0, 0, 0);
+            }
+
+            100% {
+                transform: scale(0.95);
+                box-shadow: 0 0 0 0 rgba(255, 0, 0, 0);
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="player-header">
+        
+        <button class="server-btn active"
+            onclick="changeServer('https://9live.kooraxx.com/albaplayer/pemium-1/?serv=1', this)">
+            بث رئيسي
+        </button>
+        
+        <button class="server-btn "
+            onclick="changeServer('https://9live.kooraxx.com/albaplayer/pemium-1/?serv=2', this)">
+            Italy
+        </button>
+        
+        <button class="server-btn "
+            onclick="changeServer('https://9live.kooraxx.com/albaplayer/pemium-1/?serv=3', this)">
+            English
+        </button>
+        
+        <div
+            style="margin-right: auto; display: flex; align-items: center; font-size: 0.8rem; font-weight: 700; color: #aaa;">
+            <span class="live-dot"></span> مباشر الآن
+        </div>
+    </div>
+
+    <div id="player-launcher" style="height: 100%; display: flex; flex-direction: column; align-items: center; justify-content: center; background: var(--surface); text-align: center; border-radius: 12px;">
+        <div style="font-size: 4rem; color: var(--primary); margin-bottom: 1rem;">▶️</div>
+        <h2 style="font-weight: 800; color: var(--text);">جاهز للمشاهدة</h2>
+        <p style="color: var(--text-secondary); margin-bottom: 2rem;">لتجاوز حجب الحماية، سيتم فتح المشغل في نافذة آمنة.</p>
+        <button id="launch-btn" style="background: var(--primary); color: white; border: none; padding: 1rem 2rem; font-size: 1.2rem; font-weight: bold; border-radius: 50px; cursor: pointer; transition: all 0.3s ease; box-shadow: 0 4px 15px rgba(230, 0, 92, 0.4);" onclick="openPopup()">
+            افتح مشغل البث (نافذة منبثقة)
+        </button>
+    </div>
+
+    <script>
+        let currentUrl = "https://9live.kooraxx.com/albaplayer/pemium-1/?serv=1";
+
+        function changeServer(url, btn) {
+            currentUrl = url;
+            document.querySelectorAll('.server-btn').forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+        }
+
+        function openPopup() {
+            if(currentUrl) {
+                // Open as a clean popup player
+                window.open(currentUrl, "PlayerWindow", "width=850,height=550,toolbar=no,scrollbars=no,resizable=yes,menubar=no,location=no,status=no");
+            }
+        }
+    </script></body>
+
+</html>

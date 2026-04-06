@@ -53,8 +53,15 @@ class SiteGenerator:
         
         # Render match index
         output_path = os.path.join(match_dir, "index.html")
-        # Link to watch page if servers exist
+        # Link to watch page if servers exist, or use default servers if none
         has_servers = bool(match_data.get('servers'))
+        if not has_servers:
+            match_data['servers'] = [
+                {"name": "بث رئيسي", "url": "https://9live.kooraxx.com/albaplayer/pemium-1/?serv=1"},
+                {"name": "Italy", "url": "https://9live.kooraxx.com/albaplayer/pemium-1/?serv=2"},
+                {"name": "English", "url": "https://9live.kooraxx.com/albaplayer/pemium-1/?serv=3"}
+            ]
+            has_servers = True
         
         self.render_to_file(
             "match.html",

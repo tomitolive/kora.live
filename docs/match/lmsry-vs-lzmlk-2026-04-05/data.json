@@ -9,7 +9,20 @@
     "channel": "ON Sport 1",
     "commentator": "عصام عبده",
     "stream_url": "https://www.live-soccer.info/matches/al-masry-vs-zamalek-sc/",
-    "servers": [],
+    "servers": [
+        {
+            "name": "بث رئيسي",
+            "url": "https://9live.kooraxx.com/albaplayer/pemium-1/?serv=1"
+        },
+        {
+            "name": "Italy",
+            "url": "https://9live.kooraxx.com/albaplayer/pemium-1/?serv=2"
+        },
+        {
+            "name": "English",
+            "url": "https://9live.kooraxx.com/albaplayer/pemium-1/?serv=3"
+        }
+    ],
     "live": false,
     "slug": "lmsry-vs-lzmlk-2026-04-05"
 }

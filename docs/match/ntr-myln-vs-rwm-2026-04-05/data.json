@@ -9,7 +9,20 @@
     "channel": "StarzPlay",
     "commentator": "فارس عوض",
     "stream_url": "https://www.live-soccer.info/matches/inter-vs-roma/",
-    "servers": [],
+    "servers": [
+        {
+            "name": "بث رئيسي",
+            "url": "https://9live.kooraxx.com/albaplayer/pemium-1/?serv=1"
+        },
+        {
+            "name": "Italy",
+            "url": "https://9live.kooraxx.com/albaplayer/pemium-1/?serv=2"
+        },
+        {
+            "name": "English",
+            "url": "https://9live.kooraxx.com/albaplayer/pemium-1/?serv=3"
+        }
+    ],
     "live": false,
     "slug": "ntr-myln-vs-rwm-2026-04-05"
 }

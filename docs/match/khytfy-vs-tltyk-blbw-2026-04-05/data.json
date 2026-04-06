@@ -9,7 +9,20 @@
     "channel": "بي إن سبورت 3",
     "commentator": "نوفل باشي",
     "stream_url": "https://www.live-soccer.info/matches/getafe-vs-a-bilbao/",
-    "servers": [],
+    "servers": [
+        {
+            "name": "بث رئيسي",
+            "url": "https://9live.kooraxx.com/albaplayer/pemium-1/?serv=1"
+        },
+        {
+            "name": "Italy",
+            "url": "https://9live.kooraxx.com/albaplayer/pemium-1/?serv=2"
+        },
+        {
+            "name": "English",
+            "url": "https://9live.kooraxx.com/albaplayer/pemium-1/?serv=3"
+        }
+    ],
     "live": false,
     "slug": "khytfy-vs-tltyk-blbw-2026-04-05"
 }

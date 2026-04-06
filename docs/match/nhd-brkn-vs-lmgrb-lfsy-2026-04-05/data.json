@@ -9,7 +9,20 @@
     "channel": "المغربية الرياضية",
     "commentator": "غير مدرج",
     "stream_url": "https://www.live-soccer.info/matches/%d9%86%d9%87%d8%b6%d8%a9-%d8%a8%d8%b1%d9%83%d8%a7%d9%86-vs-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d8%a7%d9%84%d9%81%d8%a7%d8%b3%d9%8a/",
-    "servers": [],
+    "servers": [
+        {
+            "name": "بث رئيسي",
+            "url": "https://9live.kooraxx.com/albaplayer/pemium-1/?serv=1"
+        },
+        {
+            "name": "Italy",
+            "url": "https://9live.kooraxx.com/albaplayer/pemium-1/?serv=2"
+        },
+        {
+            "name": "English",
+            "url": "https://9live.kooraxx.com/albaplayer/pemium-1/?serv=3"
+        }
+    ],
     "live": false,
     "slug": "nhd-brkn-vs-lmgrb-lfsy-2026-04-05"
 }

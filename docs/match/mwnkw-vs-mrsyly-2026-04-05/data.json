@@ -9,7 +9,20 @@
     "channel": "بي إن سبورت 2",
     "commentator": "علي محمد علي",
     "stream_url": "https://www.live-soccer.info/matches/monaco-vs-marseille/",
-    "servers": [],
+    "servers": [
+        {
+            "name": "بث رئيسي",
+            "url": "https://9live.kooraxx.com/albaplayer/pemium-1/?serv=1"
+        },
+        {
+            "name": "Italy",
+            "url": "https://9live.kooraxx.com/albaplayer/pemium-1/?serv=2"
+        },
+        {
+            "name": "English",
+            "url": "https://9live.kooraxx.com/albaplayer/pemium-1/?serv=3"
+        }
+    ],
     "live": false,
     "slug": "mwnkw-vs-mrsyly-2026-04-05"
 }
