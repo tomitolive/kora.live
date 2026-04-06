@@ -4,161 +4,160 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>بث مباشر جيرونا و فياريال</title>
+    <link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@400;700;900&display=swap" rel="stylesheet">
     <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
         :root {
             --primary: #0A5C2A;
-            --bg: #000000;
-            --surface: #1a1a1a;
+            --primary-glow: rgba(10, 92, 42, 0.4);
+            --bg: #0a0a0a;
+            --surface: #141414;
+            --surface2: #1e1e1e;
             --text: #ffffff;
+            --muted: #888;
+            --red: #e74c3c;
         }
         body {
-            margin: 0;
-            padding: 0;
-            background-color: var(--bg);
+            background: var(--bg);
             color: var(--text);
             font-family: 'Tajawal', sans-serif;
-            overflow: hidden;
-        }
-        .player-header {
-            background: var(--surface);
-            padding: 10px 15px;
+            min-height: 100vh;
             display: flex;
+            flex-direction: column;
+            align-items: center;
             justify-content: center;
-            gap: 10px;
-            overflow-x: auto;
-            border-bottom: 1px solid #333;
+            padding: 1.5rem;
         }
-        .server-btn {
-            background: #333;
-            color: #ccc;
-            border: none;
-            padding: 8px 18px;
-            border-radius: 4px;
-            cursor: pointer;
-            font-weight: 800;
-            white-space: nowrap;
-            transition: all 0.2s;
+
+        .match-header {
+            text-align: center;
+            margin-bottom: 2.5rem;
+        }
+        .match-title {
+            font-size: clamp(1.4rem, 4vw, 2.2rem);
+            font-weight: 900;
+            background: linear-gradient(135deg, #fff 30%, #aaa);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom: 0.5rem;
+        }
+        .match-meta {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 1rem;
+            color: var(--muted);
             font-size: 0.9rem;
         }
-        .server-btn:hover {
-            background: #444;
+        .live-badge {
+            background: var(--red);
             color: #fff;
+            padding: 3px 10px;
+            border-radius: 20px;
+            font-size: 0.8rem;
+            font-weight: 700;
+            display: inline-flex;
+            align-items: center;
+            gap: 5px;
+            animation: pulse-badge 2s infinite;
         }
-        .server-btn.active {
-            background: var(--primary);
-            color: #fff;
-        }
-        #main-iframe {
-            width: 100%;
-            height: calc(100vh - 55px);
-            border: none;
-            background: #000;
-        }
-        /* Pulse for Live indicator */
         .live-dot {
-            height: 8px;
-            width: 8px;
-            background-color: #ff0000;
+            width: 7px; height: 7px;
+            background: #fff;
             border-radius: 50%;
-            display: inline-block;
-            margin-left: 5px;
-            animation: pulse 1s infinite;
+            animation: blink 1s infinite;
         }
-        @keyframes pulse {
-            0% { transform: scale(0.95); box-shadow: 0 0 0 0 rgba(255, 0, 0, 0.7); }
-            70% { transform: scale(1); box-shadow: 0 0 0 10px rgba(255, 0, 0, 0); }
-            100% { transform: scale(0.95); box-shadow: 0 0 0 0 rgba(255, 0, 0, 0); }
+        @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0.2} }
+        @keyframes pulse-badge { 0%,100%{box-shadow:0 0 0 0 rgba(231,76,60,0.4)} 50%{box-shadow:0 0 0 8px rgba(231,76,60,0)} }
+
+        .servers-section {
+            width: 100%;
+            max-width: 680px;
         }
+        .section-title {
+            font-size: 0.85rem;
+            color: var(--muted);
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 1rem;
+            text-align: center;
+        }
+        .servers-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+            gap: 0.75rem;
+        }
+        .server-btn {
+            background: var(--surface2);
+            border: 1px solid #2a2a2a;
+            color: #ccc;
+            padding: 14px 18px;
+            border-radius: 10px;
+            cursor: pointer;
+            font-family: 'Tajawal', sans-serif;
+            font-weight: 700;
+            font-size: 1rem;
+            text-align: center;
+            text-decoration: none;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+            transition: all 0.2s ease;
+        }
+        .server-btn:hover {
+            background: var(--primary);
+            border-color: var(--primary);
+            color: #fff;
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px var(--primary-glow);
+        }
+        .server-btn .icon { font-size: 1.2rem; }
+
+        .no-servers {
+            text-align: center;
+            padding: 3rem 1rem;
+        }
+        .no-servers .emoji { font-size: 4rem; margin-bottom: 1rem; }
+        .no-servers h2 { font-size: 1.4rem; font-weight: 900; margin-bottom: 0.5rem; }
+        .no-servers p { color: var(--muted); font-size: 1rem; max-width: 400px; margin: 0 auto 1.5rem; }
+
+        .back-link {
+            margin-top: 2.5rem;
+            color: var(--muted);
+            text-decoration: none;
+            font-size: 0.9rem;
+            display: inline-flex;
+            align-items: center;
+            gap: 5px;
+            transition: color 0.2s;
+        }
+        .back-link:hover { color: #fff; }
     </style>
-    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
 </head>
 <body>
-    
-    <div class="player-header">
-        
-        <button class="server-btn active" onclick="changeServer('https://9live.kooraxx.com/albaplayer/bein-2/?serv=1', this)">
-            بث رئيسي
-        </button>
-        
-        <button class="server-btn " onclick="changeServer('https://9live.kooraxx.com/albaplayer/bein-2/?serv=2', this)">
-            جوال
-        </button>
-        
-        <button class="server-btn " onclick="changeServer('https://9live.kooraxx.com/albaplayer/bein-2/?serv=3', this)">
-            English
-        </button>
-        
-        <button class="server-btn " onclick="changeServer('https://9live.kooraxx.com/albaplayer/bein-2/?serv=4', this)">
-            French
-        </button>
-        
-        <button class="server-btn " onclick="changeServer('javascript:window.location.reload()', this)">
-            سيرفر 5
-        </button>
-        
-        <div style="margin-right: auto; display: flex; align-items: center; font-size: 0.8rem; font-weight: 700; color: #aaa;">
-             <span class="live-dot"></span> مباشر الآن
+
+    <div class="match-header">
+        <div class="match-title">جيرونا 🆚 فياريال</div>
+        <div class="match-meta">
+            <span>الدوري الإسباني</span>
+            <span>•</span>
+            <span class="live-badge"><span class="live-dot"></span> مباشر الآن</span>
         </div>
     </div>
-    
-    <div style="background: #222; padding: 5px 15px; font-size: 0.8rem; color: #f1c40f; text-align: center; border-bottom: 1px solid #444;">
-        ⚠️ إذا لم يظهر البث، اضغط على السيرفر مرة أخرى أو استخدم زر "فتح في نافذة جديدة"
-    </div>
 
-    <div id="player-container" style="position: relative; width: 100%; height: calc(100vh - 55px); background: #000;">
-        <div id="video-wrapper" style="display: none; width: 100%; height: 100%;">
-            <video id="video-player" controls style="width: 100%; height: 100%;"></video>
+    <div class="servers-section">
+        
+        <div class="no-servers">
+            <div class="emoji">🕒</div>
+            <h2>البث سيبدأ قريباً</h2>
+            <p>سنوفر سيرفرات المشاهدة لمباراة جيرونا و فياريال قريباً. حدّث الصفحة عند اقتراب موعد المباراة.</p>
+            <a href="../../index.html" class="server-btn" style="max-width: 200px; margin: 0 auto; text-decoration: none;">العودة للرئيسية</a>
         </div>
-        <iframe id="main-iframe" src="" allowfullscreen referrerpolicy="no-referrer" style="width: 100%; height: 100%; border: none;"></iframe>
+        
     </div>
 
-    <div style="position: absolute; bottom: 20px; right: 20px; z-index: 100;">
-        <a id="external-link" href="#" target="_blank" class="server-btn" style="background: #e74c3c; text-decoration: none;">فتح في نافذة جديدة ↗️</a>
-    </div>
-    
+    <a href="../../index.html" class="back-link">← العودة للرئيسية</a>
 
-    <script>
-        var hls = null;
-        function changeServer(url, btn) {
-            const iframe = document.getElementById('main-iframe');
-            const videoWrapper = document.getElementById('video-wrapper');
-            const video = document.getElementById('video-player');
-            const extLink = document.getElementById('external-link');
-            
-            if (extLink) extLink.href = url;
-            document.querySelectorAll('.server-btn').forEach(b => b.classList.remove('active'));
-            if (btn) btn.classList.add('active');
-
-            if (url.includes('.m3u8') || url.includes('.mp4') || url.includes('.mpd')) {
-                iframe.style.display = 'none';
-                iframe.src = 'about:blank';
-                videoWrapper.style.display = 'block';
-                
-                if (Hls.isSupported()) {
-                    if (hls) hls.destroy();
-                    hls = new Hls();
-                    hls.loadSource(url);
-                    hls.attachMedia(video);
-                    hls.on(Hls.Events.MANIFEST_PARSED, function() {
-                        video.play();
-                    });
-                } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
-                    video.src = url;
-                    video.play();
-                }
-            } else {
-                if (hls) { hls.destroy(); hls = null; }
-                videoWrapper.style.display = 'none';
-                iframe.style.display = 'block';
-                iframe.src = url;
-            }
-        }
-
-        window.onload = function() {
-            
-            changeServer('https://9live.kooraxx.com/albaplayer/bein-2/?serv=1', document.querySelector('.server-btn'));
-            
-        };
-    </script>
 </body>
 </html>
