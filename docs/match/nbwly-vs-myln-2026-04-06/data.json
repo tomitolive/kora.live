@@ -5,25 +5,11 @@
     "team_b_logo": "https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d2db955a700.png",
     "league": "الدوري الإيطالي",
     "time": "00:00",
+    "date": "2026-04-06",
     "channel": "StarzPlay",
     "commentator": "عامر عبدالله",
-    "stream_url": "https://a10.sia-koora.live/premium-1/",
-    "live": true,
-    "servers": [
-        {
-            "name": "بث رئيسي",
-            "url": "https://9live.kooraxx.com/albaplayer/pemium-1/?serv=1"
-        },
-        {
-            "name": "Italy",
-            "url": "https://ff2srpr7.04334746.net:8443/hls/71urpyq.m3u8?s=ugrIGd8cVLTIsj93DUYrJQ&e=1775531594"
-        },
-        {
-            "name": "English",
-            "url": "https://ff2srpr7.04334746.net:8443/hls/71urpyq.m3u8?s=JCeUEW7jHPFgMJc-PYRWLA&e=1775531609"
-        }
-    ],
-    "date": "2026-04-06",
-    "slug": "nbwly-vs-myln-2026-04-06",
-    "description": "<p>عذراً، تعذر توليد المقال حالياً. اكتب وصفاً تفصيلياً لمباراة نابولي ضد ميلان في الدوري الإيطالي. ركز على أهمية المباراة وجاذبية البث المباشر على CupLive.</p>"
+    "stream_url": "https://www.live-soccer.info/matches/ssc-napoli-vs-ac-milan/",
+    "servers": [],
+    "live": false,
+    "slug": "nbwly-vs-myln-2026-04-06"
 }

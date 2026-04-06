@@ -106,17 +106,30 @@
         </div>
     </div>
 
-    <iframe id="main-iframe" src="https://koralive.aziz-jahor123.workers.dev/?url={{ servers[0].url | urlencode if servers else '' }}" allowfullscreen></iframe>
+    <div id="player-launcher" style="height: 100%; display: flex; flex-direction: column; align-items: center; justify-content: center; background: var(--surface); text-align: center; border-radius: 12px;">
+        <div style="font-size: 4rem; color: var(--primary); margin-bottom: 1rem;">▶️</div>
+        <h2 style="font-weight: 800; color: var(--text);">جاهز للمشاهدة</h2>
+        <p style="color: var(--text-secondary); margin-bottom: 2rem;">لتجاوز حجب الحماية، سيتم فتح المشغل في نافذة آمنة.</p>
+        <button id="launch-btn" style="background: var(--primary); color: white; border: none; padding: 1rem 2rem; font-size: 1.2rem; font-weight: bold; border-radius: 50px; cursor: pointer; transition: all 0.3s ease; box-shadow: 0 4px 15px rgba(230, 0, 92, 0.4);" onclick="openPopup()">
+            افتح مشغل البث (نافذة منبثقة)
+        </button>
+    </div>
 
     <script>
-        const PROXY = 'https://koralive.aziz-jahor123.workers.dev/?url=';
+        let currentUrl = "{{ servers[0].url if servers else '' }}";
 
         function changeServer(url, btn) {
-            document.getElementById('main-iframe').src = PROXY + encodeURIComponent(url);
+            currentUrl = url;
             document.querySelectorAll('.server-btn').forEach(b => b.classList.remove('active'));
             btn.classList.add('active');
         }
-    </script>
-</body>
+
+        function openPopup() {
+            if(currentUrl) {
+                // Open as a clean popup player
+                window.open(currentUrl, "PlayerWindow", "width=850,height=550,toolbar=no,scrollbars=no,resizable=yes,menubar=no,location=no,status=no");
+            }
+        }
+    </script></body>
 
 </html>
