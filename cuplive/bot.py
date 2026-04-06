@@ -37,7 +37,7 @@ class CupLiveBot:
             self.repo.git.add(A=True)
             self.repo.index.commit("Bot Update: Content sync")
             origin = self.repo.remote(name='origin')
-            origin.push('main')
+            origin.push('master')
             logging.info("Changes pushed to GitHub main branch.")
         except Exception as e:
             logging.error(f"Git Push Error: {e}")
