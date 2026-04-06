@@ -1,186 +1,122 @@
 <!DOCTYPE html>
 <html lang="ar" dir="rtl">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>بث مباشر {{ team_a }} و {{ team_b }}</title>
-    <link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@400;700;900&display=swap" rel="stylesheet">
     <style>
-        * { margin: 0; padding: 0; box-sizing: border-box; }
         :root {
             --primary: #0A5C2A;
-            --primary-glow: rgba(10, 92, 42, 0.35);
-            --bg: #0a0a0a;
-            --surface: #141414;
-            --surface2: #1e1e1e;
+            --bg: #000000;
+            --surface: #1a1a1a;
             --text: #ffffff;
-            --muted: #777;
-            --red: #e74c3c;
         }
+
         body {
-            background: var(--bg);
+            margin: 0;
+            padding: 0;
+            background-color: var(--bg);
             color: var(--text);
             font-family: 'Tajawal', sans-serif;
-            min-height: 100vh;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-            padding: 1.5rem;
+            overflow: hidden;
         }
-        .match-header {
-            text-align: center;
-            margin-bottom: 2.5rem;
-        }
-        .match-title {
-            font-size: clamp(1.4rem, 4vw, 2.2rem);
-            font-weight: 900;
-            color: #fff;
-            margin-bottom: 0.6rem;
-        }
-        .match-meta {
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            gap: 0.8rem;
-            color: var(--muted);
-            font-size: 0.9rem;
-        }
-        .live-badge {
-            background: var(--red);
-            color: #fff;
-            padding: 3px 12px;
-            border-radius: 20px;
-            font-size: 0.78rem;
-            font-weight: 900;
-            display: inline-flex;
-            align-items: center;
-            gap: 5px;
-            animation: pulse-badge 2s infinite;
-        }
-        .live-dot { width: 7px; height: 7px; background: #fff; border-radius: 50%; animation: blink 1s infinite; }
-        @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0.2} }
-        @keyframes pulse-badge { 0%,100%{box-shadow:0 0 0 0 rgba(231,76,60,0.4)} 50%{box-shadow:0 0 0 8px rgba(231,76,60,0)} }
 
-        .servers-section { width: 100%; max-width: 700px; }
-        .section-label {
-            font-size: 0.78rem;
-            color: var(--muted);
-            letter-spacing: 2px;
-            text-transform: uppercase;
-            text-align: center;
-            margin-bottom: 1.2rem;
+        .player-header {
+            background: var(--surface);
+            padding: 10px 15px;
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            overflow-x: auto;
+            border-bottom: 1px solid #333;
         }
-        .servers-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
-            gap: 0.8rem;
-        }
+
         .server-btn {
-            background: var(--surface2);
-            border: 1px solid #2a2a2a;
+            background: #333;
             color: #ccc;
-            padding: 16px 20px;
-            border-radius: 12px;
+            border: none;
+            padding: 8px 18px;
+            border-radius: 4px;
             cursor: pointer;
-            font-family: 'Tajawal', sans-serif;
-            font-weight: 700;
-            font-size: 1rem;
-            text-align: center;
-            text-decoration: none;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            gap: 8px;
-            transition: all 0.22s ease;
-        }
-        .server-btn:hover {
-            background: var(--primary);
-            border-color: var(--primary);
-            color: #fff;
-            transform: translateY(-3px);
-            box-shadow: 0 8px 24px var(--primary-glow);
-        }
-        .server-num {
-            background: rgba(255,255,255,0.1);
-            width: 24px; height: 24px;
-            border-radius: 50%;
-            display: inline-flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 0.75rem;
-            font-weight: 900;
-        }
-        .no-servers {
-            text-align: center;
-            padding: 2rem 1rem;
-        }
-        .no-servers .emoji { font-size: 4rem; margin-bottom: 1rem; display: block; }
-        .no-servers h2 { font-size: 1.4rem; font-weight: 900; margin-bottom: 0.5rem; }
-        .no-servers p { color: var(--muted); max-width: 380px; margin: 0 auto 1.5rem; line-height: 1.6; }
-        .back-link {
-            margin-top: 2.5rem;
-            color: var(--muted);
-            text-decoration: none;
+            font-weight: 800;
+            white-space: nowrap;
+            transition: all 0.2s;
             font-size: 0.9rem;
-            transition: color 0.2s;
         }
-        .back-link:hover { color: #fff; }
 
-        .info-banner {
-            background: rgba(255,193,7,0.08);
-            border: 1px solid rgba(255,193,7,0.2);
-            border-radius: 8px;
-            padding: 10px 16px;
-            font-size: 0.82rem;
-            color: #f1c40f;
-            margin-bottom: 1.5rem;
-            text-align: center;
-            max-width: 700px;
+        .server-btn:hover {
+            background: #444;
+            color: #fff;
+        }
+
+        .server-btn.active {
+            background: var(--primary);
+            color: #fff;
+        }
+
+        #main-iframe {
             width: 100%;
+            height: calc(100vh - 55px);
+            border: none;
+            background: #000;
+        }
+
+        /* Pulse for Live indicator */
+        .live-dot {
+            height: 8px;
+            width: 8px;
+            background-color: #ff0000;
+            border-radius: 50%;
+            display: inline-block;
+            margin-left: 5px;
+            animation: pulse 1s infinite;
+        }
+
+        @keyframes pulse {
+            0% {
+                transform: scale(0.95);
+                box-shadow: 0 0 0 0 rgba(255, 0, 0, 0.7);
+            }
+
+            70% {
+                transform: scale(1);
+                box-shadow: 0 0 0 10px rgba(255, 0, 0, 0);
+            }
+
+            100% {
+                transform: scale(0.95);
+                box-shadow: 0 0 0 0 rgba(255, 0, 0, 0);
+            }
         }
     </style>
 </head>
+
 <body>
-
-    <div class="match-header">
-        <div class="match-title">{{ team_a }} ⚡ {{ team_b }}</div>
-        <div class="match-meta">
-            <span>{{ league }}</span>
-            {% if servers %}
-            <span>•</span>
-            <span class="live-badge"><span class="live-dot"></span> مباشر الآن</span>
-            {% endif %}
+    <div class="player-header">
+        {% for server in servers %}
+        <button class="server-btn {{ 'active' if loop.first else '' }}"
+            onclick="changeServer('{{ server.url }}', this)">
+            {{ server.name }}
+        </button>
+        {% endfor %}
+        <div
+            style="margin-right: auto; display: flex; align-items: center; font-size: 0.8rem; font-weight: 700; color: #aaa;">
+            <span class="live-dot"></span> مباشر الآن
         </div>
     </div>
 
-    {% if servers %}
-    <div class="info-banner">
-        📺 اضغط على أي سيرفر لمشاهدة المباراة مباشرةً — ستُفتح في نافذة جديدة
-    </div>
-    <div class="servers-section">
-        <p class="section-label">اختر سيرفر المشاهدة</p>
-        <div class="servers-grid">
-            {% for server in servers %}
-            <a href="{{ server.url }}" target="_blank" rel="noopener" class="server-btn">
-                <span class="server-num">{{ loop.index }}</span>
-                {{ server.name }}
-            </a>
-            {% endfor %}
-        </div>
-    </div>
-    {% else %}
-    <div class="servers-section">
-        <div class="no-servers">
-            <span class="emoji">🕒</span>
-            <h2>البث سيبدأ قريباً</h2>
-            <p>سيتوفر البث لمباراة {{ team_a }} و {{ team_b }} قريباً. حدّث الصفحة عند اقتراب موعد المباراة.</p>
-            <a href="../../index.html" class="server-btn" style="max-width: 180px; margin: 0 auto; text-decoration: none;">← الرئيسية</a>
-        </div>
-    </div>
-    {% endif %}
+    <iframe id="main-iframe" src="{{ servers[0].url if servers else '' }}" allowfullscreen></iframe>
 
-    <a href="../../index.html" class="back-link">← العودة للرئيسية</a>
+    <script>
+        function changeServer(url, btn) {
+            document.getElementById('main-iframe').src = url;
+            document.querySelectorAll('.server-btn').forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+        }
 
+        // Auto-refresh logic handled by parent match.html but can be added here too if needed
+    </script>
 </body>
+
 </html>

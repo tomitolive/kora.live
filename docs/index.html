@@ -168,125 +168,125 @@
         }
 
         
-    .tabs {
-        display: flex;
-        justify-content: center;
-        gap: 1rem;
-        margin-bottom: 2rem;
-        overflow-x: auto;
-        padding-bottom: 0.5rem;
-    }
-    .tab-btn {
-        background: var(--surface);
-        border: 1px solid var(--border);
-        padding: 0.8rem 2rem;
-        border-radius: 50px;
-        font-weight: 800;
-        cursor: pointer;
-        transition: var(--transition);
-        white-space: nowrap;
-    }
-    .tab-btn.active {
-        background: var(--primary);
-        color: var(--white);
-        border-color: var(--primary);
-        box-shadow: 0 4px 12px rgba(10, 92, 42, 0.2);
-    }
-    .league-group {
-        margin-bottom: 2.5rem;
-    }
-    .league-header {
-        background: linear-gradient(to left, var(--surface), transparent);
-        padding: 0.8rem 1.2rem;
-        border-right: 5px solid var(--primary);
-        font-weight: 800;
-        margin-bottom: 1.2rem;
-        border-radius: 4px;
-        font-size: 1.2rem;
-        color: var(--text-main);
-    }
-    .match-grid {
-        display: grid;
-        grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
-        gap: 1.2rem;
-    }
-    .match-card {
-        background: var(--white);
-        border: 1px solid var(--border);
-        border-radius: 12px;
-        padding: 1.2rem;
-        transition: var(--transition);
-        display: flex;
-        flex-direction: column;
-        gap: 1rem;
-        box-shadow: var(--shadow);
-        position: relative;
-    }
-    .match-card:hover {
-        border-color: var(--primary);
-        box-shadow: 0 8px 24px rgba(0,0,0,0.08);
-    }
-    .match-main {
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-    }
-    .team {
-        flex: 1;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        gap: 0.6rem;
-    }
-    .team-name {
-        font-weight: 800;
-        font-size: 0.95rem;
-        color: var(--text-main);
-    }
-    .match-status {
-        text-align: center;
-        padding: 0 1rem;
-    }
-    .vs-text {
-        font-weight: 900;
-        color: var(--primary);
-        font-size: 1.2rem;
-        display: block;
-        margin-bottom: 0.2rem;
-    }
-    .time-text {
-        font-size: 0.85rem;
-        font-weight: 700;
-        color: var(--text-secondary);
-    }
-    .live-badge {
-        background: #e74c3c;
-        color: white;
-        padding: 2px 8px;
-        border-radius: 4px;
-        font-size: 0.7rem;
-        font-weight: 900;
-        animation: pulse 1.5s infinite;
-    }
-    @keyframes pulse {
-        0% { opacity: 1; }
-        50% { opacity: 0.5; }
-        100% { opacity: 1; }
-    }
-    .meta-footer {
-        display: flex;
-        justify-content: space-between;
-        font-size: 0.8rem;
-        color: var(--text-secondary);
-        font-weight: 700;
-        padding-top: 0.8rem;
-        border-top: 1px dashed var(--border);
-    }
-    .meta-item {
-        display: flex;
-        align-items: center;
-        gap: 0.4rem;
-    }
+.tabs {
+display: flex;
+justify-content: center;
+gap: 1rem;
+margin-bottom: 2rem;
+overflow-x: auto;
+padding-bottom: 0.5rem;
+}
+.tab-btn {
+background: var(--surface);
+border: 1px solid var(--border);
+padding: 0.8rem 2rem;
+border-radius: 50px;
+font-weight: 800;
+cursor: pointer;
+transition: var(--transition);
+white-space: nowrap;
+}
+.tab-btn.active {
+background: var(--primary);
+color: var(--white);
+border-color: var(--primary);
+box-shadow: 0 4px 12px rgba(10, 92, 42, 0.2);
+}
+.league-group {
+margin-bottom: 2.5rem;
+}
+.league-header {
+background: linear-gradient(to left, var(--surface), transparent);
+padding: 0.8rem 1.2rem;
+border-right: 5px solid var(--primary);
+font-weight: 800;
+margin-bottom: 1.2rem;
+border-radius: 4px;
+font-size: 1.2rem;
+color: var(--text-main);
+}
+.match-grid {
+display: grid;
+grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+gap: 1.2rem;
+}
+.match-card {
+background: var(--white);
+border: 1px solid var(--border);
+border-radius: 12px;
+padding: 1.2rem;
+transition: var(--transition);
+display: flex;
+flex-direction: column;
+gap: 1rem;
+box-shadow: var(--shadow);
+position: relative;
+}
+.match-card:hover {
+border-color: var(--primary);
+box-shadow: 0 8px 24px rgba(0,0,0,0.08);
+}
+.match-main {
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+.team {
+flex: 1;
+display: flex;
+flex-direction: column;
+align-items: center;
+gap: 0.6rem;
+}
+.team-name {
+font-weight: 800;
+font-size: 0.95rem;
+color: var(--text-main);
+}
+.match-status {
+text-align: center;
+padding: 0 1rem;
+}
+.vs-text {
+font-weight: 900;
+color: var(--primary);
+font-size: 1.2rem;
+display: block;
+margin-bottom: 0.2rem;
+}
+.time-text {
+font-size: 0.85rem;
+font-weight: 700;
+color: var(--text-secondary);
+}
+.live-badge {
+background: #e74c3c;
+color: white;
+padding: 2px 8px;
+border-radius: 4px;
+font-size: 0.7rem;
+font-weight: 900;
+animation: pulse 1.5s infinite;
+}
+@keyframes pulse {
+0% { opacity: 1; }
+50% { opacity: 0.5; }
+100% { opacity: 1; }
+}
+.meta-footer {
+display: flex;
+justify-content: space-between;
+font-size: 0.8rem;
+color: var(--text-secondary);
+font-weight: 700;
+padding-top: 0.8rem;
+border-top: 1px dashed var(--border);
+}
+.meta-item {
+display: flex;
+align-items: center;
+gap: 0.4rem;
+}
 
     </style>
 </head>
@@ -306,9 +306,12 @@
         
 <section class="matches-section">
     <div class="tabs">
-        <button id="btn-2026-04-05" class="tab-btn" onclick="showDate('2026-04-05')">مباريات الأمس</button>
-        <button id="btn-2026-04-06" class="tab-btn active" onclick="showDate('2026-04-06')">مباريات اليوم</button>
-        <button id="btn-2026-04-07" class="tab-btn" onclick="showDate('2026-04-07')">مباريات الغد</button>
+        <button id="btn-2026-04-05" class="tab-btn" onclick="showDate('2026-04-05')">مباريات
+            الأمس</button>
+        <button id="btn-2026-04-06" class="tab-btn active" onclick="showDate('2026-04-06')">مباريات
+            اليوم</button>
+        <button id="btn-2026-04-07" class="tab-btn" onclick="showDate('2026-04-07')">مباريات
+            الغد</button>
     </div>
 
     
@@ -318,11 +321,12 @@
             <h3 class="league-header">الدوري الأمريكي لكرة القدم</h3>
             <div class="match-grid">
                 
-                <a href="match/ntr-mymy-vs-wstn-2026-04-05/watch.html" class="match-card">
+                <a href="match/ntr-mymy-vs-wstn-2026-04-05/index.html" class="match-card">
                     <div class="match-main">
                         <div class="team">
-                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d0388d10088.png" alt="إنتر ميامي" class="team-logo-img" onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=إنتر ميامي'">
-                            <span class="team-name" style="text-align: center; display: block;">إنتر ميامي</span>
+                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d0388d10088.png" alt="إنتر ميامي" class="team-logo-img"
+                                onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=إنتر ميامي'">
+                            <span class="team-name">إنتر ميامي</span>
                         </div>
                         <div class="match-status">
                             <span class="vs-text">VS</span>
@@ -330,15 +334,11 @@
                             
                         </div>
                         <div class="team">
-                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d0388d170b0.png" alt="أوستن" class="team-logo-img" onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=أوستن'">
-                            <span class="team-name" style="text-align: center; display: block;">أوستن</span>
+                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d0388d170b0.png" alt="أوستن" class="team-logo-img"
+                                onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=أوستن'">
+                            <span class="team-name">أوستن</span>
                         </div>
                     </div>
-                    
-                    <div class="btn-watch">
-                        <span>▶️</span> شاهد الآن
-                    </div>
-                    
                     <div class="meta-footer">
                         <div class="meta-item">📺 TBD</div>
                         <div class="meta-item">🎙️ TBD</div>
@@ -352,11 +352,12 @@
             <h3 class="league-header">الدوري الإسباني</h3>
             <div class="match-grid">
                 
-                <a href="match/khytfy-vs-tltyk-blbw-2026-04-05/watch.html" class="match-card">
+                <a href="match/khytfy-vs-tltyk-blbw-2026-04-05/index.html" class="match-card">
                     <div class="match-main">
                         <div class="team">
-                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d03871f3eee.png" alt="خيتافي" class="team-logo-img" onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=خيتافي'">
-                            <span class="team-name" style="text-align: center; display: block;">خيتافي</span>
+                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d03871f3eee.png" alt="خيتافي" class="team-logo-img"
+                                onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=خيتافي'">
+                            <span class="team-name">خيتافي</span>
                         </div>
                         <div class="match-status">
                             <span class="vs-text">VS</span>
@@ -364,26 +365,23 @@
                             
                         </div>
                         <div class="team">
-                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d0387206fc3.png" alt="أتلتيك بلباو" class="team-logo-img" onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=أتلتيك بلباو'">
-                            <span class="team-name" style="text-align: center; display: block;">أتلتيك بلباو</span>
+                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d0387206fc3.png" alt="أتلتيك بلباو" class="team-logo-img"
+                                onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=أتلتيك بلباو'">
+                            <span class="team-name">أتلتيك بلباو</span>
                         </div>
                     </div>
-                    
-                    <div class="btn-watch">
-                        <span>▶️</span> شاهد الآن
-                    </div>
-                    
                     <div class="meta-footer">
                         <div class="meta-item">📺 TBD</div>
                         <div class="meta-item">🎙️ TBD</div>
                     </div>
                 </a>
                 
-                <a href="match/flnsy-vs-sylt-fygw-2026-04-05/watch.html" class="match-card">
+                <a href="match/flnsy-vs-sylt-fygw-2026-04-05/index.html" class="match-card">
                     <div class="match-main">
                         <div class="team">
-                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d038724104d.png" alt="فالنسيا" class="team-logo-img" onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=فالنسيا'">
-                            <span class="team-name" style="text-align: center; display: block;">فالنسيا</span>
+                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d038724104d.png" alt="فالنسيا" class="team-logo-img"
+                                onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=فالنسيا'">
+                            <span class="team-name">فالنسيا</span>
                         </div>
                         <div class="match-status">
                             <span class="vs-text">VS</span>
@@ -391,26 +389,23 @@
                             
                         </div>
                         <div class="team">
-                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d038724704c.png" alt="سيلتا فيغو" class="team-logo-img" onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=سيلتا فيغو'">
-                            <span class="team-name" style="text-align: center; display: block;">سيلتا فيغو</span>
+                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d038724704c.png" alt="سيلتا فيغو" class="team-logo-img"
+                                onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=سيلتا فيغو'">
+                            <span class="team-name">سيلتا فيغو</span>
                         </div>
                     </div>
-                    
-                    <div class="btn-watch">
-                        <span>▶️</span> شاهد الآن
-                    </div>
-                    
                     <div class="meta-footer">
                         <div class="meta-item">📺 TBD</div>
                         <div class="meta-item">🎙️ TBD</div>
                     </div>
                 </a>
                 
-                <a href="match/ryl-wfyydw-vs-shbyly-2026-04-05/watch.html" class="match-card">
+                <a href="match/ryl-wfyydw-vs-shbyly-2026-04-05/index.html" class="match-card">
                     <div class="match-main">
                         <div class="team">
-                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d038716a594.png" alt="ريال أوفييدو" class="team-logo-img" onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=ريال أوفييدو'">
-                            <span class="team-name" style="text-align: center; display: block;">ريال أوفييدو</span>
+                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d038716a594.png" alt="ريال أوفييدو" class="team-logo-img"
+                                onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=ريال أوفييدو'">
+                            <span class="team-name">ريال أوفييدو</span>
                         </div>
                         <div class="match-status">
                             <span class="vs-text">VS</span>
@@ -418,26 +413,23 @@
                             
                         </div>
                         <div class="team">
-                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d0387171497.png" alt="إشبيلية" class="team-logo-img" onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=إشبيلية'">
-                            <span class="team-name" style="text-align: center; display: block;">إشبيلية</span>
+                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d0387171497.png" alt="إشبيلية" class="team-logo-img"
+                                onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=إشبيلية'">
+                            <span class="team-name">إشبيلية</span>
                         </div>
                     </div>
-                    
-                    <div class="btn-watch">
-                        <span>▶️</span> شاهد الآن
-                    </div>
-                    
                     <div class="meta-footer">
                         <div class="meta-item">📺 TBD</div>
                         <div class="meta-item">🎙️ TBD</div>
                     </div>
                 </a>
                 
-                <a href="match/lfys-vs-wsswn-2026-04-05/watch.html" class="match-card">
+                <a href="match/lfys-vs-wsswn-2026-04-05/index.html" class="match-card">
                     <div class="match-main">
                         <div class="team">
-                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d0387132fce.png" alt="ألافيس" class="team-logo-img" onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=ألافيس'">
-                            <span class="team-name" style="text-align: center; display: block;">ألافيس</span>
+                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d0387132fce.png" alt="ألافيس" class="team-logo-img"
+                                onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=ألافيس'">
+                            <span class="team-name">ألافيس</span>
                         </div>
                         <div class="match-status">
                             <span class="vs-text">VS</span>
@@ -445,15 +437,11 @@
                             
                         </div>
                         <div class="team">
-                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d038713a8b1.png" alt="أوساسونا" class="team-logo-img" onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=أوساسونا'">
-                            <span class="team-name" style="text-align: center; display: block;">أوساسونا</span>
+                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d038713a8b1.png" alt="أوساسونا" class="team-logo-img"
+                                onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=أوساسونا'">
+                            <span class="team-name">أوساسونا</span>
                         </div>
                     </div>
-                    
-                    <div class="btn-watch">
-                        <span>▶️</span> شاهد الآن
-                    </div>
-                    
                     <div class="meta-footer">
                         <div class="meta-item">📺 TBD</div>
                         <div class="meta-item">🎙️ TBD</div>
@@ -467,11 +455,12 @@
             <h3 class="league-header">الدوري الفرنسي</h3>
             <div class="match-grid">
                 
-                <a href="match/njyh-vs-lywn-2026-04-05/watch.html" class="match-card">
+                <a href="match/njyh-vs-lywn-2026-04-05/index.html" class="match-card">
                     <div class="match-main">
                         <div class="team">
-                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d03873b42e6.png" alt="أنجيه" class="team-logo-img" onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=أنجيه'">
-                            <span class="team-name" style="text-align: center; display: block;">أنجيه</span>
+                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d03873b42e6.png" alt="أنجيه" class="team-logo-img"
+                                onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=أنجيه'">
+                            <span class="team-name">أنجيه</span>
                         </div>
                         <div class="match-status">
                             <span class="vs-text">VS</span>
@@ -479,26 +468,23 @@
                             
                         </div>
                         <div class="team">
-                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d03873bb9b7.png" alt="ليون" class="team-logo-img" onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=ليون'">
-                            <span class="team-name" style="text-align: center; display: block;">ليون</span>
+                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d03873bb9b7.png" alt="ليون" class="team-logo-img"
+                                onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=ليون'">
+                            <span class="team-name">ليون</span>
                         </div>
                     </div>
-                    
-                    <div class="btn-watch">
-                        <span>▶️</span> شاهد الآن
-                    </div>
-                    
                     <div class="meta-footer">
                         <div class="meta-item">📺 TBD</div>
                         <div class="meta-item">🎙️ TBD</div>
                     </div>
                 </a>
                 
-                <a href="match/mwnkw-vs-mrsyly-2026-04-05/watch.html" class="match-card">
+                <a href="match/mwnkw-vs-mrsyly-2026-04-05/index.html" class="match-card">
                     <div class="match-main">
                         <div class="team">
-                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d038756804f.png" alt="موناكو" class="team-logo-img" onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=موناكو'">
-                            <span class="team-name" style="text-align: center; display: block;">موناكو</span>
+                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d038756804f.png" alt="موناكو" class="team-logo-img"
+                                onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=موناكو'">
+                            <span class="team-name">موناكو</span>
                         </div>
                         <div class="match-status">
                             <span class="vs-text">VS</span>
@@ -506,15 +492,11 @@
                             
                         </div>
                         <div class="team">
-                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d038756eebf.png" alt="مارسيليا" class="team-logo-img" onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=مارسيليا'">
-                            <span class="team-name" style="text-align: center; display: block;">مارسيليا</span>
+                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d038756eebf.png" alt="مارسيليا" class="team-logo-img"
+                                onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=مارسيليا'">
+                            <span class="team-name">مارسيليا</span>
                         </div>
                     </div>
-                    
-                    <div class="btn-watch">
-                        <span>▶️</span> شاهد الآن
-                    </div>
-                    
                     <div class="meta-footer">
                         <div class="meta-item">📺 TBD</div>
                         <div class="meta-item">🎙️ TBD</div>
@@ -528,11 +510,12 @@
             <h3 class="league-header">الدوري الإيطالي</h3>
             <div class="match-grid">
                 
-                <a href="match/krymwnysy-vs-bwlwny-2026-04-05/watch.html" class="match-card">
+                <a href="match/krymwnysy-vs-bwlwny-2026-04-05/index.html" class="match-card">
                     <div class="match-main">
                         <div class="team">
-                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d03878b711e.png" alt="كريمونيسي" class="team-logo-img" onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=كريمونيسي'">
-                            <span class="team-name" style="text-align: center; display: block;">كريمونيسي</span>
+                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d03878b711e.png" alt="كريمونيسي" class="team-logo-img"
+                                onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=كريمونيسي'">
+                            <span class="team-name">كريمونيسي</span>
                         </div>
                         <div class="match-status">
                             <span class="vs-text">VS</span>
@@ -540,26 +523,23 @@
                             
                         </div>
                         <div class="team">
-                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d03878bd0d2.png" alt="بولونيا" class="team-logo-img" onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=بولونيا'">
-                            <span class="team-name" style="text-align: center; display: block;">بولونيا</span>
+                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d03878bd0d2.png" alt="بولونيا" class="team-logo-img"
+                                onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=بولونيا'">
+                            <span class="team-name">بولونيا</span>
                         </div>
                     </div>
-                    
-                    <div class="btn-watch">
-                        <span>▶️</span> شاهد الآن
-                    </div>
-                    
                     <div class="meta-footer">
                         <div class="meta-item">📺 TBD</div>
                         <div class="meta-item">🎙️ TBD</div>
                     </div>
                 </a>
                 
-                <a href="match/ntr-myln-vs-rwm-2026-04-05/watch.html" class="match-card">
+                <a href="match/ntr-myln-vs-rwm-2026-04-05/index.html" class="match-card">
                     <div class="match-main">
                         <div class="team">
-                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d0387969498.png" alt="إنتر ميلان" class="team-logo-img" onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=إنتر ميلان'">
-                            <span class="team-name" style="text-align: center; display: block;">إنتر ميلان</span>
+                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d0387969498.png" alt="إنتر ميلان" class="team-logo-img"
+                                onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=إنتر ميلان'">
+                            <span class="team-name">إنتر ميلان</span>
                         </div>
                         <div class="match-status">
                             <span class="vs-text">VS</span>
@@ -567,15 +547,11 @@
                             
                         </div>
                         <div class="team">
-                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d03879706ff.png" alt="روما" class="team-logo-img" onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=روما'">
-                            <span class="team-name" style="text-align: center; display: block;">روما</span>
+                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d03879706ff.png" alt="روما" class="team-logo-img"
+                                onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=روما'">
+                            <span class="team-name">روما</span>
                         </div>
                     </div>
-                    
-                    <div class="btn-watch">
-                        <span>▶️</span> شاهد الآن
-                    </div>
-                    
                     <div class="meta-footer">
                         <div class="meta-item">📺 TBD</div>
                         <div class="meta-item">🎙️ TBD</div>
@@ -589,11 +565,12 @@
             <h3 class="league-header">كأس الاتحاد الإنجليزي</h3>
             <div class="match-grid">
                 
-                <a href="match/wst-hm-vs-lydz-ywnytd-2026-04-05/watch.html" class="match-card">
+                <a href="match/wst-hm-vs-lydz-ywnytd-2026-04-05/index.html" class="match-card">
                     <div class="match-main">
                         <div class="team">
-                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d03888b9359.png" alt="وست هام" class="team-logo-img" onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=وست هام'">
-                            <span class="team-name" style="text-align: center; display: block;">وست هام</span>
+                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d03888b9359.png" alt="وست هام" class="team-logo-img"
+                                onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=وست هام'">
+                            <span class="team-name">وست هام</span>
                         </div>
                         <div class="match-status">
                             <span class="vs-text">VS</span>
@@ -601,15 +578,11 @@
                             
                         </div>
                         <div class="team">
-                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d03888bf5b9.png" alt="ليدز يونايتد" class="team-logo-img" onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=ليدز يونايتد'">
-                            <span class="team-name" style="text-align: center; display: block;">ليدز يونايتد</span>
+                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d03888bf5b9.png" alt="ليدز يونايتد" class="team-logo-img"
+                                onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=ليدز يونايتد'">
+                            <span class="team-name">ليدز يونايتد</span>
                         </div>
                     </div>
-                    
-                    <div class="btn-watch">
-                        <span>▶️</span> شاهد الآن
-                    </div>
-                    
                     <div class="meta-footer">
                         <div class="meta-item">📺 TBD</div>
                         <div class="meta-item">🎙️ TBD</div>
@@ -623,11 +596,12 @@
             <h3 class="league-header">الدوري الألماني</h3>
             <div class="match-grid">
                 
-                <a href="match/frnkfwrt-vs-kwln-2026-04-05/watch.html" class="match-card">
+                <a href="match/frnkfwrt-vs-kwln-2026-04-05/index.html" class="match-card">
                     <div class="match-main">
                         <div class="team">
-                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d038776aba6.png" alt="فرانكفورت" class="team-logo-img" onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=فرانكفورت'">
-                            <span class="team-name" style="text-align: center; display: block;">فرانكفورت</span>
+                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d038776aba6.png" alt="فرانكفورت" class="team-logo-img"
+                                onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=فرانكفورت'">
+                            <span class="team-name">فرانكفورت</span>
                         </div>
                         <div class="match-status">
                             <span class="vs-text">VS</span>
@@ -635,15 +609,11 @@
                             
                         </div>
                         <div class="team">
-                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d0387773276.png" alt="كولن" class="team-logo-img" onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=كولن'">
-                            <span class="team-name" style="text-align: center; display: block;">كولن</span>
+                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d0387773276.png" alt="كولن" class="team-logo-img"
+                                onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=كولن'">
+                            <span class="team-name">كولن</span>
                         </div>
                     </div>
-                    
-                    <div class="btn-watch">
-                        <span>▶️</span> شاهد الآن
-                    </div>
-                    
                     <div class="meta-footer">
                         <div class="meta-item">📺 TBD</div>
                         <div class="meta-item">🎙️ TBD</div>
@@ -657,11 +627,12 @@
             <h3 class="league-header">البطولة الوطنية المغربية</h3>
             <div class="match-grid">
                 
-                <a href="match/nhd-brkn-vs-lmgrb-lfsy-2026-04-05/watch.html" class="match-card">
+                <a href="match/nhd-brkn-vs-lmgrb-lfsy-2026-04-05/index.html" class="match-card">
                     <div class="match-main">
                         <div class="team">
-                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d0387fe42e6.png" alt="نهضة بركان" class="team-logo-img" onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=نهضة بركان'">
-                            <span class="team-name" style="text-align: center; display: block;">نهضة بركان</span>
+                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d0387fe42e6.png" alt="نهضة بركان" class="team-logo-img"
+                                onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=نهضة بركان'">
+                            <span class="team-name">نهضة بركان</span>
                         </div>
                         <div class="match-status">
                             <span class="vs-text">VS</span>
@@ -669,26 +640,23 @@
                             
                         </div>
                         <div class="team">
-                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d0387fecbbc.png" alt="المغرب الفاسي" class="team-logo-img" onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=المغرب الفاسي'">
-                            <span class="team-name" style="text-align: center; display: block;">المغرب الفاسي</span>
+                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d0387fecbbc.png" alt="المغرب الفاسي" class="team-logo-img"
+                                onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=المغرب الفاسي'">
+                            <span class="team-name">المغرب الفاسي</span>
                         </div>
                     </div>
-                    
-                    <div class="btn-watch">
-                        <span>▶️</span> شاهد الآن
-                    </div>
-                    
                     <div class="meta-footer">
                         <div class="meta-item">📺 TBD</div>
                         <div class="meta-item">🎙️ TBD</div>
                     </div>
                 </a>
                 
-                <a href="match/lkwkb-lmrkshy-vs-ljysh-lmlky-2026-04-05/watch.html" class="match-card">
+                <a href="match/lkwkb-lmrkshy-vs-ljysh-lmlky-2026-04-05/index.html" class="match-card">
                     <div class="match-main">
                         <div class="team">
-                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d038804fa2d.png" alt="الكوكب المراكشي" class="team-logo-img" onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=الكوكب المراكشي'">
-                            <span class="team-name" style="text-align: center; display: block;">الكوكب المراكشي</span>
+                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d038804fa2d.png" alt="الكوكب المراكشي" class="team-logo-img"
+                                onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=الكوكب المراكشي'">
+                            <span class="team-name">الكوكب المراكشي</span>
                         </div>
                         <div class="match-status">
                             <span class="vs-text">VS</span>
@@ -696,15 +664,11 @@
                             
                         </div>
                         <div class="team">
-                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d038805752a.png" alt="الجيش الملكي" class="team-logo-img" onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=الجيش الملكي'">
-                            <span class="team-name" style="text-align: center; display: block;">الجيش الملكي</span>
+                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d038805752a.png" alt="الجيش الملكي" class="team-logo-img"
+                                onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=الجيش الملكي'">
+                            <span class="team-name">الجيش الملكي</span>
                         </div>
                     </div>
-                    
-                    <div class="btn-watch">
-                        <span>▶️</span> شاهد الآن
-                    </div>
-                    
                     <div class="meta-footer">
                         <div class="meta-item">📺 TBD</div>
                         <div class="meta-item">🎙️ TBD</div>
@@ -718,11 +682,12 @@
             <h3 class="league-header">دوري Nile</h3>
             <div class="match-grid">
                 
-                <a href="match/lmsry-vs-lzmlk-2026-04-05/watch.html" class="match-card">
+                <a href="match/lmsry-vs-lzmlk-2026-04-05/index.html" class="match-card">
                     <div class="match-main">
                         <div class="team">
-                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d038856aa12.png" alt="المصري" class="team-logo-img" onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=المصري'">
-                            <span class="team-name" style="text-align: center; display: block;">المصري</span>
+                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d038856aa12.png" alt="المصري" class="team-logo-img"
+                                onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=المصري'">
+                            <span class="team-name">المصري</span>
                         </div>
                         <div class="match-status">
                             <span class="vs-text">VS</span>
@@ -730,15 +695,11 @@
                             
                         </div>
                         <div class="team">
-                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d0388570d08.png" alt="الزمالك" class="team-logo-img" onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=الزمالك'">
-                            <span class="team-name" style="text-align: center; display: block;">الزمالك</span>
+                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d0388570d08.png" alt="الزمالك" class="team-logo-img"
+                                onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=الزمالك'">
+                            <span class="team-name">الزمالك</span>
                         </div>
                     </div>
-                    
-                    <div class="btn-watch">
-                        <span>▶️</span> شاهد الآن
-                    </div>
-                    
                     <div class="meta-footer">
                         <div class="meta-item">📺 TBD</div>
                         <div class="meta-item">🎙️ TBD</div>
@@ -756,11 +717,12 @@
             <h3 class="league-header">الدوري الإيطالي</h3>
             <div class="match-grid">
                 
-                <a href="match/nbwly-vs-myln-2026-04-06/watch.html" class="match-card">
+                <a href="match/nbwly-vs-myln-2026-04-06/index.html" class="match-card">
                     <div class="match-main">
                         <div class="team">
-                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d2db9554899.png" alt="نابولي" class="team-logo-img" onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=نابولي'">
-                            <span class="team-name" style="text-align: center; display: block;">نابولي</span>
+                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d2db9554899.png" alt="نابولي" class="team-logo-img"
+                                onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=نابولي'">
+                            <span class="team-name">نابولي</span>
                         </div>
                         <div class="match-status">
                             <span class="vs-text">VS</span>
@@ -770,26 +732,23 @@
                             
                         </div>
                         <div class="team">
-                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d2db955a700.png" alt="ميلان" class="team-logo-img" onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=ميلان'">
-                            <span class="team-name" style="text-align: center; display: block;">ميلان</span>
+                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d2db955a700.png" alt="ميلان" class="team-logo-img"
+                                onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=ميلان'">
+                            <span class="team-name">ميلان</span>
                         </div>
                     </div>
-                    
-                    <div class="btn-watch">
-                        <span>▶️</span> شاهد الآن
-                    </div>
-                    
                     <div class="meta-footer">
                         <div class="meta-item">📺 TBD</div>
                         <div class="meta-item">🎙️ TBD</div>
                     </div>
                 </a>
                 
-                <a href="match/lytshy-vs-tlnt-2026-04-06/watch.html" class="match-card">
+                <a href="match/lytshy-vs-tlnt-2026-04-06/index.html" class="match-card">
                     <div class="match-main">
                         <div class="team">
-                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d2db949a052.png" alt="ليتشي" class="team-logo-img" onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=ليتشي'">
-                            <span class="team-name" style="text-align: center; display: block;">ليتشي</span>
+                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d2db949a052.png" alt="ليتشي" class="team-logo-img"
+                                onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=ليتشي'">
+                            <span class="team-name">ليتشي</span>
                         </div>
                         <div class="match-status">
                             <span class="vs-text">VS</span>
@@ -797,26 +756,23 @@
                             
                         </div>
                         <div class="team">
-                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d2db94a1118.png" alt="أتلانتا" class="team-logo-img" onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=أتلانتا'">
-                            <span class="team-name" style="text-align: center; display: block;">أتلانتا</span>
+                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d2db94a1118.png" alt="أتلانتا" class="team-logo-img"
+                                onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=أتلانتا'">
+                            <span class="team-name">أتلانتا</span>
                         </div>
                     </div>
-                    
-                    <div class="btn-watch">
-                        <span>▶️</span> شاهد الآن
-                    </div>
-                    
                     <div class="meta-footer">
                         <div class="meta-item">📺 TBD</div>
                         <div class="meta-item">🎙️ TBD</div>
                     </div>
                 </a>
                 
-                <a href="match/ywfntws-vs-jnw-2026-04-06/watch.html" class="match-card">
+                <a href="match/ywfntws-vs-jnw-2026-04-06/index.html" class="match-card">
                     <div class="match-main">
                         <div class="team">
-                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d2db945eb64.png" alt="يوفنتوس" class="team-logo-img" onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=يوفنتوس'">
-                            <span class="team-name" style="text-align: center; display: block;">يوفنتوس</span>
+                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d2db945eb64.png" alt="يوفنتوس" class="team-logo-img"
+                                onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=يوفنتوس'">
+                            <span class="team-name">يوفنتوس</span>
                         </div>
                         <div class="match-status">
                             <span class="vs-text">VS</span>
@@ -824,15 +780,11 @@
                             
                         </div>
                         <div class="team">
-                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d2db9466786.png" alt="جنوى" class="team-logo-img" onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=جنوى'">
-                            <span class="team-name" style="text-align: center; display: block;">جنوى</span>
+                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d2db9466786.png" alt="جنوى" class="team-logo-img"
+                                onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=جنوى'">
+                            <span class="team-name">جنوى</span>
                         </div>
                     </div>
-                    
-                    <div class="btn-watch">
-                        <span>▶️</span> شاهد الآن
-                    </div>
-                    
                     <div class="meta-footer">
                         <div class="meta-item">📺 TBD</div>
                         <div class="meta-item">🎙️ TBD</div>
@@ -846,11 +798,12 @@
             <h3 class="league-header">الدوري الإسباني</h3>
             <div class="match-grid">
                 
-                <a href="match/jyrwn-vs-fyryl-2026-04-06/watch.html" class="match-card">
+                <a href="match/jyrwn-vs-fyryl-2026-04-06/index.html" class="match-card">
                     <div class="match-main">
                         <div class="team">
-                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d18f807d9c1.png" alt="جيرونا" class="team-logo-img" onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=جيرونا'">
-                            <span class="team-name" style="text-align: center; display: block;">جيرونا</span>
+                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d18f807d9c1.png" alt="جيرونا" class="team-logo-img"
+                                onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=جيرونا'">
+                            <span class="team-name">جيرونا</span>
                         </div>
                         <div class="match-status">
                             <span class="vs-text">VS</span>
@@ -860,15 +813,11 @@
                             
                         </div>
                         <div class="team">
-                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d18f8084373.png" alt="فياريال" class="team-logo-img" onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=فياريال'">
-                            <span class="team-name" style="text-align: center; display: block;">فياريال</span>
+                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d18f8084373.png" alt="فياريال" class="team-logo-img"
+                                onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=فياريال'">
+                            <span class="team-name">فياريال</span>
                         </div>
                     </div>
-                    
-                    <div class="btn-watch">
-                        <span>▶️</span> شاهد الآن
-                    </div>
-                    
                     <div class="meta-footer">
                         <div class="meta-item">📺 TBD</div>
                         <div class="meta-item">🎙️ TBD</div>
@@ -882,11 +831,12 @@
             <h3 class="league-header">البطولة الوطنية المغربية</h3>
             <div class="match-grid">
                 
-                <a href="match/lwdd-lrydy-vs-ldf-ljdydy-2026-04-06/watch.html" class="match-card">
+                <a href="match/lwdd-lrydy-vs-ldf-ljdydy-2026-04-06/index.html" class="match-card">
                     <div class="match-main">
                         <div class="team">
-                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d18f875c3d4.png" alt="الوداد الرياضي" class="team-logo-img" onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=الوداد الرياضي'">
-                            <span class="team-name" style="text-align: center; display: block;">الوداد الرياضي</span>
+                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d18f875c3d4.png" alt="الوداد الرياضي" class="team-logo-img"
+                                onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=الوداد الرياضي'">
+                            <span class="team-name">الوداد الرياضي</span>
                         </div>
                         <div class="match-status">
                             <span class="vs-text">VS</span>
@@ -896,15 +846,11 @@
                             
                         </div>
                         <div class="team">
-                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d18f8764acc.png" alt="الدفاع الجديدي" class="team-logo-img" onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=الدفاع الجديدي'">
-                            <span class="team-name" style="text-align: center; display: block;">الدفاع الجديدي</span>
+                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d18f8764acc.png" alt="الدفاع الجديدي" class="team-logo-img"
+                                onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=الدفاع الجديدي'">
+                            <span class="team-name">الدفاع الجديدي</span>
                         </div>
                     </div>
-                    
-                    <div class="btn-watch">
-                        <span>▶️</span> شاهد الآن
-                    </div>
-                    
                     <div class="meta-footer">
                         <div class="meta-item">📺 TBD</div>
                         <div class="meta-item">🎙️ TBD</div>
@@ -922,11 +868,12 @@
             <h3 class="league-header">دوري Nile</h3>
             <div class="match-grid">
                 
-                <a href="match/syrmyk-vs-lhly-2026-04-07/watch.html" class="match-card">
+                <a href="match/syrmyk-vs-lhly-2026-04-07/index.html" class="match-card">
                     <div class="match-main">
                         <div class="team">
-                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d2dba7a3088.png" alt="سيراميكا" class="team-logo-img" onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=سيراميكا'">
-                            <span class="team-name" style="text-align: center; display: block;">سيراميكا</span>
+                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d2dba7a3088.png" alt="سيراميكا" class="team-logo-img"
+                                onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=سيراميكا'">
+                            <span class="team-name">سيراميكا</span>
                         </div>
                         <div class="match-status">
                             <span class="vs-text">VS</span>
@@ -934,15 +881,11 @@
                             
                         </div>
                         <div class="team">
-                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d2dba7a99b4.png" alt="الأهلي" class="team-logo-img" onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=الأهلي'">
-                            <span class="team-name" style="text-align: center; display: block;">الأهلي</span>
+                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d2dba7a99b4.png" alt="الأهلي" class="team-logo-img"
+                                onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=الأهلي'">
+                            <span class="team-name">الأهلي</span>
                         </div>
                     </div>
-                    
-                    <div class="btn-watch">
-                        <span>▶️</span> شاهد الآن
-                    </div>
-                    
                     <div class="meta-footer">
                         <div class="meta-item">📺 TBD</div>
                         <div class="meta-item">🎙️ TBD</div>
@@ -956,11 +899,12 @@
             <h3 class="league-header">دوري أبطال أوروبا</h3>
             <div class="match-grid">
                 
-                <a href="match/ryl-mdryd-vs-byrn-mywnkh-2026-04-07/watch.html" class="match-card">
+                <a href="match/ryl-mdryd-vs-byrn-mywnkh-2026-04-07/index.html" class="match-card">
                     <div class="match-main">
                         <div class="team">
-                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d2dba5ba08f.png" alt="ريال مدريد" class="team-logo-img" onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=ريال مدريد'">
-                            <span class="team-name" style="text-align: center; display: block;">ريال مدريد</span>
+                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d2dba5ba08f.png" alt="ريال مدريد" class="team-logo-img"
+                                onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=ريال مدريد'">
+                            <span class="team-name">ريال مدريد</span>
                         </div>
                         <div class="match-status">
                             <span class="vs-text">VS</span>
@@ -968,26 +912,23 @@
                             
                         </div>
                         <div class="team">
-                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d2dba5c2007.png" alt="بايرن ميونخ" class="team-logo-img" onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=بايرن ميونخ'">
-                            <span class="team-name" style="text-align: center; display: block;">بايرن ميونخ</span>
+                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d2dba5c2007.png" alt="بايرن ميونخ" class="team-logo-img"
+                                onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=بايرن ميونخ'">
+                            <span class="team-name">بايرن ميونخ</span>
                         </div>
                     </div>
-                    
-                    <div class="btn-watch">
-                        <span>▶️</span> شاهد الآن
-                    </div>
-                    
                     <div class="meta-footer">
                         <div class="meta-item">📺 TBD</div>
                         <div class="meta-item">🎙️ TBD</div>
                     </div>
                 </a>
                 
-                <a href="match/sbwrtyng-lshbwn-vs-rsnl-2026-04-07/watch.html" class="match-card">
+                <a href="match/sbwrtyng-lshbwn-vs-rsnl-2026-04-07/index.html" class="match-card">
                     <div class="match-main">
                         <div class="team">
-                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d2dba615ca0.png" alt="سبورتينغ لشبونة" class="team-logo-img" onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=سبورتينغ لشبونة'">
-                            <span class="team-name" style="text-align: center; display: block;">سبورتينغ لشبونة</span>
+                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d2dba615ca0.png" alt="سبورتينغ لشبونة" class="team-logo-img"
+                                onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=سبورتينغ لشبونة'">
+                            <span class="team-name">سبورتينغ لشبونة</span>
                         </div>
                         <div class="match-status">
                             <span class="vs-text">VS</span>
@@ -995,15 +936,11 @@
                             
                         </div>
                         <div class="team">
-                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d2dba61d6f8.png" alt="أرسنال" class="team-logo-img" onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=أرسنال'">
-                            <span class="team-name" style="text-align: center; display: block;">أرسنال</span>
+                            <img src="https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d2dba61d6f8.png" alt="أرسنال" class="team-logo-img"
+                                onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=أرسنال'">
+                            <span class="team-name">أرسنال</span>
                         </div>
                     </div>
-                    
-                    <div class="btn-watch">
-                        <span>▶️</span> شاهد الآن
-                    </div>
-                    
                     <div class="meta-footer">
                         <div class="meta-item">📺 TBD</div>
                         <div class="meta-item">🎙️ TBD</div>
@@ -1018,7 +955,9 @@
 </section>
 
 <section class="news-section" style="margin-top: 4rem;">
-    <h2 style="margin-bottom: 2rem; font-weight: 900; border-right: 5px solid var(--primary); padding-right: 1rem; font-size: 1.8rem;">آخر الأخبار الرياضية</h2>
+    <h2
+        style="margin-bottom: 2rem; font-weight: 900; border-right: 5px solid var(--primary); padding-right: 1rem; font-size: 1.8rem;">
+        آخر الأخبار الرياضية</h2>
     <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 2rem;">
         
     </div>
@@ -1039,7 +978,7 @@
         // Show target date group
         const target = document.getElementById('date-' + date);
         if (target) target.style.display = 'block';
-        
+
         // Update button states
         document.querySelectorAll('.tab-btn').forEach(btn => btn.classList.remove('active'));
         const activeBtn = document.getElementById('btn-' + date);
