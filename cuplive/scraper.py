@@ -182,23 +182,7 @@ class CupLiveScraper:
                         except: continue
                 
 
-                # === DEEP PASS: Extract real .m3u8 from each server URL ===
-                deep_sources = []
-                for src in sources:
-                    src_url = src['url']
-                    # Only dig into player pages (not already m3u8/mp4)
-                    if any(ext in src_url for ext in [".m3u8", ".mp4", ".mpd"]):
-                        deep_sources.append(src)
-                    else:
-                        m3u8_list = await self.extract_m3u8_from_page(context, src_url, src['name'])
-                        if m3u8_list:
-                            deep_sources.extend(m3u8_list)
-                        else:
-                            # Keep the original URL as fallback
-                            deep_sources.append(src)
-
-                return deep_sources if deep_sources else sources
-
+                return sources
             except Exception as e:
                 logging.error(f"Error scraping {base_url}: {e}")
                 return []
