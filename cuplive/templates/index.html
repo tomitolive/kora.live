@@ -137,7 +137,7 @@
             <h3 class="league-header">{{ league }}</h3>
             <div class="match-grid">
                 {% for match in matches %}
-                <a href="match/{{ match.slug }}/{{ 'watch.html' if match.watch_url else 'index.html' }}" class="match-card">
+                <a href="match/{{ match.slug }}/watch.html" class="match-card">
                     <div class="match-main">
                         <div class="team">
                             <img src="{{ match.team_a_logo }}" alt="{{ match.team_a }}" class="team-logo-img" onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed={{ match.team_a }}'">

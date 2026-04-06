@@ -72,6 +72,7 @@
     </style>
 </head>
 <body>
+    {% if servers %}
     <div class="player-header">
         {% for server in servers %}
         <button class="server-btn {{ 'active' if loop.first else '' }}" onclick="changeServer('{{ server.url }}', this)">
@@ -92,6 +93,14 @@
     <div style="position: absolute; bottom: 20px; right: 20px;">
         <a id="external-link" href="{{ servers[0].url if servers else '#' }}" target="_blank" class="server-btn" style="background: #e74c3c; text-decoration: none;">فتح في نافذة جديدة ↗️</a>
     </div>
+    {% else %}
+    <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh; text-align: center; padding: 2rem;">
+        <div style="font-size: 5rem; margin-bottom: 2rem;">🕒</div>
+        <h1 style="font-weight: 900; color: var(--primary); margin-bottom: 1rem;">البث المباشر سيبدأ قريباً</h1>
+        <p style="font-size: 1.2rem; color: #aaa; max-width: 600px;">سنقوم بتوفير سيرفرات المشاهدة لمباراة {{ team_a }} و {{ team_b }} فور توفرها. يرجى تحديث الصفحة عند اقتراب موعد المباراة.</p>
+        <a href="../../index.html" class="server-btn" style="margin-top: 2rem; text-decoration: none;">العودة للرئيسية</a>
+    </div>
+    {% endif %}
 
     <script>
         function changeServer(url, btn) {

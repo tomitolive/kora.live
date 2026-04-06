@@ -72,38 +72,14 @@
     </style>
 </head>
 <body>
-    <div class="player-header">
-        
-        <button class="server-btn active" onclick="changeServer('https://9live.kooraxx.com/albaplayer/pemium-1/?serv=1', this)">
-            بث رئيسي
-        </button>
-        
-        <button class="server-btn " onclick="changeServer('https://9live.kooraxx.com/albaplayer/pemium-1/?serv=2', this)">
-            Italy
-        </button>
-        
-        <button class="server-btn " onclick="changeServer('https://9live.kooraxx.com/albaplayer/pemium-1/?serv=3', this)">
-            English
-        </button>
-        
-        <button class="server-btn " onclick="changeServer('javascript:window.location.reload()', this)">
-            سيرفر 4
-        </button>
-        
-        <div style="margin-right: auto; display: flex; align-items: center; font-size: 0.8rem; font-weight: 700; color: #aaa;">
-             <span class="live-dot"></span> مباشر الآن
-        </div>
+    
+    <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh; text-align: center; padding: 2rem;">
+        <div style="font-size: 5rem; margin-bottom: 2rem;">🕒</div>
+        <h1 style="font-weight: 900; color: var(--primary); margin-bottom: 1rem;">البث المباشر سيبدأ قريباً</h1>
+        <p style="font-size: 1.2rem; color: #aaa; max-width: 600px;">سنقوم بتوفير سيرفرات المشاهدة لمباراة نابولي و ميلان فور توفرها. يرجى تحديث الصفحة عند اقتراب موعد المباراة.</p>
+        <a href="../../index.html" class="server-btn" style="margin-top: 2rem; text-decoration: none;">العودة للرئيسية</a>
     </div>
     
-    <div style="background: #222; padding: 5px 15px; font-size: 0.8rem; color: #f1c40f; text-align: center; border-bottom: 1px solid #444;">
-        ⚠️ إذا لم يظهر البث، اضغط على السيرفر مرة أخرى أو استخدم زر "فتح في نافذة جديدة"
-    </div>
-
-    <iframe id="main-iframe" src="https://9live.kooraxx.com/albaplayer/pemium-1/?serv=1" allowfullscreen referrerpolicy="no-referrer"></iframe>
-
-    <div style="position: absolute; bottom: 20px; right: 20px;">
-        <a id="external-link" href="https://9live.kooraxx.com/albaplayer/pemium-1/?serv=1" target="_blank" class="server-btn" style="background: #e74c3c; text-decoration: none;">فتح في نافذة جديدة ↗️</a>
-    </div>
 
     <script>
         function changeServer(url, btn) {

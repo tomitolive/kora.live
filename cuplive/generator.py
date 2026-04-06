@@ -55,21 +55,19 @@ class SiteGenerator:
         output_path = os.path.join(match_dir, "index.html")
         template = self.env.get_template("match.html")
         
-        # Link to watch page if servers exist
-        has_servers = bool(match_data.get('servers'))
-        watch_url = f"/match/{match_data['slug']}/watch.html" if has_servers else None
+        # Link to watch page
+        watch_url = "watch.html"
         
         html = template.render(
             **match_data,
-            watch_url="watch.html" if has_servers else None,
+            watch_url=watch_url,
             colors=COLORS
         )
         # 3. Generate match data JSON for dynamic updates
         self.generate_match_json(match_data)
         
-        # 4. Generate watch.html if servers available
-        if has_servers:
-            self.generate_watch_page(match_data)
+        # 4. Generate watch.html
+        self.generate_watch_page(match_data)
         
         self.scraped_urls[f"match/{slug}/"] = {
             "type": "match",
@@ -83,7 +81,7 @@ class SiteGenerator:
             "time": match_data['time'],
             "date": match_data['date'],
             "live": match_data.get('live', False),
-            "watch_url": "watch.html" if has_servers else None
+            "watch_url": "watch.html"
         }
         self.save_scraped_urls()
 
