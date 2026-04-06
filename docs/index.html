@@ -9,16 +9,16 @@
     <link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@300;400;500;700;800;900&display=swap" rel="stylesheet">
     <style>
         :root {
-            --bg: #0a0a0a;
-            --surface: #141414;
-            --primary: #FF2A5F;
+            --bg: #141414;
+            --surface: #181818;
+            --primary: #E50914;
             --hover: #FFFFFF;
-            --text-main: #F5F5F5;
-            --text-secondary: #AAAAAA;
-            --border: #222222;
+            --text-main: #FFFFFF;
+            --text-secondary: #B3B3B3;
+            --border: #212121;
             --white: #FFFFFF;
-            --shadow: 0 4px 20px rgba(0,0,0,0.3);
-            --transition: all 0.2s ease-in-out;
+            --shadow: 0 8px 30px rgba(0,0,0,0.8);
+            --transition: all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
         }
 
         * {
@@ -180,7 +180,7 @@ padding-bottom: 0.5rem;
 }
 .tab-btn {
 background: var(--surface);
-border: 1px solid var(--border);
+border: 1px solid transparent;
 padding: 0.8rem 2rem;
 border-radius: 50px;
 font-weight: 800;
@@ -192,7 +192,7 @@ white-space: nowrap;
 background: var(--primary);
 color: var(--white);
 border-color: var(--primary);
-box-shadow: 0 4px 12px rgba(10, 92, 42, 0.2);
+box-shadow: 0 4px 15px rgba(229, 9, 20, 0.4);
 }
 .league-group {
 margin-bottom: 2.5rem;
@@ -214,8 +214,8 @@ gap: 1.2rem;
 }
 .match-card {
 background: var(--white);
-border: 1px solid var(--border);
-border-radius: 12px;
+border: 1px solid transparent;
+border-radius: 8px;
 padding: 1.2rem;
 transition: var(--transition);
 display: flex;
@@ -226,7 +226,8 @@ position: relative;
 }
 .match-card:hover {
 border-color: var(--primary);
-box-shadow: 0 8px 24px rgba(0,0,0,0.08);
+box-shadow: 0 10px 30px rgba(0,0,0,0.9);
+transform: scale(1.03);
 }
 .match-main {
 display: flex;
@@ -262,7 +263,7 @@ font-weight: 700;
 color: var(--text-secondary);
 }
 .live-badge {
-background: #e74c3c;
+background: var(--primary);
 color: white;
 padding: 2px 8px;
 border-radius: 4px;
