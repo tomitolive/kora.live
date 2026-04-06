@@ -141,7 +141,7 @@
                     <div class="match-main">
                         <div class="team">
                             <img src="{{ match.team_a_logo }}" alt="{{ match.team_a }}" class="team-logo-img" onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed={{ match.team_a }}'">
-                            <span class="team-name">{{ match.team_a }}</span>
+                            <span class="team-name" style="text-align: center; display: block;">{{ match.team_a }}</span>
                         </div>
                         <div class="match-status">
                             <span class="vs-text">VS</span>
@@ -152,9 +152,14 @@
                         </div>
                         <div class="team">
                             <img src="{{ match.team_b_logo }}" alt="{{ match.team_b }}" class="team-logo-img" onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed={{ match.team_b }}'">
-                            <span class="team-name">{{ match.team_b }}</span>
+                            <span class="team-name" style="text-align: center; display: block;">{{ match.team_b }}</span>
                         </div>
                     </div>
+                    {% if match.watch_url or match.live %}
+                    <div class="btn-watch">
+                        <span>▶️</span> شاهد الآن
+                    </div>
+                    {% endif %}
                     <div class="meta-footer">
                         <div class="meta-item">📺 {{ match.channel or 'TBD' }}</div>
                         <div class="meta-item">🎙️ {{ match.commentator or 'TBD' }}</div>

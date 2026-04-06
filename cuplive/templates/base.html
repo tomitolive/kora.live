@@ -129,13 +129,14 @@
         }
 
         .team-logo-img {
-            width: 48px;
-            height: 48px;
+            width: 54px;
+            height: 54px;
             object-fit: contain;
-            background: var(--white);
-            padding: 4px;
+            background: #f9f9f9;
+            padding: 5px;
             border-radius: 50%;
-            border: 1px solid var(--border);
+            border: 2px solid var(--border);
+            box-shadow: 0 2px 8px rgba(0,0,0,0.05);
         }
 
         .team-logo-small {
@@ -143,6 +144,27 @@
             height: 32px;
             object-fit: contain;
             border-radius: 50%;
+        }
+
+        .btn-watch {
+            background: var(--primary);
+            color: white;
+            padding: 8px 15px;
+            border-radius: 8px;
+            font-weight: 800;
+            font-size: 0.9rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 5px;
+            margin-top: 5px;
+            transition: var(--transition);
+        }
+
+        .btn-watch:hover {
+            background: var(--hover);
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(10, 92, 42, 0.2);
         }
 
         {% block extra_css %}{% endblock %}

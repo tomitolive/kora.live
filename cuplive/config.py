@@ -15,6 +15,7 @@ CLAUDE_MODEL = "claude-3-5-sonnet-20241022"
 # --- Sources ---
 NEWS_SOURCE = "https://www.live-soccer.info"
 STREAM_SOURCE = "https://kooorasport.live"
+PREMIUM_SOURCE = "https://a10.sia-koora.live/premium-1/"
 CHANNEL_BASE = "koora-plus.top"
 CHANNEL_RANGE = range(1, 51)
 
