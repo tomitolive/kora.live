@@ -1,0 +1,14 @@
+{
+    "team_a": "St. Peter",
+    "team_b": "Zwettl",
+    "team_a_logo": "https://media.api-sports.io/football/teams/21722.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/8293.png",
+    "league": "Landesliga - Niederosterreich",
+    "time": "14:30",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "st-peter-vs-zwettl-2026-04-05"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Frome Town",
+    "team_b": "Shaftesbury Town",
+    "team_a_logo": "https://media.api-sports.io/football/teams/7226.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/8926.png",
+    "league": "Non League Div One - Southern South",
+    "time": "14:00",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "frome-town-vs-shaftesbury-town-2026-04-06"
+}

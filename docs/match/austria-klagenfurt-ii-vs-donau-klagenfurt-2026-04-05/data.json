@@ -1,0 +1,14 @@
+{
+    "team_a": "Austria Klagenfurt II",
+    "team_b": "Donau Klagenfurt",
+    "team_a_logo": "https://media.api-sports.io/football/teams/19309.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/21723.png",
+    "league": "Landesliga - Karnten",
+    "time": "15:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "austria-klagenfurt-ii-vs-donau-klagenfurt-2026-04-05"
+}

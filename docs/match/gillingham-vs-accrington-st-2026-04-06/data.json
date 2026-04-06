@@ -1,0 +1,14 @@
+{
+    "team_a": "Gillingham",
+    "team_b": "Accrington ST",
+    "team_a_logo": "https://media.api-sports.io/football/teams/1347.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/1360.png",
+    "league": "League Two",
+    "time": "14:00",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "gillingham-vs-accrington-st-2026-04-06"
+}

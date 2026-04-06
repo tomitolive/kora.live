@@ -1,0 +1,14 @@
+{
+    "team_a": "Petrolul Ploiesti",
+    "team_b": "Csikszereda",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2598.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/6230.png",
+    "league": "Liga I",
+    "time": "14:30",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "petrolul-ploiesti-vs-csikszereda-2026-04-06"
+}

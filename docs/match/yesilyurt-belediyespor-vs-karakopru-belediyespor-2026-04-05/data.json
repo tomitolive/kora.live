@@ -1,0 +1,14 @@
+{
+    "team_a": "Yeşilyurt Belediyespor",
+    "team_b": "Karaköprü Belediyespor",
+    "team_a_logo": "https://media.api-sports.io/football/teams/6541.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/7408.png",
+    "league": "3. Lig - Group 2",
+    "time": "11:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "yesilyurt-belediyespor-vs-karakopru-belediyespor-2026-04-05"
+}

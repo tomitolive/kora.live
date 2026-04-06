@@ -1,0 +1,14 @@
+{
+    "team_a": "Ballymena United",
+    "team_b": "Glenavon FC",
+    "team_a_logo": "https://media.api-sports.io/football/teams/668.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/2275.png",
+    "league": "Premiership",
+    "time": "18:45",
+    "date": "2026-04-07",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "ballymena-united-vs-glenavon-fc-2026-04-07"
+}

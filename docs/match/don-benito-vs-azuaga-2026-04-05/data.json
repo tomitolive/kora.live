@@ -1,0 +1,14 @@
+{
+    "team_a": "Don Benito",
+    "team_b": "Azuaga",
+    "team_a_logo": "https://media.api-sports.io/football/teams/5259.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/9826.png",
+    "league": "Tercera División RFEF - Group 14",
+    "time": "09:30",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "don-benito-vs-azuaga-2026-04-05"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Veria",
+    "team_b": "Ethnikos Neou Keramidiou",
+    "team_a_logo": "https://media.api-sports.io/football/teams/961.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/5041.png",
+    "league": "Gamma Ethniki - Group 2",
+    "time": "13:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "veria-vs-ethnikos-neou-keramidiou-2026-04-05"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Vancouver Whitecaps",
+    "team_b": "Portland Timbers",
+    "team_a_logo": "https://media.api-sports.io/football/teams/1603.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/1617.png",
+    "league": "Major League Soccer",
+    "time": "02:30",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "vancouver-whitecaps-vs-portland-timbers-2026-04-05"
+}

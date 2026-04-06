@@ -1,0 +1,14 @@
+{
+    "team_a": "Panachaiki FC",
+    "team_b": "Loutraki",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2106.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/24874.png",
+    "league": "Gamma Ethniki - Group 4",
+    "time": "13:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "panachaiki-fc-vs-loutraki-2026-04-05"
+}

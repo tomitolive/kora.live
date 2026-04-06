@@ -1,0 +1,14 @@
+{
+    "team_a": "Energie Cottbus",
+    "team_b": "TSV 1860 München",
+    "team_a_logo": "https://media.api-sports.io/football/teams/1320.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/786.png",
+    "league": "3. Liga",
+    "time": "17:00",
+    "date": "2026-04-07",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "energie-cottbus-vs-tsv-1860-munchen-2026-04-07"
+}

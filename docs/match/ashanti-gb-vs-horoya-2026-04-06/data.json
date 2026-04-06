@@ -1,0 +1,14 @@
+{
+    "team_a": "Ashanti GB",
+    "team_b": "Horoya",
+    "team_a_logo": "https://media.api-sports.io/football/teams/4410.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/4417.png",
+    "league": "Ligue 1",
+    "time": "16:00",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "ashanti-gb-vs-horoya-2026-04-06"
+}

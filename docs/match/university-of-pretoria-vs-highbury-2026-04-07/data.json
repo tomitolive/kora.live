@@ -1,0 +1,14 @@
+{
+    "team_a": "University of Pretoria",
+    "team_b": "Highbury",
+    "team_a_logo": "https://media.api-sports.io/football/teams/10569.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/24758.png",
+    "league": "1st Division",
+    "time": "13:00",
+    "date": "2026-04-07",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "university-of-pretoria-vs-highbury-2026-04-07"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Cavalier",
+    "team_b": "Molynes United",
+    "team_a_logo": "https://media.api-sports.io/football/teams/3437.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/6407.png",
+    "league": "Premier League",
+    "time": "21:00",
+    "date": "2026-04-05",
+    "channel": "beIN Sports 1 HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "cavalier-vs-molynes-united-2026-04-05"
+}

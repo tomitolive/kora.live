@@ -1,0 +1,14 @@
+{
+    "team_a": "Skedsmo",
+    "team_b": "Bossekop",
+    "team_a_logo": "https://media.api-sports.io/football/teams/19711.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/18444.png",
+    "league": "3. Division - Girone 5",
+    "time": "11:00",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "skedsmo-vs-bossekop-2026-04-06"
+}

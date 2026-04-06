@@ -1,0 +1,14 @@
+{
+    "team_a": "SpVgg Greuther Fürth",
+    "team_b": "SC Paderborn 07",
+    "team_a_logo": "https://media.api-sports.io/football/teams/178.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/185.png",
+    "league": "2. Bundesliga",
+    "time": "11:30",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "spvgg-greuther-furth-vs-sc-paderborn-07-2026-04-05"
+}

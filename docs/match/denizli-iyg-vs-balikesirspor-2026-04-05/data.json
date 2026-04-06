@@ -1,0 +1,14 @@
+{
+    "team_a": "Denizli İYG",
+    "team_b": "Balıkesirspor",
+    "team_a_logo": "https://media.api-sports.io/football/teams/26470.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/3568.png",
+    "league": "3. Lig - Group 4",
+    "time": "13:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "denizli-iyg-vs-balikesirspor-2026-04-05"
+}

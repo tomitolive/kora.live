@@ -1,0 +1,14 @@
+{
+    "team_a": "US Ben Guerdane",
+    "team_b": "ES Metlaoui",
+    "team_a_logo": "https://media.api-sports.io/football/teams/986.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/984.png",
+    "league": "Ligue 1",
+    "time": "13:30",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "us-ben-guerdane-vs-es-metlaoui-2026-04-05"
+}

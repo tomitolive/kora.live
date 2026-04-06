@@ -1,0 +1,14 @@
+{
+    "team_a": "AD Carmelita",
+    "team_b": "Limón Black Star",
+    "team_a_logo": "https://media.api-sports.io/football/teams/814.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/20804.png",
+    "league": "Liga de Ascenso",
+    "time": "20:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "ad-carmelita-vs-limon-black-star-2026-04-05"
+}

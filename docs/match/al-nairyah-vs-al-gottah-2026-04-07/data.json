@@ -1,0 +1,14 @@
+{
+    "team_a": "Al Nairyah",
+    "team_b": "Al Gottah",
+    "team_a_logo": "https://media.api-sports.io/football/teams/10520.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/27475.png",
+    "league": "Division 2",
+    "time": "12:35",
+    "date": "2026-04-07",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "al-nairyah-vs-al-gottah-2026-04-07"
+}

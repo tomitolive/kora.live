@@ -1,0 +1,14 @@
+{
+    "team_a": "Blauw Geel",
+    "team_b": "Groene Ster",
+    "team_a_logo": "https://media.api-sports.io/football/teams/1263.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/1236.png",
+    "league": "Derde Divisie - Sunday",
+    "time": "12:00",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "blauw-geel-vs-groene-ster-2026-04-06"
+}

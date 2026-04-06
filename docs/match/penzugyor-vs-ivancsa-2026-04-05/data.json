@@ -1,0 +1,14 @@
+{
+    "team_a": "Pénzügyőr",
+    "team_b": "Iváncsa",
+    "team_a_logo": "https://media.api-sports.io/football/teams/5131.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/5104.png",
+    "league": "NB III - Southwest",
+    "time": "14:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "penzugyor-vs-ivancsa-2026-04-05"
+}

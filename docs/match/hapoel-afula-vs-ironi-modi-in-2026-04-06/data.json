@@ -1,0 +1,14 @@
+{
+    "team_a": "Hapoel Afula",
+    "team_b": "Ironi Modi'in",
+    "team_a_logo": "https://media.api-sports.io/football/teams/4483.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/6179.png",
+    "league": "Liga Leumit",
+    "time": "14:00",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "hapoel-afula-vs-ironi-modi-in-2026-04-06"
+}

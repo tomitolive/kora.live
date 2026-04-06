@@ -1,0 +1,14 @@
+{
+    "team_a": "USM Oujda",
+    "team_b": "Chabab Ben Guerir",
+    "team_a_logo": "https://media.api-sports.io/football/teams/17716.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/3450.png",
+    "league": "Botola 2",
+    "time": "14:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "usm-oujda-vs-chabab-ben-guerir-2026-04-05"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Almirante Brown",
+    "team_b": "Defensores De Belgrano",
+    "team_a_logo": "https://media.api-sports.io/football/teams/8375.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/1067.png",
+    "league": "Primera Nacional",
+    "time": "18:30",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "almirante-brown-vs-defensores-de-belgrano-2026-04-05"
+}

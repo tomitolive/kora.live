@@ -1,0 +1,14 @@
+{
+    "team_a": "Alemannia Aachen",
+    "team_b": "SV Wehen",
+    "team_a_logo": "https://media.api-sports.io/football/teams/4259.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/1319.png",
+    "league": "3. Liga",
+    "time": "17:30",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "alemannia-aachen-vs-sv-wehen-2026-04-05"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "ISCA",
+    "team_b": "Racing d'Abidjan",
+    "team_a_logo": "https://media.api-sports.io/football/teams/25587.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/4519.png",
+    "league": "Ligue 1",
+    "time": "16:00",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "isca-vs-racing-d-abidjan-2026-04-06"
+}

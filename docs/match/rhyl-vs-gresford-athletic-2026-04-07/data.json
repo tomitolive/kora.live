@@ -1,0 +1,14 @@
+{
+    "team_a": "Rhyl",
+    "team_b": "Gresford Athletic",
+    "team_a_logo": "https://media.api-sports.io/football/teams/5623.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/5615.png",
+    "league": "FAW Championship",
+    "time": "18:45",
+    "date": "2026-04-07",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "rhyl-vs-gresford-athletic-2026-04-07"
+}

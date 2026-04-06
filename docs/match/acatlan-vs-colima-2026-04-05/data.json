@@ -1,0 +1,14 @@
+{
+    "team_a": "Acatlan",
+    "team_b": "Colima",
+    "team_a_logo": "https://media.api-sports.io/football/teams/24949.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/15927.png",
+    "league": "Liga Premier Serie A",
+    "time": "22:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "acatlan-vs-colima-2026-04-05"
+}

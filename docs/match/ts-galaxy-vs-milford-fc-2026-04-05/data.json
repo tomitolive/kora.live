@@ -1,0 +1,14 @@
+{
+    "team_a": "TS Galaxy",
+    "team_b": "Milford FC",
+    "team_a_logo": "https://media.api-sports.io/football/teams/8074.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/22234.png",
+    "league": "Cup",
+    "time": "13:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "ts-galaxy-vs-milford-fc-2026-04-05"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Abia Warriors",
+    "team_b": "Bayelsa United",
+    "team_a_logo": "https://media.api-sports.io/football/teams/5171.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/17445.png",
+    "league": "NPFL",
+    "time": "15:00",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "abia-warriors-vs-bayelsa-united-2026-04-06"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Makkabi",
+    "team_b": "Anker Wismar",
+    "team_a_logo": "https://media.api-sports.io/football/teams/14722.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/13946.png",
+    "league": "Oberliga - Nordost-Nord",
+    "time": "11:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "makkabi-vs-anker-wismar-2026-04-05"
+}

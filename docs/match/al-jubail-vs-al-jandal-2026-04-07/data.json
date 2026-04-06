@@ -1,0 +1,14 @@
+{
+    "team_a": "Al Jubail",
+    "team_b": "Al Jandal",
+    "team_a_logo": "https://media.api-sports.io/football/teams/10508.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/10507.png",
+    "league": "Division 1",
+    "time": "15:40",
+    "date": "2026-04-07",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "al-jubail-vs-al-jandal-2026-04-07"
+}

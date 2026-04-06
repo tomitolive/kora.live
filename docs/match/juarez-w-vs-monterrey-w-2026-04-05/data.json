@@ -1,0 +1,14 @@
+{
+    "team_a": "Juárez W",
+    "team_b": "Monterrey W",
+    "team_a_logo": "https://media.api-sports.io/football/teams/14869.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/14879.png",
+    "league": "Liga MX Femenil",
+    "time": "23:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "juarez-w-vs-monterrey-w-2026-04-05"
+}

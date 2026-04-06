@@ -1,0 +1,14 @@
+{
+    "team_a": "Rushall Olympic",
+    "team_b": "Ilkeston Town",
+    "team_a_logo": "https://media.api-sports.io/football/teams/7743.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/7236.png",
+    "league": "Non League Premier - Northern",
+    "time": "14:00",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "rushall-olympic-vs-ilkeston-town-2026-04-06"
+}

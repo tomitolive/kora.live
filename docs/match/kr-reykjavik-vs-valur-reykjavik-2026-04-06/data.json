@@ -1,0 +1,14 @@
+{
+    "team_a": "KR Reykjavik",
+    "team_b": "Valur Reykjavik",
+    "team_a_logo": "https://media.api-sports.io/football/teams/271.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/274.png",
+    "league": "Cup",
+    "time": "17:00",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "kr-reykjavik-vs-valur-reykjavik-2026-04-06"
+}

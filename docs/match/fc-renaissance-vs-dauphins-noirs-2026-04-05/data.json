@@ -1,0 +1,14 @@
+{
+    "team_a": "FC Renaissance",
+    "team_b": "Dauphins Noirs",
+    "team_a_logo": "https://media.api-sports.io/football/teams/27229.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/8574.png",
+    "league": "Ligue 1",
+    "time": "12:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "fc-renaissance-vs-dauphins-noirs-2026-04-05"
+}

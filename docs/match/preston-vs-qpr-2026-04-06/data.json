@@ -1,0 +1,14 @@
+{
+    "team_a": "Preston",
+    "team_b": "QPR",
+    "team_a_logo": "https://media.api-sports.io/football/teams/59.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/72.png",
+    "league": "Championship",
+    "time": "14:00",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "preston-vs-qpr-2026-04-06"
+}

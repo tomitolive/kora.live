@@ -1,0 +1,14 @@
+{
+    "team_a": "Stade Lausanne-Ouchy",
+    "team_b": "Rapperswil",
+    "team_a_logo": "https://media.api-sports.io/football/teams/4269.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/2185.png",
+    "league": "Challenge League",
+    "time": "17:30",
+    "date": "2026-04-07",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "stade-lausanne-ouchy-vs-rapperswil-2026-04-07"
+}

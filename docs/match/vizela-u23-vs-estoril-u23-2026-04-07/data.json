@@ -1,0 +1,14 @@
+{
+    "team_a": "Vizela U23",
+    "team_b": "Estoril U23",
+    "team_a_logo": "https://media.api-sports.io/football/teams/17475.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/15463.png",
+    "league": "Liga Revelação U23",
+    "time": "10:00",
+    "date": "2026-04-07",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "vizela-u23-vs-estoril-u23-2026-04-07"
+}

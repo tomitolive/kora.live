@@ -1,0 +1,14 @@
+{
+    "team_a": "Ajman U23",
+    "team_b": "Al Ain U23",
+    "team_a_logo": "https://media.api-sports.io/football/teams/27484.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/27485.png",
+    "league": "Pro League U23",
+    "time": "13:50",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "ajman-u23-vs-al-ain-u23-2026-04-06"
+}

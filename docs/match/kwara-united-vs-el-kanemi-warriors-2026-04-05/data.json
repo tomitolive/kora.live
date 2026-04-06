@@ -1,0 +1,14 @@
+{
+    "team_a": "Kwara United",
+    "team_b": "El Kanemi Warriors",
+    "team_a_logo": "https://media.api-sports.io/football/teams/5185.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/5175.png",
+    "league": "NPFL",
+    "time": "15:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "kwara-united-vs-el-kanemi-warriors-2026-04-05"
+}

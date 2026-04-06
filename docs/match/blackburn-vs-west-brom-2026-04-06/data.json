@@ -1,0 +1,14 @@
+{
+    "team_a": "Blackburn",
+    "team_b": "West Brom",
+    "team_a_logo": "https://media.api-sports.io/football/teams/67.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/60.png",
+    "league": "Championship",
+    "time": "14:00",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "blackburn-vs-west-brom-2026-04-06"
+}

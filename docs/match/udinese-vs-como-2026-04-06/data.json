@@ -1,0 +1,14 @@
+{
+    "team_a": "Udinese",
+    "team_b": "Como",
+    "team_a_logo": "https://media.api-sports.io/football/teams/494.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/895.png",
+    "league": "Serie A",
+    "time": "10:30",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "udinese-vs-como-2026-04-06"
+}

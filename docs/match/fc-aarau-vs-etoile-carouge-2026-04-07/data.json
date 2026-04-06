@@ -1,0 +1,14 @@
+{
+    "team_a": "FC Aarau",
+    "team_b": "Étoile Carouge",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2177.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/6654.png",
+    "league": "Challenge League",
+    "time": "17:00",
+    "date": "2026-04-07",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "fc-aarau-vs-etoile-carouge-2026-04-07"
+}

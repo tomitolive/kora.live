@@ -1,0 +1,14 @@
+{
+    "team_a": "Union Comercio",
+    "team_b": "Cesar Vallejo",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2552.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/2541.png",
+    "league": "Segunda División",
+    "time": "20:15",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "union-comercio-vs-cesar-vallejo-2026-04-05"
+}

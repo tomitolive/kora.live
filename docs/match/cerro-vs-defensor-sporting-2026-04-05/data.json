@@ -1,0 +1,14 @@
+{
+    "team_a": "Cerro",
+    "team_b": "Defensor Sporting",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2362.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/2350.png",
+    "league": "Primera División - Apertura",
+    "time": "18:30",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "cerro-vs-defensor-sporting-2026-04-05"
+}

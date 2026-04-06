@@ -1,0 +1,14 @@
+{
+    "team_a": "Shanghai Port II",
+    "team_b": "Nantong Haimen Codion",
+    "team_a_logo": "https://media.api-sports.io/football/teams/23289.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/19319.png",
+    "league": "League Two",
+    "time": "07:30",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "shanghai-port-ii-vs-nantong-haimen-codion-2026-04-05"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Van II",
+    "team_b": "Bentonit Ijevan",
+    "team_a_logo": "https://media.api-sports.io/football/teams/26199.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/24965.png",
+    "league": "First League",
+    "time": "12:00",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "van-ii-vs-bentonit-ijevan-2026-04-06"
+}

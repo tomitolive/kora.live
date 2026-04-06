@@ -1,0 +1,14 @@
+{
+    "team_a": "Asteras Stavros",
+    "team_b": "Tilikratis",
+    "team_a_logo": "https://media.api-sports.io/football/teams/20048.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/5066.png",
+    "league": "Gamma Ethniki - Group 3",
+    "time": "13:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "asteras-stavros-vs-tilikratis-2026-04-05"
+}

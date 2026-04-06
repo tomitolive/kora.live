@@ -1,0 +1,14 @@
+{
+    "team_a": "Ayr Utd",
+    "team_b": "Dunfermline",
+    "team_a_logo": "https://media.api-sports.io/football/teams/1387.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/1388.png",
+    "league": "Championship",
+    "time": "18:45",
+    "date": "2026-04-07",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "ayr-utd-vs-dunfermline-2026-04-07"
+}

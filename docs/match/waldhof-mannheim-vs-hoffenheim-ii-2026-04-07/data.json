@@ -1,0 +1,14 @@
+{
+    "team_a": "Waldhof Mannheim",
+    "team_b": "Hoffenheim II",
+    "team_a_logo": "https://media.api-sports.io/football/teams/4268.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/9364.png",
+    "league": "3. Liga",
+    "time": "17:00",
+    "date": "2026-04-07",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "waldhof-mannheim-vs-hoffenheim-ii-2026-04-07"
+}

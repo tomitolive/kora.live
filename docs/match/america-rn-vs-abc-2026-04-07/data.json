@@ -1,0 +1,14 @@
+{
+    "team_a": "America-RN",
+    "team_b": "ABC",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2233.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/754.png",
+    "league": "Copa do Nordeste",
+    "time": "22:00",
+    "date": "2026-04-07",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "america-rn-vs-abc-2026-04-07"
+}

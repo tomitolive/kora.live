@@ -1,0 +1,14 @@
+{
+    "team_a": "Talasgücü Belediyespor",
+    "team_b": "Diyarbekirspor",
+    "team_a_logo": "https://media.api-sports.io/football/teams/21995.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/7398.png",
+    "league": "3. Lig - Group 2",
+    "time": "11:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "talasgucu-belediyespor-vs-diyarbekirspor-2026-04-05"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Kentavros",
+    "team_b": "Nea Ionia",
+    "team_a_logo": "https://media.api-sports.io/football/teams/26590.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/24879.png",
+    "league": "Gamma Ethniki - Group 5",
+    "time": "12:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "kentavros-vs-nea-ionia-2026-04-05"
+}

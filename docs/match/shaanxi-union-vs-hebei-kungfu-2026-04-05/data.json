@@ -1,0 +1,14 @@
+{
+    "team_a": "Shaanxi Union",
+    "team_b": "Hebei Kungfu",
+    "team_a_logo": "https://media.api-sports.io/football/teams/23286.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/17264.png",
+    "league": "League One",
+    "time": "07:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "shaanxi-union-vs-hebei-kungfu-2026-04-05"
+}

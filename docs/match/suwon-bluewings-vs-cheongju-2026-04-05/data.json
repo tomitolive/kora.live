@@ -1,0 +1,14 @@
+{
+    "team_a": "Suwon Bluewings",
+    "team_b": "Cheongju",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2765.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/7061.png",
+    "league": "K League 2",
+    "time": "05:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "suwon-bluewings-vs-cheongju-2026-04-05"
+}

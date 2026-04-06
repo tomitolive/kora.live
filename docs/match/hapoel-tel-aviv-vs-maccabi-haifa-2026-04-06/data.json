@@ -1,0 +1,14 @@
+{
+    "team_a": "Hapoel Tel Aviv",
+    "team_b": "Maccabi Haifa",
+    "team_a_logo": "https://media.api-sports.io/football/teams/4501.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/4195.png",
+    "league": "Ligat Ha'al",
+    "time": "17:30",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "hapoel-tel-aviv-vs-maccabi-haifa-2026-04-06"
+}

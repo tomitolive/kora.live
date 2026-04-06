@@ -1,0 +1,14 @@
+{
+    "team_a": "Atletico-MG",
+    "team_b": "Atletico Paranaense",
+    "team_a_logo": "https://media.api-sports.io/football/teams/1062.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/134.png",
+    "league": "Serie A",
+    "time": "20:30",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "atletico-mg-vs-atletico-paranaense-2026-04-05"
+}

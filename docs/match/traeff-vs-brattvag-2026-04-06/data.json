@@ -1,0 +1,14 @@
+{
+    "team_a": "Træff",
+    "team_b": "Brattvåg",
+    "team_a_logo": "https://media.api-sports.io/football/teams/7040.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/6970.png",
+    "league": "2. Division - Group 1",
+    "time": "11:00",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "traeff-vs-brattvag-2026-04-06"
+}

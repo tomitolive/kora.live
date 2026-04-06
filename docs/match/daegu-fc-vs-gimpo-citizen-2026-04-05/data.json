@@ -1,0 +1,14 @@
+{
+    "team_a": "Daegu FC",
+    "team_b": "Gimpo Citizen",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2747.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/7078.png",
+    "league": "K League 2",
+    "time": "05:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "daegu-fc-vs-gimpo-citizen-2026-04-05"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Estrella Del Sur",
+    "team_b": "Mercedes",
+    "team_a_logo": "https://media.api-sports.io/football/teams/23099.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/18915.png",
+    "league": "Primera C",
+    "time": "18:30",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "estrella-del-sur-vs-mercedes-2026-04-05"
+}

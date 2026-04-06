@@ -1,0 +1,14 @@
+{
+    "team_a": "Shirak",
+    "team_b": "Pyunik Yerevan",
+    "team_a_logo": "https://media.api-sports.io/football/teams/3686.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/709.png",
+    "league": "Premier League",
+    "time": "13:00",
+    "date": "2026-04-06",
+    "channel": "beIN Sports 1 HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "shirak-vs-pyunik-yerevan-2026-04-06"
+}

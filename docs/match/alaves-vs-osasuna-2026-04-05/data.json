@@ -1,0 +1,14 @@
+{
+    "team_a": "Alaves",
+    "team_b": "Osasuna",
+    "team_a_logo": "https://media.api-sports.io/football/teams/542.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/727.png",
+    "league": "La Liga",
+    "time": "19:00",
+    "date": "2026-04-05",
+    "channel": "beIN Sports 3 HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "alaves-vs-osasuna-2026-04-05"
+}

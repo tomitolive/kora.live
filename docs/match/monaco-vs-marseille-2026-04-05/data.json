@@ -1,0 +1,14 @@
+{
+    "team_a": "Monaco",
+    "team_b": "Marseille",
+    "team_a_logo": "https://media.api-sports.io/football/teams/91.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/81.png",
+    "league": "Ligue 1",
+    "time": "18:45",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "monaco-vs-marseille-2026-04-05"
+}

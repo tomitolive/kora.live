@@ -1,0 +1,14 @@
+{
+    "team_a": "Nykobing FC",
+    "team_b": "Vejgaard B",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2064.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/6068.png",
+    "league": "3. Division",
+    "time": "12:00",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "nykobing-fc-vs-vejgaard-b-2026-04-06"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Schrems",
+    "team_b": "St. Pölten II",
+    "team_a_logo": "https://media.api-sports.io/football/teams/8289.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/8249.png",
+    "league": "Landesliga - Niederosterreich",
+    "time": "14:30",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "schrems-vs-st-polten-ii-2026-04-05"
+}

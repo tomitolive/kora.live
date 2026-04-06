@@ -1,0 +1,14 @@
+{
+    "team_a": "Khenchela",
+    "team_b": "Paradou AC",
+    "team_a_logo": "https://media.api-sports.io/football/teams/10752.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/915.png",
+    "league": "Ligue 1",
+    "time": "15:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "khenchela-vs-paradou-ac-2026-04-05"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "CDS Tampico Madero",
+    "team_b": "Venados FC",
+    "team_a_logo": "https://media.api-sports.io/football/teams/19905.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/2311.png",
+    "league": "Liga de Expansión MX",
+    "time": "23:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "cds-tampico-madero-vs-venados-fc-2026-04-05"
+}

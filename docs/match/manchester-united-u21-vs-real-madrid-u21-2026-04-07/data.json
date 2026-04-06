@@ -1,0 +1,14 @@
+{
+    "team_a": "Manchester United U21",
+    "team_b": "Real Madrid U21",
+    "team_a_logo": "https://media.api-sports.io/football/teams/7198.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/26996.png",
+    "league": "Premier League International Cup",
+    "time": "18:00",
+    "date": "2026-04-07",
+    "channel": "beIN Sports 1 HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "manchester-united-u21-vs-real-madrid-u21-2026-04-07"
+}

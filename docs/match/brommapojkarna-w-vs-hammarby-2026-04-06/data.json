@@ -1,0 +1,14 @@
+{
+    "team_a": "Brommapojkarna W",
+    "team_b": "Hammarby",
+    "team_a_logo": "https://media.api-sports.io/football/teams/16004.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/15630.png",
+    "league": "Damallsvenskan",
+    "time": "12:00",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "brommapojkarna-w-vs-hammarby-2026-04-06"
+}

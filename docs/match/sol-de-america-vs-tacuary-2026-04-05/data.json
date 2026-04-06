@@ -1,0 +1,14 @@
+{
+    "team_a": "SOL DE America",
+    "team_b": "Tacuary",
+    "team_a_logo": "https://media.api-sports.io/football/teams/1177.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/10491.png",
+    "league": "Division Intermedia",
+    "time": "20:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "sol-de-america-vs-tacuary-2026-04-05"
+}

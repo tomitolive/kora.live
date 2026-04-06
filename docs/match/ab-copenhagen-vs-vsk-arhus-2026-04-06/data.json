@@ -1,0 +1,14 @@
+{
+    "team_a": "AB Copenhagen",
+    "team_b": "VSK Århus",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2060.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/6064.png",
+    "league": "2. Division",
+    "time": "12:00",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "ab-copenhagen-vs-vsk-arhus-2026-04-06"
+}

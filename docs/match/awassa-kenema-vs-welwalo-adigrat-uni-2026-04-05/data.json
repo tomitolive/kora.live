@@ -1,0 +1,14 @@
+{
+    "team_a": "Awassa Kenema",
+    "team_b": "Welwalo Adigrat Uni",
+    "team_a_logo": "https://media.api-sports.io/football/teams/4111.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/4125.png",
+    "league": "Premier League",
+    "time": "13:00",
+    "date": "2026-04-05",
+    "channel": "beIN Sports 1 HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "awassa-kenema-vs-welwalo-adigrat-uni-2026-04-05"
+}

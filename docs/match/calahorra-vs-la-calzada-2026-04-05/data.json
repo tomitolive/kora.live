@@ -1,0 +1,14 @@
+{
+    "team_a": "Calahorra",
+    "team_b": "La Calzada",
+    "team_a_logo": "https://media.api-sports.io/football/teams/9581.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/9867.png",
+    "league": "Tercera División RFEF - Group 16",
+    "time": "15:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "calahorra-vs-la-calzada-2026-04-05"
+}

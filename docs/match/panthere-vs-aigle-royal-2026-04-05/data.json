@@ -1,0 +1,14 @@
+{
+    "team_a": "Panthère",
+    "team_b": "Aigle Royal",
+    "team_a_logo": "https://media.api-sports.io/football/teams/5564.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/5556.png",
+    "league": "Elite One",
+    "time": "14:30",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "panthere-vs-aigle-royal-2026-04-05"
+}

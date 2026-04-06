@@ -1,0 +1,14 @@
+{
+    "team_a": "PWD Bamenda",
+    "team_b": "Aigle Royal de Moungo",
+    "team_a_logo": "https://media.api-sports.io/football/teams/5409.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/20799.png",
+    "league": "Elite One",
+    "time": "14:30",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "pwd-bamenda-vs-aigle-royal-de-moungo-2026-04-05"
+}

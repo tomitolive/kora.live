@@ -1,0 +1,14 @@
+{
+    "team_a": "Atletico Madrid W",
+    "team_b": "Deportivo de La Coruña W",
+    "team_a_logo": "https://media.api-sports.io/football/teams/1910.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/6376.png",
+    "league": "Primera División Femenina",
+    "time": "10:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "atletico-madrid-w-vs-deportivo-de-la-coruna-w-2026-04-05"
+}

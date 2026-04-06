@@ -1,0 +1,14 @@
+{
+    "team_a": "Deportivo Universitario",
+    "team_b": "Herrera",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2888.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/15619.png",
+    "league": "Liga Panameña de Fútbol",
+    "time": "01:30",
+    "date": "2026-04-07",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "deportivo-universitario-vs-herrera-2026-04-07"
+}

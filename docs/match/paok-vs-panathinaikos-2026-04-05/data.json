@@ -1,0 +1,14 @@
+{
+    "team_a": "PAOK",
+    "team_b": "Panathinaikos",
+    "team_a_logo": "https://media.api-sports.io/football/teams/619.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/617.png",
+    "league": "Super League 1",
+    "time": "16:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "paok-vs-panathinaikos-2026-04-05"
+}

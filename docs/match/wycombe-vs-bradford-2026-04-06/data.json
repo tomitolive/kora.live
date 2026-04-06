@@ -1,0 +1,14 @@
+{
+    "team_a": "Wycombe",
+    "team_b": "Bradford",
+    "team_a_logo": "https://media.api-sports.io/football/teams/1358.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/1343.png",
+    "league": "League One",
+    "time": "14:00",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "wycombe-vs-bradford-2026-04-06"
+}

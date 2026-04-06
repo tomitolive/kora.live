@@ -1,0 +1,14 @@
+{
+    "team_a": "Afjet Afyonspor",
+    "team_b": "Nazilli Spor",
+    "team_a_logo": "https://media.api-sports.io/football/teams/3565.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/7415.png",
+    "league": "3. Lig - Group 4",
+    "time": "13:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "afjet-afyonspor-vs-nazilli-spor-2026-04-05"
+}

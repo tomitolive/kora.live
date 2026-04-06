@@ -1,0 +1,14 @@
+{
+    "team_a": "TSV Hartberg",
+    "team_b": "Red Bull Salzburg",
+    "team_a_logo": "https://media.api-sports.io/football/teams/1072.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/571.png",
+    "league": "Bundesliga",
+    "time": "12:30",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "tsv-hartberg-vs-red-bull-salzburg-2026-04-05"
+}

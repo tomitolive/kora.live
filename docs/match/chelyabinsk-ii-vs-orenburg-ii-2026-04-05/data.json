@@ -1,0 +1,14 @@
+{
+    "team_a": "Chelyabinsk II",
+    "team_b": "Orenburg II",
+    "team_a_logo": "https://media.api-sports.io/football/teams/25866.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/14141.png",
+    "league": "Second League - Group 4",
+    "time": "11:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "chelyabinsk-ii-vs-orenburg-ii-2026-04-05"
+}

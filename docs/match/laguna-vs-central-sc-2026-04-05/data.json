@@ -1,0 +1,14 @@
+{
+    "team_a": "Laguna",
+    "team_b": "Central SC",
+    "team_a_logo": "https://media.api-sports.io/football/teams/25123.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/2210.png",
+    "league": "Serie D",
+    "time": "18:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "laguna-vs-central-sc-2026-04-05"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "FK Polimlje Prijepolje",
+    "team_b": "FK Zlatibor",
+    "team_a_logo": "https://media.api-sports.io/football/teams/26415.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/2652.png",
+    "league": "Srpska Liga - West",
+    "time": "13:30",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "fk-polimlje-prijepolje-vs-fk-zlatibor-2026-04-05"
+}

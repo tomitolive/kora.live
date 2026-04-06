@@ -1,0 +1,14 @@
+{
+    "team_a": "Vitesse",
+    "team_b": "Jong Ajax",
+    "team_a_logo": "https://media.api-sports.io/football/teams/200.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/425.png",
+    "league": "Eerste Divisie",
+    "time": "14:45",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "vitesse-vs-jong-ajax-2026-04-06"
+}

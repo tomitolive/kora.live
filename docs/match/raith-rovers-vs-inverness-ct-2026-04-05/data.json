@@ -1,0 +1,14 @@
+{
+    "team_a": "Raith Rovers",
+    "team_b": "Inverness CT",
+    "team_a_logo": "https://media.api-sports.io/football/teams/1385.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/903.png",
+    "league": "Challenge Cup",
+    "time": "15:10",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "raith-rovers-vs-inverness-ct-2026-04-05"
+}

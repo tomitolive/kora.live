@@ -1,0 +1,14 @@
+{
+    "team_a": "Cham",
+    "team_b": "Ingolstadt II",
+    "team_a_logo": "https://media.api-sports.io/football/teams/19761.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/12792.png",
+    "league": "Oberliga - Bayern Nord",
+    "time": "14:00",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "cham-vs-ingolstadt-ii-2026-04-06"
+}

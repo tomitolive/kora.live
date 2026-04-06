@@ -1,0 +1,14 @@
+{
+    "team_a": "Vukovar",
+    "team_b": "NK Lokomotiva Zagreb",
+    "team_a_logo": "https://media.api-sports.io/football/teams/5730.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/1017.png",
+    "league": "HNL",
+    "time": "13:45",
+    "date": "2026-04-07",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "vukovar-vs-nk-lokomotiva-zagreb-2026-04-07"
+}

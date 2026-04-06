@@ -1,0 +1,14 @@
+{
+    "team_a": "Swansea City U21",
+    "team_b": "Peterborough United U21",
+    "team_a_logo": "https://media.api-sports.io/football/teams/11912.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/20018.png",
+    "league": "Professional Development League",
+    "time": "11:00",
+    "date": "2026-04-07",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "swansea-city-u21-vs-peterborough-united-u21-2026-04-07"
+}

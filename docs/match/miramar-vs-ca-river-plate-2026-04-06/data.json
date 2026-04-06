@@ -1,0 +1,14 @@
+{
+    "team_a": "Miramar",
+    "team_b": "CA River Plate",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2373.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/2351.png",
+    "league": "Segunda División",
+    "time": "23:00",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "miramar-vs-ca-river-plate-2026-04-06"
+}

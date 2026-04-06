@@ -1,0 +1,14 @@
+{
+    "team_a": "Leones del Norte",
+    "team_b": "Delfin SC",
+    "team_a_logo": "https://media.api-sports.io/football/teams/19034.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/1149.png",
+    "league": "Liga Pro",
+    "time": "18:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "leones-del-norte-vs-delfin-sc-2026-04-05"
+}

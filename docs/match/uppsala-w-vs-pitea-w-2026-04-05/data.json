@@ -1,0 +1,14 @@
+{
+    "team_a": "Uppsala W",
+    "team_b": "Piteå W",
+    "team_a_logo": "https://media.api-sports.io/football/teams/11082.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/10900.png",
+    "league": "Damallsvenskan",
+    "time": "13:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "uppsala-w-vs-pitea-w-2026-04-05"
+}

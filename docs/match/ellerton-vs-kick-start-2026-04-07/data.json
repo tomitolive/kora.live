@@ -1,0 +1,14 @@
+{
+    "team_a": "Ellerton",
+    "team_b": "Kick Start",
+    "team_a_logo": "https://media.api-sports.io/football/teams/8403.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/22944.png",
+    "league": "Premier League",
+    "time": "23:00",
+    "date": "2026-04-07",
+    "channel": "beIN Sports 1 HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "ellerton-vs-kick-start-2026-04-07"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Wolfurt",
+    "team_b": "Blau-Weiß Feldkirch",
+    "team_a_logo": "https://media.api-sports.io/football/teams/4968.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/8354.png",
+    "league": "Landesliga - Vorarlbergliga",
+    "time": "15:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "wolfurt-vs-blau-weiss-feldkirch-2026-04-05"
+}

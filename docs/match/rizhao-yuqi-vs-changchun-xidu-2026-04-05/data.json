@@ -1,0 +1,14 @@
+{
+    "team_a": "Rizhao Yuqi",
+    "team_b": "Changchun Xidu",
+    "team_a_logo": "https://media.api-sports.io/football/teams/21328.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/23132.png",
+    "league": "League Two",
+    "time": "11:30",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "rizhao-yuqi-vs-changchun-xidu-2026-04-05"
+}

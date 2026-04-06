@@ -1,0 +1,14 @@
+{
+    "team_a": "Greater Tomorrow",
+    "team_b": "Team Rhino",
+    "team_a_logo": "https://media.api-sports.io/football/teams/20811.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/18109.png",
+    "league": "GFA League",
+    "time": "16:00",
+    "date": "2026-04-07",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "greater-tomorrow-vs-team-rhino-2026-04-07"
+}

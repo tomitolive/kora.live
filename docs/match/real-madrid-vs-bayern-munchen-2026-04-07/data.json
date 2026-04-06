@@ -1,0 +1,14 @@
+{
+    "team_a": "Real Madrid",
+    "team_b": "Bayern München",
+    "team_a_logo": "https://media.api-sports.io/football/teams/541.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/157.png",
+    "league": "UEFA Champions League",
+    "time": "19:00",
+    "date": "2026-04-07",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "real-madrid-vs-bayern-munchen-2026-04-07"
+}

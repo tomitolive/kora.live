@@ -1,0 +1,14 @@
+{
+    "team_a": "Jayxun",
+    "team_b": "Kattaqurgon",
+    "team_a_logo": "https://media.api-sports.io/football/teams/21159.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/25887.png",
+    "league": "Pro League A",
+    "time": "11:00",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "jayxun-vs-kattaqurgon-2026-04-06"
+}

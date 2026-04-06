@@ -1,0 +1,14 @@
+{
+    "team_a": "Humaitá",
+    "team_b": "Porto Velho",
+    "team_a_logo": "https://media.api-sports.io/football/teams/10478.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/12946.png",
+    "league": "Serie D",
+    "time": "21:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "humaita-vs-porto-velho-2026-04-05"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Guadalajara Chivas U21",
+    "team_b": "UNAM Pumas U21",
+    "team_a_logo": "https://media.api-sports.io/football/teams/26833.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/26844.png",
+    "league": "Liga MX U21",
+    "time": "15:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "guadalajara-chivas-u21-vs-unam-pumas-u21-2026-04-05"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Gebenbach",
+    "team_b": "Fortuna Regensburg",
+    "team_a_logo": "https://media.api-sports.io/football/teams/19228.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/19226.png",
+    "league": "Oberliga - Bayern Nord",
+    "time": "14:00",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "gebenbach-vs-fortuna-regensburg-2026-04-06"
+}

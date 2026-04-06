@@ -1,0 +1,14 @@
+{
+    "team_a": "Rustavi",
+    "team_b": "Dinamo Batumi",
+    "team_a_logo": "https://media.api-sports.io/football/teams/3501.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/705.png",
+    "league": "Erovnuli Liga",
+    "time": "11:00",
+    "date": "2026-04-07",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "rustavi-vs-dinamo-batumi-2026-04-07"
+}

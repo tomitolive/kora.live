@@ -1,0 +1,14 @@
+{
+    "team_a": "Semen Padang",
+    "team_b": "Persib Bandung",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2456.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/2445.png",
+    "league": "Liga 1",
+    "time": "12:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "semen-padang-vs-persib-bandung-2026-04-05"
+}

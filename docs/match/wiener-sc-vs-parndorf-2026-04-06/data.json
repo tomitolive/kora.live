@@ -1,0 +1,14 @@
+{
+    "team_a": "Wiener SC",
+    "team_b": "Parndorf",
+    "team_a_logo": "https://media.api-sports.io/football/teams/4965.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/4955.png",
+    "league": "Regionalliga - Ost",
+    "time": "14:30",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "wiener-sc-vs-parndorf-2026-04-06"
+}

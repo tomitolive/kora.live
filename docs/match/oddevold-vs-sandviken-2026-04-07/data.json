@@ -1,0 +1,14 @@
+{
+    "team_a": "Oddevold",
+    "team_b": "Sandviken",
+    "team_a_logo": "https://media.api-sports.io/football/teams/11674.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/6697.png",
+    "league": "Superettan",
+    "time": "17:00",
+    "date": "2026-04-07",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "oddevold-vs-sandviken-2026-04-07"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Sol de América",
+    "team_b": "Sarmiento de La Banda",
+    "team_a_logo": "https://media.api-sports.io/football/teams/3982.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/23255.png",
+    "league": "Torneo Federal A",
+    "time": "19:30",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "sol-de-america-vs-sarmiento-de-la-banda-2026-04-05"
+}

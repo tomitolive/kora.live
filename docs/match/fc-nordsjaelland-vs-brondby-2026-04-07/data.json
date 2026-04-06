@@ -1,0 +1,14 @@
+{
+    "team_a": "FC Nordsjaelland",
+    "team_b": "Brondby",
+    "team_a_logo": "https://media.api-sports.io/football/teams/398.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/407.png",
+    "league": "Superliga",
+    "time": "17:00",
+    "date": "2026-04-07",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "fc-nordsjaelland-vs-brondby-2026-04-07"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Larne",
+    "team_b": "Coleraine FC",
+    "team_a_logo": "https://media.api-sports.io/football/teams/5354.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/669.png",
+    "league": "Premiership",
+    "time": "18:45",
+    "date": "2026-04-07",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "larne-vs-coleraine-fc-2026-04-07"
+}

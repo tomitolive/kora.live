@@ -1,0 +1,14 @@
+{
+    "team_a": "Celtiga",
+    "team_b": "Alondras",
+    "team_a_logo": "https://media.api-sports.io/football/teams/26533.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/9603.png",
+    "league": "Tercera División RFEF - Group 1",
+    "time": "16:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "celtiga-vs-alondras-2026-04-05"
+}

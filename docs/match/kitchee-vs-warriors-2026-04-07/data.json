@@ -1,0 +1,14 @@
+{
+    "team_a": "Kitchee",
+    "team_b": "Warriors",
+    "team_a_logo": "https://media.api-sports.io/football/teams/4453.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/4207.png",
+    "league": "League Cup",
+    "time": "07:00",
+    "date": "2026-04-07",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "kitchee-vs-warriors-2026-04-07"
+}

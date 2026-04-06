@@ -1,0 +1,14 @@
+{
+    "team_a": "Orbit College",
+    "team_b": "Kaizer Chiefs",
+    "team_a_logo": "https://media.api-sports.io/football/teams/10582.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/2691.png",
+    "league": "Premier Soccer League",
+    "time": "13:00",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "orbit-college-vs-kaizer-chiefs-2026-04-06"
+}

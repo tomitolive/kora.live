@@ -1,0 +1,14 @@
+{
+    "team_a": "Diosgyori VTK",
+    "team_b": "Puskas Academy",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2393.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/2391.png",
+    "league": "NB I",
+    "time": "12:30",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "diosgyori-vtk-vs-puskas-academy-2026-04-05"
+}

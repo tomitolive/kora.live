@@ -1,0 +1,14 @@
+{
+    "team_a": "Ebreichsdorf",
+    "team_b": "Ortmann",
+    "team_a_logo": "https://media.api-sports.io/football/teams/4938.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/8287.png",
+    "league": "Landesliga - Niederosterreich",
+    "time": "14:30",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "ebreichsdorf-vs-ortmann-2026-04-05"
+}

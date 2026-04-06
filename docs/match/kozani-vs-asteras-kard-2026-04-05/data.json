@@ -1,0 +1,14 @@
+{
+    "team_a": "Kozani",
+    "team_b": "Asteras Kard.",
+    "team_a_logo": "https://media.api-sports.io/football/teams/15259.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/26582.png",
+    "league": "Gamma Ethniki - Group 2",
+    "time": "13:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "kozani-vs-asteras-kard-2026-04-05"
+}

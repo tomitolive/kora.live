@@ -1,0 +1,14 @@
+{
+    "team_a": "Atlas W",
+    "team_b": "Santos Laguna W",
+    "team_a_logo": "https://media.api-sports.io/football/teams/14873.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/14883.png",
+    "league": "Liga MX Femenil",
+    "time": "23:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "atlas-w-vs-santos-laguna-w-2026-04-05"
+}

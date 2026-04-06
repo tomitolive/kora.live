@@ -1,0 +1,14 @@
+{
+    "team_a": "Rotenhof",
+    "team_b": "SV Eichede",
+    "team_a_logo": "https://media.api-sports.io/football/teams/24434.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/1646.png",
+    "league": "Oberliga - Schleswig-Holstein",
+    "time": "12:00",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "rotenhof-vs-sv-eichede-2026-04-06"
+}

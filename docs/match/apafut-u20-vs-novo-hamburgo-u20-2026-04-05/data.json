@@ -1,0 +1,14 @@
+{
+    "team_a": "Apafut U20",
+    "team_b": "Novo Hamburgo U20",
+    "team_a_logo": "https://media.api-sports.io/football/teams/24927.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/24933.png",
+    "league": "Estadual Junior U20",
+    "time": "18:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "apafut-u20-vs-novo-hamburgo-u20-2026-04-05"
+}

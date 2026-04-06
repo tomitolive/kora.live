@@ -1,0 +1,14 @@
+{
+    "team_a": "Dundalk",
+    "team_b": "St Patrick's Athl.",
+    "team_a_logo": "https://media.api-sports.io/football/teams/584.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/3843.png",
+    "league": "Premier Division",
+    "time": "16:00",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "dundalk-vs-st-patrick-s-athl-2026-04-06"
+}

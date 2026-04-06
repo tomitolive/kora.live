@@ -1,0 +1,14 @@
+{
+    "team_a": "Shabab Al Ordon",
+    "team_b": "Al Ramtha",
+    "team_a_logo": "https://media.api-sports.io/football/teams/4539.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/4534.png",
+    "league": "League",
+    "time": "15:00",
+    "date": "2026-04-07",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "shabab-al-ordon-vs-al-ramtha-2026-04-07"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Tikveš",
+    "team_b": "Sileks",
+    "team_a_logo": "https://media.api-sports.io/football/teams/4348.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/4331.png",
+    "league": "First League",
+    "time": "13:30",
+    "date": "2026-04-07",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "tikves-vs-sileks-2026-04-07"
+}

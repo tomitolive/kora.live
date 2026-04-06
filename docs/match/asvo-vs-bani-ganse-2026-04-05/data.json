@@ -1,0 +1,14 @@
+{
+    "team_a": "ASVO",
+    "team_b": "Bani Gansè",
+    "team_a_logo": "https://media.api-sports.io/football/teams/5454.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/20668.png",
+    "league": "Championnat National",
+    "time": "15:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "asvo-vs-bani-ganse-2026-04-05"
+}

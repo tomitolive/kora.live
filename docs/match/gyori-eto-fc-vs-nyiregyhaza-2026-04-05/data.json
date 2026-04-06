@@ -1,0 +1,14 @@
+{
+    "team_a": "Gyori ETO FC",
+    "team_b": "Nyiregyhaza",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2402.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/2403.png",
+    "league": "NB I",
+    "time": "17:30",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "gyori-eto-fc-vs-nyiregyhaza-2026-04-05"
+}

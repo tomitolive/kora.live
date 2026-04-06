@@ -1,0 +1,14 @@
+{
+    "team_a": "Sanfrecce Hiroshima",
+    "team_b": "Avispa Fukuoka",
+    "team_a_logo": "https://media.api-sports.io/football/teams/282.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/316.png",
+    "league": "J1 League",
+    "time": "05:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "sanfrecce-hiroshima-vs-avispa-fukuoka-2026-04-05"
+}

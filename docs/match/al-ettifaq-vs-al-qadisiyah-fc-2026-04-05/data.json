@@ -1,0 +1,14 @@
+{
+    "team_a": "Al-Ettifaq",
+    "team_b": "Al-Qadisiyah FC",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2934.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/2933.png",
+    "league": "Pro League",
+    "time": "18:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "al-ettifaq-vs-al-qadisiyah-fc-2026-04-05"
+}

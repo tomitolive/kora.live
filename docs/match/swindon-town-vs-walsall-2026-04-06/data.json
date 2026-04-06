@@ -1,0 +1,14 @@
+{
+    "team_a": "Swindon Town",
+    "team_b": "Walsall",
+    "team_a_logo": "https://media.api-sports.io/football/teams/1353.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/1342.png",
+    "league": "League Two",
+    "time": "14:00",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "swindon-town-vs-walsall-2026-04-06"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Hapoel Kfar Shalem",
+    "team_b": "Hapoel Ramat Gan",
+    "team_a_logo": "https://media.api-sports.io/football/teams/6160.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/4489.png",
+    "league": "Liga Leumit",
+    "time": "11:00",
+    "date": "2026-04-07",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "hapoel-kfar-shalem-vs-hapoel-ramat-gan-2026-04-07"
+}

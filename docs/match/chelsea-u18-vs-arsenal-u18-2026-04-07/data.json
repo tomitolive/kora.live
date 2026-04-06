@@ -1,0 +1,14 @@
+{
+    "team_a": "Chelsea U18",
+    "team_b": "Arsenal U18",
+    "team_a_logo": "https://media.api-sports.io/football/teams/15391.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/15388.png",
+    "league": "U18 Premier League - South",
+    "time": "11:00",
+    "date": "2026-04-07",
+    "channel": "beIN Sports 1 HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "chelsea-u18-vs-arsenal-u18-2026-04-07"
+}

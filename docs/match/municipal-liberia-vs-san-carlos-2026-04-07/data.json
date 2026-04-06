@@ -1,0 +1,14 @@
+{
+    "team_a": "Municipal Liberia",
+    "team_b": "San Carlos",
+    "team_a_logo": "https://media.api-sports.io/football/teams/826.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/823.png",
+    "league": "Primera División",
+    "time": "02:00",
+    "date": "2026-04-07",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "municipal-liberia-vs-san-carlos-2026-04-07"
+}

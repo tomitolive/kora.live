@@ -1,0 +1,14 @@
+{
+    "team_a": "Monterey Bay",
+    "team_b": "San Antonio",
+    "team_a_logo": "https://media.api-sports.io/football/teams/18375.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/4017.png",
+    "league": "USL Championship",
+    "time": "02:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "monterey-bay-vs-san-antonio-2026-04-05"
+}

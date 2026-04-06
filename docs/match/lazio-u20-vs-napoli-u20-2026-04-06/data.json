@@ -1,0 +1,14 @@
+{
+    "team_a": "Lazio U20",
+    "team_b": "Napoli U20",
+    "team_a_logo": "https://media.api-sports.io/football/teams/24735.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/26436.png",
+    "league": "Campionato Primavera - 1",
+    "time": "09:00",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "lazio-u20-vs-napoli-u20-2026-04-06"
+}

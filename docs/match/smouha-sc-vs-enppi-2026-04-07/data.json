@@ -1,0 +1,14 @@
+{
+    "team_a": "Smouha SC",
+    "team_b": "Enppi",
+    "team_a_logo": "https://media.api-sports.io/football/teams/1044.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/1037.png",
+    "league": "Premier League",
+    "time": "15:00",
+    "date": "2026-04-07",
+    "channel": "beIN Sports 1 HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "smouha-sc-vs-enppi-2026-04-07"
+}

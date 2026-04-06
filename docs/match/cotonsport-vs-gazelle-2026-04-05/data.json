@@ -1,0 +1,14 @@
+{
+    "team_a": "Cotonsport",
+    "team_b": "Gazelle",
+    "team_a_logo": "https://media.api-sports.io/football/teams/5401.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/15566.png",
+    "league": "Elite One",
+    "time": "15:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "cotonsport-vs-gazelle-2026-04-05"
+}

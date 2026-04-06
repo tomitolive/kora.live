@@ -1,0 +1,14 @@
+{
+    "team_a": "Bollstanäs",
+    "team_b": "Gute",
+    "team_a_logo": "https://media.api-sports.io/football/teams/25574.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/6671.png",
+    "league": "Division 2 - Norra Svealand",
+    "time": "13:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "bollstanas-vs-gute-2026-04-05"
+}

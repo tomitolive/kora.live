@@ -1,0 +1,14 @@
+{
+    "team_a": "AC Douane",
+    "team_b": "Nouakchott Academie",
+    "team_a_logo": "https://media.api-sports.io/football/teams/17924.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/26812.png",
+    "league": "Premier League",
+    "time": "16:45",
+    "date": "2026-04-07",
+    "channel": "beIN Sports 1 HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "ac-douane-vs-nouakchott-academie-2026-04-07"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Unión Santa Fe Res.",
+    "team_b": "San Lorenzo Res.",
+    "team_a_logo": "https://media.api-sports.io/football/teams/18701.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/18697.png",
+    "league": "Reserve League",
+    "time": "18:00",
+    "date": "2026-04-07",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "union-santa-fe-res-vs-san-lorenzo-res-2026-04-07"
+}

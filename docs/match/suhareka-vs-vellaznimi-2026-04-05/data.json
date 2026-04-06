@@ -1,0 +1,14 @@
+{
+    "team_a": "Suhareka",
+    "team_b": "Vëllaznimi",
+    "team_a_logo": "https://media.api-sports.io/football/teams/22817.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/15582.png",
+    "league": "Liga E Pare",
+    "time": "13:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "suhareka-vs-vellaznimi-2026-04-05"
+}

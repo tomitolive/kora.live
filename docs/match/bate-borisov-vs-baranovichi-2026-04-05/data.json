@@ -1,0 +1,14 @@
+{
+    "team_a": "Bate Borisov",
+    "team_b": "Baranovichi",
+    "team_a_logo": "https://media.api-sports.io/football/teams/388.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/3383.png",
+    "league": "Premier League",
+    "time": "12:30",
+    "date": "2026-04-05",
+    "channel": "beIN Sports 1 HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "bate-borisov-vs-baranovichi-2026-04-05"
+}

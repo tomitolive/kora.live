@@ -1,0 +1,14 @@
+{
+    "team_a": "Isparta 32 Spor",
+    "team_b": "Yeni Malatyaspor",
+    "team_a_logo": "https://media.api-sports.io/football/teams/6523.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/999.png",
+    "league": "2. Lig",
+    "time": "14:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "isparta-32-spor-vs-yeni-malatyaspor-2026-04-05"
+}

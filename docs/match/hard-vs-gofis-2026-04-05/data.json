@@ -1,0 +1,14 @@
+{
+    "team_a": "Hard",
+    "team_b": "Göfis",
+    "team_a_logo": "https://media.api-sports.io/football/teams/4991.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/8357.png",
+    "league": "Landesliga - Vorarlbergliga",
+    "time": "15:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "hard-vs-gofis-2026-04-05"
+}

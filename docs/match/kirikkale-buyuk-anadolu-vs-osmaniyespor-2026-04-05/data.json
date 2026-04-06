@@ -1,0 +1,14 @@
+{
+    "team_a": "Kırıkkale Büyük Anadolu",
+    "team_b": "Osmaniyespor",
+    "team_a_logo": "https://media.api-sports.io/football/teams/6531.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/7418.png",
+    "league": "3. Lig - Group 2",
+    "time": "11:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "kirikkale-buyuk-anadolu-vs-osmaniyespor-2026-04-05"
+}

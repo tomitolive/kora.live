@@ -1,0 +1,14 @@
+{
+    "team_a": "Atletico Goianiense",
+    "team_b": "Cuiaba",
+    "team_a_logo": "https://media.api-sports.io/football/teams/144.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/1193.png",
+    "league": "Copa Centro-Oeste",
+    "time": "23:30",
+    "date": "2026-04-07",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "atletico-goianiense-vs-cuiaba-2026-04-07"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Concepción",
+    "team_b": "Colo Colo",
+    "team_a_logo": "https://media.api-sports.io/football/teams/5635.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/2315.png",
+    "league": "Primera División",
+    "time": "19:30",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "concepcion-vs-colo-colo-2026-04-05"
+}

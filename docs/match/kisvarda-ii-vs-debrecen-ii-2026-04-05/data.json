@@ -1,0 +1,14 @@
+{
+    "team_a": "Kisvárda II",
+    "team_b": "Debrecen II",
+    "team_a_logo": "https://media.api-sports.io/football/teams/14122.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/13153.png",
+    "league": "NB III - Northeast",
+    "time": "09:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "kisvarda-ii-vs-debrecen-ii-2026-04-05"
+}

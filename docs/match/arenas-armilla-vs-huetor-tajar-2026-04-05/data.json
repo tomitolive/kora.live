@@ -1,0 +1,14 @@
+{
+    "team_a": "Arenas Armilla",
+    "team_b": "Huétor Tájar",
+    "team_a_logo": "https://media.api-sports.io/football/teams/20272.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/9746.png",
+    "league": "Tercera División RFEF - Group 9",
+    "time": "17:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "arenas-armilla-vs-huetor-tajar-2026-04-05"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Dynamo Schwerin",
+    "team_b": "Sparta Lichtenberg",
+    "team_a_logo": "https://media.api-sports.io/football/teams/18384.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/12858.png",
+    "league": "Oberliga - Nordost-Nord",
+    "time": "12:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "dynamo-schwerin-vs-sparta-lichtenberg-2026-04-05"
+}

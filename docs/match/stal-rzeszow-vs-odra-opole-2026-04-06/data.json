@@ -1,0 +1,14 @@
+{
+    "team_a": "Stal Rzeszów",
+    "team_b": "Odra Opole",
+    "team_a_logo": "https://media.api-sports.io/football/teams/6957.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/3488.png",
+    "league": "I Liga",
+    "time": "10:00",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "stal-rzeszow-vs-odra-opole-2026-04-06"
+}

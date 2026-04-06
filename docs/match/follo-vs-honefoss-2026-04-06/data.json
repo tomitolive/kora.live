@@ -1,0 +1,14 @@
+{
+    "team_a": "Follo",
+    "team_b": "Hønefoss",
+    "team_a_logo": "https://media.api-sports.io/football/teams/6985.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/6998.png",
+    "league": "2. Division - Group 2",
+    "time": "12:00",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "follo-vs-honefoss-2026-04-06"
+}

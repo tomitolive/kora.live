@@ -1,0 +1,14 @@
+{
+    "team_a": "Dinamo Stavropol",
+    "team_b": "Dinamo Vladivostok",
+    "team_a_logo": "https://media.api-sports.io/football/teams/6796.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/16856.png",
+    "league": "Second League A - Division A Silver",
+    "time": "12:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "dinamo-stavropol-vs-dinamo-vladivostok-2026-04-05"
+}

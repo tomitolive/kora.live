@@ -1,0 +1,14 @@
+{
+    "team_a": "FC Schweinfurt 05",
+    "team_b": "Rot-Weiß Essen",
+    "team_a_logo": "https://media.api-sports.io/football/teams/1635.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/1621.png",
+    "league": "3. Liga",
+    "time": "17:00",
+    "date": "2026-04-07",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "fc-schweinfurt-05-vs-rot-weiss-essen-2026-04-07"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Alta",
+    "team_b": "Harstad",
+    "team_a_logo": "https://media.api-sports.io/football/teams/6965.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/6994.png",
+    "league": "3. Division - Girone 5",
+    "time": "11:00",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "alta-vs-harstad-2026-04-06"
+}

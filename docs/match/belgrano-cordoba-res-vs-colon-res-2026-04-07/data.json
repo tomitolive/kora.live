@@ -1,0 +1,14 @@
+{
+    "team_a": "Belgrano Córdoba Res.",
+    "team_b": "Colón Res.",
+    "team_a_logo": "https://media.api-sports.io/football/teams/20817.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/18683.png",
+    "league": "Reserve League",
+    "time": "18:00",
+    "date": "2026-04-07",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "belgrano-cordoba-res-vs-colon-res-2026-04-07"
+}

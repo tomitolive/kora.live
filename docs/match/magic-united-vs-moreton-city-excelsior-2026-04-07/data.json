@@ -1,0 +1,14 @@
+{
+    "team_a": "Magic United",
+    "team_b": "Moreton City Excelsior",
+    "team_a_logo": "https://media.api-sports.io/football/teams/25449.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/22916.png",
+    "league": "Queensland NPL",
+    "time": "09:30",
+    "date": "2026-04-07",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "magic-united-vs-moreton-city-excelsior-2026-04-07"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Kryvbas KR",
+    "team_b": "LNZ Cherkasy",
+    "team_a_logo": "https://media.api-sports.io/football/teams/6489.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/17161.png",
+    "league": "Premier League",
+    "time": "10:00",
+    "date": "2026-04-05",
+    "channel": "beIN Sports 1 HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "kryvbas-kr-vs-lnz-cherkasy-2026-04-05"
+}

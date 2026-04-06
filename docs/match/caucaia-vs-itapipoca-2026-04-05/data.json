@@ -1,0 +1,14 @@
+{
+    "team_a": "Caucaia",
+    "team_b": "Itapipoca",
+    "team_a_logo": "https://media.api-sports.io/football/teams/10000.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/15506.png",
+    "league": "Cearense - 2",
+    "time": "19:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "caucaia-vs-itapipoca-2026-04-05"
+}

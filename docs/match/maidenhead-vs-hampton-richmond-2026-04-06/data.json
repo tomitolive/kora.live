@@ -1,0 +1,14 @@
+{
+    "team_a": "Maidenhead",
+    "team_b": "Hampton & Richmond",
+    "team_a_logo": "https://media.api-sports.io/football/teams/1838.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/4680.png",
+    "league": "National League - South",
+    "time": "14:00",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "maidenhead-vs-hampton-richmond-2026-04-06"
+}

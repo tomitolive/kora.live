@@ -1,0 +1,14 @@
+{
+    "team_a": "SAK Klagenfurt",
+    "team_b": "Köttmannsdorf",
+    "team_a_logo": "https://media.api-sports.io/football/teams/17207.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/4949.png",
+    "league": "Landesliga - Karnten",
+    "time": "15:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "sak-klagenfurt-vs-kottmannsdorf-2026-04-05"
+}

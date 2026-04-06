@@ -1,0 +1,14 @@
+{
+    "team_a": "Victoria",
+    "team_b": "Lobos Upnfm",
+    "team_a_logo": "https://media.api-sports.io/football/teams/11682.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/1059.png",
+    "league": "Liga Nacional",
+    "time": "01:30",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "victoria-vs-lobos-upnfm-2026-04-06"
+}

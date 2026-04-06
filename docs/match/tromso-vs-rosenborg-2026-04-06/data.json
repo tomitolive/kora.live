@@ -1,0 +1,14 @@
+{
+    "team_a": "Tromso",
+    "team_b": "Rosenborg",
+    "team_a_logo": "https://media.api-sports.io/football/teams/325.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/331.png",
+    "league": "Eliteserien",
+    "time": "17:15",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "tromso-vs-rosenborg-2026-04-06"
+}

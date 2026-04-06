@@ -1,0 +1,14 @@
+{
+    "team_a": "Schwaz",
+    "team_b": "Seekirchen",
+    "team_a_logo": "https://media.api-sports.io/football/teams/4957.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/4958.png",
+    "league": "Regionalliga - West",
+    "time": "12:00",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "schwaz-vs-seekirchen-2026-04-06"
+}

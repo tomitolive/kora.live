@@ -1,0 +1,14 @@
+{
+    "team_a": "Kırşehir Belediyespor",
+    "team_b": "Niğde Belediyesispor",
+    "team_a_logo": "https://media.api-sports.io/football/teams/6341.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/22445.png",
+    "league": "3. Lig - Group 2",
+    "time": "11:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "kirsehir-belediyespor-vs-nigde-belediyesispor-2026-04-05"
+}

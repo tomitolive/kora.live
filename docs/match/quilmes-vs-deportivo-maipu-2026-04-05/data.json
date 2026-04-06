@@ -1,0 +1,14 @@
+{
+    "team_a": "Quilmes",
+    "team_b": "Deportivo Maipu",
+    "team_a_logo": "https://media.api-sports.io/football/teams/480.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/1954.png",
+    "league": "Primera Nacional",
+    "time": "20:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "quilmes-vs-deportivo-maipu-2026-04-05"
+}

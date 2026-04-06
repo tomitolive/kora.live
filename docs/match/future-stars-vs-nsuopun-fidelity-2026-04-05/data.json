@@ -1,0 +1,14 @@
+{
+    "team_a": "Future Stars",
+    "team_b": "Nsuopun Fidelity",
+    "team_a_logo": "https://media.api-sports.io/football/teams/23627.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/25396.png",
+    "league": "Division One League",
+    "time": "15:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "future-stars-vs-nsuopun-fidelity-2026-04-05"
+}

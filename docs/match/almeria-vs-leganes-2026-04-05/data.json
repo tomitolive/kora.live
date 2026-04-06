@@ -1,0 +1,14 @@
+{
+    "team_a": "Almeria",
+    "team_b": "Leganes",
+    "team_a_logo": "https://media.api-sports.io/football/teams/723.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/537.png",
+    "league": "Segunda División",
+    "time": "16:30",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "almeria-vs-leganes-2026-04-05"
+}

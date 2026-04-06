@@ -1,0 +1,14 @@
+{
+    "team_a": "Yaypan",
+    "team_b": "Metalourg",
+    "team_a_logo": "https://media.api-sports.io/football/teams/27588.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/4214.png",
+    "league": "Pro League A",
+    "time": "11:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "yaypan-vs-metalourg-2026-04-05"
+}

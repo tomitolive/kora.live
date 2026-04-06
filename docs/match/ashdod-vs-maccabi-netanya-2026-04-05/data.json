@@ -1,0 +1,14 @@
+{
+    "team_a": "Ashdod",
+    "team_b": "Maccabi Netanya",
+    "team_a_logo": "https://media.api-sports.io/football/teams/4507.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/4505.png",
+    "league": "Ligat Ha'al",
+    "time": "16:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "ashdod-vs-maccabi-netanya-2026-04-05"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "San Martín Mendoza",
+    "team_b": "Atenas",
+    "team_a_logo": "https://media.api-sports.io/football/teams/21042.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/21043.png",
+    "league": "Torneo Federal A",
+    "time": "20:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "san-martin-mendoza-vs-atenas-2026-04-05"
+}

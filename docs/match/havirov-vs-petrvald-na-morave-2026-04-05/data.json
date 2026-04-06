@@ -1,0 +1,14 @@
+{
+    "team_a": "Havířov",
+    "team_b": "Petřvald na Moravě",
+    "team_a_logo": "https://media.api-sports.io/football/teams/7293.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/21619.png",
+    "league": "4. liga - Divizie F",
+    "time": "08:15",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "havirov-vs-petrvald-na-morave-2026-04-05"
+}

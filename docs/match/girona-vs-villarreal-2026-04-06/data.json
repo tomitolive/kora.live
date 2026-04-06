@@ -1,0 +1,14 @@
+{
+    "team_a": "Girona",
+    "team_b": "Villarreal",
+    "team_a_logo": "https://media.api-sports.io/football/teams/547.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/533.png",
+    "league": "La Liga",
+    "time": "19:00",
+    "date": "2026-04-06",
+    "channel": "beIN Sports 3 HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "girona-vs-villarreal-2026-04-06"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Gais",
+    "team_b": "Djurgardens IF",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2170.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/364.png",
+    "league": "Allsvenskan",
+    "time": "14:30",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "gais-vs-djurgardens-if-2026-04-06"
+}

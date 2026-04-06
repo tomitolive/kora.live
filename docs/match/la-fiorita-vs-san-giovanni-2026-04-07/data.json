@@ -1,0 +1,14 @@
+{
+    "team_a": "La Fiorita",
+    "team_b": "San Giovanni",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2249.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/5307.png",
+    "league": "Campionato",
+    "time": "19:15",
+    "date": "2026-04-07",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "la-fiorita-vs-san-giovanni-2026-04-07"
+}

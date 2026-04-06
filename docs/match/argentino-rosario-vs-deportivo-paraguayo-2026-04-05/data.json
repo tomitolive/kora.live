@@ -1,0 +1,14 @@
+{
+    "team_a": "Argentino Rosario",
+    "team_b": "Deportivo Paraguayo",
+    "team_a_logo": "https://media.api-sports.io/football/teams/8389.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/8394.png",
+    "league": "Primera C",
+    "time": "18:30",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "argentino-rosario-vs-deportivo-paraguayo-2026-04-05"
+}

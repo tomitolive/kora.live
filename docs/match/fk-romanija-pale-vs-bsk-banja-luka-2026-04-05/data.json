@@ -1,0 +1,14 @@
+{
+    "team_a": "FK Romanija Pale",
+    "team_b": "BSK Banja Luka",
+    "team_a_logo": "https://media.api-sports.io/football/teams/21737.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/21736.png",
+    "league": "1st League - RS",
+    "time": "14:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "fk-romanija-pale-vs-bsk-banja-luka-2026-04-05"
+}

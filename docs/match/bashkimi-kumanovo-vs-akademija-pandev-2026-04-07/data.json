@@ -1,0 +1,14 @@
+{
+    "team_a": "Bashkimi Kumanovo",
+    "team_b": "Akademija Pandev",
+    "team_a_logo": "https://media.api-sports.io/football/teams/22153.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/4194.png",
+    "league": "First League",
+    "time": "13:30",
+    "date": "2026-04-07",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "bashkimi-kumanovo-vs-akademija-pandev-2026-04-07"
+}

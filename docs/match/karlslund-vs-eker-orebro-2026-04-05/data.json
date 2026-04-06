@@ -1,0 +1,14 @@
+{
+    "team_a": "Karlslund",
+    "team_b": "Eker Örebro",
+    "team_a_logo": "https://media.api-sports.io/football/teams/11660.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/25570.png",
+    "league": "Division 2 - Södra Svealand",
+    "time": "11:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "karlslund-vs-eker-orebro-2026-04-05"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "ADR Jicaral",
+    "team_b": "AD Sarchí",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2043.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/19737.png",
+    "league": "Liga de Ascenso",
+    "time": "17:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "adr-jicaral-vs-ad-sarchi-2026-04-05"
+}

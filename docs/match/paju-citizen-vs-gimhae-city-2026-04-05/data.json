@@ -1,0 +1,14 @@
+{
+    "team_a": "Paju Citizen",
+    "team_b": "Gimhae City",
+    "team_a_logo": "https://media.api-sports.io/football/teams/7098.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/7076.png",
+    "league": "K League 2",
+    "time": "07:30",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "paju-citizen-vs-gimhae-city-2026-04-05"
+}

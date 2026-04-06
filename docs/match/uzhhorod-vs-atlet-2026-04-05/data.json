@@ -1,0 +1,14 @@
+{
+    "team_a": "Uzhhorod",
+    "team_b": "Atlet",
+    "team_a_logo": "https://media.api-sports.io/football/teams/6499.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/26187.png",
+    "league": "Druha Liga",
+    "time": "11:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "uzhhorod-vs-atlet-2026-04-05"
+}

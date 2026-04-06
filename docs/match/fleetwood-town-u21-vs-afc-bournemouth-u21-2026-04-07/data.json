@@ -1,0 +1,14 @@
+{
+    "team_a": "Fleetwood Town U21",
+    "team_b": "AFC Bournemouth U21",
+    "team_a_logo": "https://media.api-sports.io/football/teams/22173.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/20000.png",
+    "league": "Professional Development League",
+    "time": "12:00",
+    "date": "2026-04-07",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "fleetwood-town-u21-vs-afc-bournemouth-u21-2026-04-07"
+}

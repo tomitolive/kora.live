@@ -1,0 +1,14 @@
+{
+    "team_a": "Ludogorets III",
+    "team_b": "Svetkavitsa 14",
+    "team_a_logo": "https://media.api-sports.io/football/teams/14222.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/26249.png",
+    "league": "Third League - Northeast",
+    "time": "13:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "ludogorets-iii-vs-svetkavitsa-14-2026-04-05"
+}

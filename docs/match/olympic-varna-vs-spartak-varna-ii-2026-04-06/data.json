@@ -1,0 +1,14 @@
+{
+    "team_a": "Olympic Varna",
+    "team_b": "Spartak Varna II",
+    "team_a_logo": "https://media.api-sports.io/football/teams/26846.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/17310.png",
+    "league": "Third League - Northeast",
+    "time": "12:00",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "olympic-varna-vs-spartak-varna-ii-2026-04-06"
+}

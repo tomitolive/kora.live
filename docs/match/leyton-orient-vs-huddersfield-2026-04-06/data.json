@@ -1,0 +1,14 @@
+{
+    "team_a": "Leyton Orient",
+    "team_b": "Huddersfield",
+    "team_a_logo": "https://media.api-sports.io/football/teams/1373.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/37.png",
+    "league": "League One",
+    "time": "14:00",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "leyton-orient-vs-huddersfield-2026-04-06"
+}

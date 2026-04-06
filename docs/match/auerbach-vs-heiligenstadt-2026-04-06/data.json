@@ -1,0 +1,14 @@
+{
+    "team_a": "Auerbach",
+    "team_b": "Heiligenstadt",
+    "team_a_logo": "https://media.api-sports.io/football/teams/9350.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/26170.png",
+    "league": "Oberliga - Nordost-Süd",
+    "time": "12:00",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "auerbach-vs-heiligenstadt-2026-04-06"
+}

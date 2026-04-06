@@ -1,0 +1,14 @@
+{
+    "team_a": "Komárom",
+    "team_b": "Haladás VSE",
+    "team_a_logo": "https://media.api-sports.io/football/teams/5113.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/17285.png",
+    "league": "NB III - Northwest",
+    "time": "14:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "komarom-vs-haladas-vse-2026-04-05"
+}

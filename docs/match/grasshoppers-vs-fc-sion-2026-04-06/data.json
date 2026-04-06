@@ -1,0 +1,14 @@
+{
+    "team_a": "Grasshoppers",
+    "team_b": "FC Sion",
+    "team_a_logo": "https://media.api-sports.io/football/teams/1013.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/630.png",
+    "league": "Super League",
+    "time": "12:00",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "grasshoppers-vs-fc-sion-2026-04-06"
+}

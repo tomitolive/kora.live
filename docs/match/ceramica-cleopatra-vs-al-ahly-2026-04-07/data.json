@@ -1,0 +1,14 @@
+{
+    "team_a": "Ceramica Cleopatra",
+    "team_b": "Al Ahly",
+    "team_a_logo": "https://media.api-sports.io/football/teams/14651.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/1577.png",
+    "league": "Premier League",
+    "time": "18:00",
+    "date": "2026-04-07",
+    "channel": "beIN Sports 1 HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "ceramica-cleopatra-vs-al-ahly-2026-04-07"
+}

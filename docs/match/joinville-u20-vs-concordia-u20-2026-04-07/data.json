@@ -1,0 +1,14 @@
+{
+    "team_a": "Joinville U20",
+    "team_b": "Concórdia U20",
+    "team_a_logo": "https://media.api-sports.io/football/teams/13019.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/18329.png",
+    "league": "Catarinense U20",
+    "time": "13:00",
+    "date": "2026-04-07",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "joinville-u20-vs-concordia-u20-2026-04-07"
+}

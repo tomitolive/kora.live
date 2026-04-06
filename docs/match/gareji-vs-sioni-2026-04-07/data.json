@@ -1,0 +1,14 @@
+{
+    "team_a": "Gareji",
+    "team_b": "Sioni",
+    "team_a_logo": "https://media.api-sports.io/football/teams/14860.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/3503.png",
+    "league": "Erovnuli Liga 2",
+    "time": "11:00",
+    "date": "2026-04-07",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "gareji-vs-sioni-2026-04-07"
+}

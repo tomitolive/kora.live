@@ -1,0 +1,14 @@
+{
+    "team_a": "FK Sokol Saratov",
+    "team_b": "Rodina Moskva",
+    "team_a_logo": "https://media.api-sports.io/football/teams/1995.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/6822.png",
+    "league": "First League",
+    "time": "10:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "fk-sokol-saratov-vs-rodina-moskva-2026-04-05"
+}

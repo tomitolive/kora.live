@@ -1,0 +1,14 @@
+{
+    "team_a": "Fiorentina U20",
+    "team_b": "Frosinone U20",
+    "team_a_logo": "https://media.api-sports.io/football/teams/24731.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/26435.png",
+    "league": "Campionato Primavera - 1",
+    "time": "14:00",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "fiorentina-u20-vs-frosinone-u20-2026-04-06"
+}

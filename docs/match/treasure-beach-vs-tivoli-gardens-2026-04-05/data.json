@@ -1,0 +1,14 @@
+{
+    "team_a": "Treasure Beach",
+    "team_b": "Tivoli Gardens",
+    "team_a_logo": "https://media.api-sports.io/football/teams/22606.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/3445.png",
+    "league": "Premier League",
+    "time": "20:30",
+    "date": "2026-04-05",
+    "channel": "beIN Sports 1 HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "treasure-beach-vs-tivoli-gardens-2026-04-05"
+}

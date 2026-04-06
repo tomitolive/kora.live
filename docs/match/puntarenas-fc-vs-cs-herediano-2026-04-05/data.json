@@ -1,0 +1,14 @@
+{
+    "team_a": "Puntarenas FC",
+    "team_b": "CS Herediano",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2045.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/815.png",
+    "league": "Primera División",
+    "time": "23:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "puntarenas-fc-vs-cs-herediano-2026-04-05"
+}

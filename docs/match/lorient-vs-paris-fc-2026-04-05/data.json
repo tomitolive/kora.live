@@ -1,0 +1,14 @@
+{
+    "team_a": "Lorient",
+    "team_b": "Paris FC",
+    "team_a_logo": "https://media.api-sports.io/football/teams/97.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/114.png",
+    "league": "Ligue 1",
+    "time": "15:15",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "lorient-vs-paris-fc-2026-04-05"
+}

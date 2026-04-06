@@ -1,0 +1,14 @@
+{
+    "team_a": "Cádiz II",
+    "team_b": "Recreativo Huelva",
+    "team_a_logo": "https://media.api-sports.io/football/teams/9598.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/9410.png",
+    "league": "Tercera División RFEF - Group 10",
+    "time": "14:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "cadiz-ii-vs-recreativo-huelva-2026-04-05"
+}

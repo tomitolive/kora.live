@@ -1,0 +1,14 @@
+{
+    "team_a": "Ranheim II",
+    "team_b": "Melhus",
+    "team_a_logo": "https://media.api-sports.io/football/teams/16224.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/16223.png",
+    "league": "3. Division - Girone 2",
+    "time": "18:00",
+    "date": "2026-04-07",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "ranheim-ii-vs-melhus-2026-04-07"
+}

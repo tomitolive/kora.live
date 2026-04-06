@@ -1,0 +1,14 @@
+{
+    "team_a": "CS Sfaxien",
+    "team_b": "JS Kairouanaise",
+    "team_a_logo": "https://media.api-sports.io/football/teams/983.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/993.png",
+    "league": "Ligue 1",
+    "time": "13:30",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "cs-sfaxien-vs-js-kairouanaise-2026-04-05"
+}

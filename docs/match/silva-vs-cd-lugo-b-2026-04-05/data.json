@@ -1,0 +1,14 @@
+{
+    "team_a": "Silva",
+    "team_b": "CD Lugo B",
+    "team_a_logo": "https://media.api-sports.io/football/teams/9615.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/9614.png",
+    "league": "Tercera División RFEF - Group 1",
+    "time": "10:30",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "silva-vs-cd-lugo-b-2026-04-05"
+}

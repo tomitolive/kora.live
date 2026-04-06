@@ -1,0 +1,14 @@
+{
+    "team_a": "Ituano",
+    "team_b": "Anápolis",
+    "team_a_logo": "https://media.api-sports.io/football/teams/7779.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/7852.png",
+    "league": "Serie C",
+    "time": "20:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "فارس عوض",
+    "servers": [],
+    "live": false,
+    "slug": "ituano-vs-anapolis-2026-04-05"
+}

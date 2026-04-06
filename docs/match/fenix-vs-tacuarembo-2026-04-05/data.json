@@ -1,0 +1,14 @@
+{
+    "team_a": "Fenix",
+    "team_b": "Tacuarembo",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2357.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/2374.png",
+    "league": "Segunda División",
+    "time": "15:30",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "fenix-vs-tacuarembo-2026-04-05"
+}

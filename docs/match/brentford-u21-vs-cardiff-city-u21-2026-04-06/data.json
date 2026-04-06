@@ -1,0 +1,14 @@
+{
+    "team_a": "Brentford U21",
+    "team_b": "Cardiff City U21",
+    "team_a_logo": "https://media.api-sports.io/football/teams/20079.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/20016.png",
+    "league": "Professional Development League",
+    "time": "13:00",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "brentford-u21-vs-cardiff-city-u21-2026-04-06"
+}

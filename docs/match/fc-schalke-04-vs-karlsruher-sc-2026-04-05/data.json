@@ -1,0 +1,14 @@
+{
+    "team_a": "FC Schalke 04",
+    "team_b": "Karlsruher SC",
+    "team_a_logo": "https://media.api-sports.io/football/teams/174.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/785.png",
+    "league": "2. Bundesliga",
+    "time": "11:30",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "fc-schalke-04-vs-karlsruher-sc-2026-04-05"
+}

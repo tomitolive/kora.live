@@ -1,0 +1,14 @@
+{
+    "team_a": "Alcorcon",
+    "team_b": "Hércules",
+    "team_a_logo": "https://media.api-sports.io/football/teams/711.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/4666.png",
+    "league": "Primera División RFEF - Group 2",
+    "time": "10:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "alcorcon-vs-hercules-2026-04-05"
+}

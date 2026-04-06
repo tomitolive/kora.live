@@ -1,0 +1,14 @@
+{
+    "team_a": "Carabanchel",
+    "team_b": "AD Parla",
+    "team_a_logo": "https://media.api-sports.io/football/teams/9708.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/9704.png",
+    "league": "Tercera División RFEF - Group 7",
+    "time": "09:30",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "carabanchel-vs-ad-parla-2026-04-05"
+}

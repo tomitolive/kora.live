@@ -1,0 +1,14 @@
+{
+    "team_a": "Raja Beni Mellal",
+    "team_b": "Racing de Casablanca",
+    "team_a_logo": "https://media.api-sports.io/football/teams/3455.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/966.png",
+    "league": "Botola 2",
+    "time": "17:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "raja-beni-mellal-vs-racing-de-casablanca-2026-04-05"
+}

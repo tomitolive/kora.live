@@ -1,0 +1,14 @@
+{
+    "team_a": "Pécsi MFC",
+    "team_b": "Siofok",
+    "team_a_logo": "https://media.api-sports.io/football/teams/5130.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/2413.png",
+    "league": "NB III - Southwest",
+    "time": "16:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "pecsi-mfc-vs-siofok-2026-04-05"
+}

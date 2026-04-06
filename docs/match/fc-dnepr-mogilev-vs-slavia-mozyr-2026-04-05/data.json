@@ -1,0 +1,14 @@
+{
+    "team_a": "FC Dnepr Mogilev",
+    "team_b": "Slavia Mozyr",
+    "team_a_logo": "https://media.api-sports.io/football/teams/384.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/751.png",
+    "league": "Premier League",
+    "time": "14:30",
+    "date": "2026-04-05",
+    "channel": "beIN Sports 1 HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "fc-dnepr-mogilev-vs-slavia-mozyr-2026-04-05"
+}

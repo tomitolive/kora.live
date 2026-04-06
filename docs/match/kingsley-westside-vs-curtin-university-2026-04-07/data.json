@@ -1,0 +1,14 @@
+{
+    "team_a": "Kingsley Westside",
+    "team_b": "Curtin University",
+    "team_a_logo": "https://media.api-sports.io/football/teams/23531.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/25700.png",
+    "league": "Western Australia State League 1",
+    "time": "11:30",
+    "date": "2026-04-07",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "kingsley-westside-vs-curtin-university-2026-04-07"
+}

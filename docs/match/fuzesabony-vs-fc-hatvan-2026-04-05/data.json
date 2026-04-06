@@ -1,0 +1,14 @@
+{
+    "team_a": "Füzesabony",
+    "team_b": "FC Hatvan",
+    "team_a_logo": "https://media.api-sports.io/football/teams/24493.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/5090.png",
+    "league": "NB III - Northeast",
+    "time": "14:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "خليل البلوشي",
+    "servers": [],
+    "live": false,
+    "slug": "fuzesabony-vs-fc-hatvan-2026-04-05"
+}

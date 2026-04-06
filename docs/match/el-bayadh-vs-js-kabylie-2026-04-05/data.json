@@ -1,0 +1,14 @@
+{
+    "team_a": "El Bayadh",
+    "team_b": "JS Kabylie",
+    "team_a_logo": "https://media.api-sports.io/football/teams/10743.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/918.png",
+    "league": "Ligue 1",
+    "time": "17:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "el-bayadh-vs-js-kabylie-2026-04-05"
+}

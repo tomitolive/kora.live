@@ -1,0 +1,14 @@
+{
+    "team_a": "Herentals",
+    "team_b": "Ngezi Platinum",
+    "team_a_logo": "https://media.api-sports.io/football/teams/5223.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/5229.png",
+    "league": "Premier Soccer League",
+    "time": "13:00",
+    "date": "2026-04-07",
+    "channel": "قناة رياضية HD",
+    "commentator": "عصام الشوالي",
+    "servers": [],
+    "live": false,
+    "slug": "herentals-vs-ngezi-platinum-2026-04-07"
+}

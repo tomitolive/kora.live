@@ -1,0 +1,14 @@
+{
+    "team_a": "Faetano",
+    "team_b": "Domagnano",
+    "team_a_logo": "https://media.api-sports.io/football/teams/5300.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/5299.png",
+    "league": "Campionato",
+    "time": "19:15",
+    "date": "2026-04-07",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "faetano-vs-domagnano-2026-04-07"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "Estudiantes de Rio Cuarto",
+    "team_b": "San Martin Tucuman",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2424.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/485.png",
+    "league": "Copa Argentina",
+    "time": "19:00",
+    "date": "2026-04-07",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "estudiantes-de-rio-cuarto-vs-san-martin-tucuman-2026-04-07"
+}

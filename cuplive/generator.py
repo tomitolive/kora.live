@@ -53,16 +53,16 @@ class SiteGenerator:
         
         # Render match index
         output_path = os.path.join(match_dir, "index.html")
-        template = self.env.get_template("match.html")
-        
         # Link to watch page if servers exist
         has_servers = bool(match_data.get('servers'))
-        watch_url = f"/match/{match_data['slug']}/watch.html" if has_servers else None
         
-        html = template.render(
-            **match_data,
-            watch_url="watch.html" if has_servers else None,
-            colors=COLORS
+        self.render_to_file(
+            "match.html",
+            output_path,
+            {
+                **match_data,
+                "watch_url": "watch.html" if has_servers else None
+            }
         )
         # 3. Generate match data JSON for dynamic updates
         self.generate_match_json(match_data)

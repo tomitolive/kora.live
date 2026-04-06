@@ -1,0 +1,14 @@
+{
+    "team_a": "Universitario",
+    "team_b": "Alianza Lima",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2540.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/2553.png",
+    "league": "Primera División",
+    "time": "01:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "universitario-vs-alianza-lima-2026-04-05"
+}

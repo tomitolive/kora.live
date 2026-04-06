@@ -1,0 +1,14 @@
+{
+    "team_a": "Móstoles",
+    "team_b": "Torrejón",
+    "team_a_logo": "https://media.api-sports.io/football/teams/9712.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/9717.png",
+    "league": "Tercera División RFEF - Group 7",
+    "time": "16:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "mostoles-vs-torrejon-2026-04-05"
+}

@@ -1,0 +1,14 @@
+{
+    "team_a": "SGV Freiberg",
+    "team_b": "Stuttgarter Kickers",
+    "team_a_logo": "https://media.api-sports.io/football/teams/12846.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/12868.png",
+    "league": "Regionalliga - SudWest",
+    "time": "12:00",
+    "date": "2026-04-06",
+    "channel": "قناة رياضية HD",
+    "commentator": "عامر الخوذيري",
+    "servers": [],
+    "live": false,
+    "slug": "sgv-freiberg-vs-stuttgarter-kickers-2026-04-06"
+}

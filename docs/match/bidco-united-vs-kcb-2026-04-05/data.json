@@ -1,0 +1,14 @@
+{
+    "team_a": "Bidco United",
+    "team_b": "KCB",
+    "team_a_logo": "https://media.api-sports.io/football/teams/2493.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/2476.png",
+    "league": "FKF Premier League",
+    "time": "12:00",
+    "date": "2026-04-05",
+    "channel": "beIN Sports 1 HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "bidco-united-vs-kcb-2026-04-05"
+}

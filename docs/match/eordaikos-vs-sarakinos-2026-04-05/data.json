@@ -1,0 +1,14 @@
+{
+    "team_a": "Eordaikos",
+    "team_b": "Sarakinos",
+    "team_a_logo": "https://media.api-sports.io/football/teams/15479.png",
+    "team_b_logo": "https://media.api-sports.io/football/teams/26584.png",
+    "league": "Gamma Ethniki - Group 2",
+    "time": "13:00",
+    "date": "2026-04-05",
+    "channel": "قناة رياضية HD",
+    "commentator": "حفيظ دراجي",
+    "servers": [],
+    "live": false,
+    "slug": "eordaikos-vs-sarakinos-2026-04-05"
+}
