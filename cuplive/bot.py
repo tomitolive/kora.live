@@ -126,6 +126,19 @@ class CupLiveBot:
                 from slugify import slugify
                 slug = slugify(f"{m['team_a']}-vs-{m['team_b']}-{target_date}")
                 
+                # Check if it was already scraped and has servers
+                existing_servers = []
+                try:
+                    import json, os
+                    from config import DOCS_DIR
+                    json_path = os.path.join(DOCS_DIR, "match", slug, "data.json")
+                    if os.path.exists(json_path):
+                        with open(json_path, 'r', encoding='utf-8') as f:
+                            old_data = json.load(f)
+                            existing_servers = old_data.get('servers', [])
+                except:
+                    pass
+                
                 match_data = {
                     "team_a": m['team_a'],
                     "team_b": m['team_b'],
@@ -137,11 +150,11 @@ class CupLiveBot:
                     "channel": m['channel'],
                     "commentator": m['commentator'],
                     "stream_url": m.get('stream_url'),
-                    "servers": [],
+                    "servers": existing_servers,
                     "live": m['live'],
                     "slug": slug
                 }
-                # Initial generation without servers if not already scraped
+                # Initial generation, preserving existing servers
                 self.generator.generate_match_page(match_data)
         
         self.generator.generate_index()
