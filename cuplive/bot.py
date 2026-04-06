@@ -37,7 +37,7 @@ class CupLiveBot:
             self.repo.git.add(A=True)
             self.repo.index.commit("Bot Update: Content sync")
             origin = self.repo.remote(name='origin')
-            origin.push('main')
+            origin.push('master')
             logging.info("Changes pushed to GitHub main branch.")
         except Exception as e:
             logging.error(f"Git Push Error: {e}")
@@ -110,34 +110,38 @@ class CupLiveBot:
 
     async def run_match_cycle(self):
         """Generates static pages for all matches (yesterday/today/tomorrow)."""
-        logging.info("Starting Match Cycle (Schedules)...")
-        api_matches = self.get_matches()
+        logging.info("Starting Match Cycle (Live-Soccer Scraping)...")
         
-        for m in api_matches:
-            team_a = m['teams']['home']['name']
-            team_b = m['teams']['away']['name']
-            match_date = m['fixture']['date'][:10]
-            from slugify import slugify
-            slug = slugify(f"{team_a}-vs-{team_b}-{match_date}")
-            is_live = m['fixture']['status']['short'] in ['1H', '2H', 'HT']
-            
-            match_data = {
-                "team_a": team_a,
-                "team_b": team_b,
-                "team_a_logo": m['teams']['home']['logo'],
-                "team_b_logo": m['teams']['away']['logo'],
-                "league": m['league']['name'],
-                "time": m['fixture']['date'][11:16],
-                "date": match_date,
-                "channel": "بانتظار المصدر",
-                "commentator": "قيد التحديد",
-                "servers": [],
-                "live": is_live,
-                "slug": slug
-            }
-            match_data = self.enrich_match_metadata(match_data)
-            # Initial generation without servers if not already scraped
-            if f"/match/{slug}/" not in self.generator.scraped_urls:
+        for day in ['yesterday', 'today', 'tomorrow']:
+            matches = await self.scraper.scrape_live_soccer_matches(day)
+            import datetime
+            if day == 'yesterday':
+                target_date = (datetime.date.today() - datetime.timedelta(days=1)).strftime("%Y-%m-%d")
+            elif day == 'today':
+                target_date = datetime.date.today().strftime("%Y-%m-%d")
+            else:
+                target_date = (datetime.date.today() + datetime.timedelta(days=1)).strftime("%Y-%m-%d")
+
+            for m in matches:
+                from slugify import slugify
+                slug = slugify(f"{m['team_a']}-vs-{m['team_b']}-{target_date}")
+                
+                match_data = {
+                    "team_a": m['team_a'],
+                    "team_b": m['team_b'],
+                    "team_a_logo": m['team_a_logo'],
+                    "team_b_logo": m['team_b_logo'],
+                    "league": m['league'],
+                    "time": m['time'],
+                    "date": target_date,
+                    "channel": m['channel'],
+                    "commentator": m['commentator'],
+                    "stream_url": m.get('stream_url'),
+                    "servers": [],
+                    "live": m['live'],
+                    "slug": slug
+                }
+                # Initial generation without servers if not already scraped
                 self.generator.generate_match_page(match_data)
         
         self.generator.generate_index()
@@ -147,34 +151,26 @@ class CupLiveBot:
     async def monitor_live_matches(self):
         """Scrapes and updates servers for active matches ONLY."""
         logging.info("Live Monitor: Checking active matches for streams...")
-        api_matches = self.get_matches()
-        live_matches = [m for m in api_matches if m['fixture']['status']['short'] in ['1H', '2H', 'HT', 'NS']] # NS = Not Started (check slightly before)
+        live_matches = await self.scraper.scrape_live_soccer_matches('today')
+        live_matches = [m for m in live_matches if m['live']]
         
         count = 0
+        import datetime
+        today = datetime.date.today().strftime("%Y-%m-%d")
+        
         for m in live_matches:
-            team_a = m['teams']['home']['name']
-            team_b = m['teams']['away']['name']
-            
-            # Scrape servers
-            streams = await self.scraper.scrape_match_stream(f"{team_a} vs {team_b}")
+            # Scrape servers using the direct stream_url found on the card
+            streams = await self.scraper.scrape_match_stream(f"{m['team_a']} vs {m['team_b']}", m.get('stream_url'))
             if streams:
-                match_date = m['fixture']['date'][:10]
                 from slugify import slugify
-                slug = slugify(f"{team_a}-vs-{team_b}-{match_date}")
+                slug = slugify(f"{m['team_a']}-vs-{m['team_b']}-{today}")
                 
-                match_data = {
-                    "team_a": team_a,
-                    "team_b": team_b,
-                    "team_a_logo": m['teams']['home']['logo'],
-                    "team_b_logo": m['teams']['away']['logo'],
-                    "league": m['league']['name'],
-                    "time": m['fixture']['date'][11:16],
-                    "date": match_date,
+                match_data = m.copy()
+                match_data.update({
                     "servers": streams,
-                    "live": True,
+                    "date": today,
                     "slug": slug
-                }
-                match_data = self.enrich_match_metadata(match_data)
+                })
                 # Update both the HTML and the dedicated JSON
                 self.generator.generate_match_page(match_data)
                 self.generator.generate_match_json(match_data)
@@ -206,9 +202,11 @@ class CupLiveBot:
                 match_data['channel'] = "قناة رياضية HD"
         
         if not match_data.get('commentator') or match_data['commentator'] == "قيد التحديد":
-            commentators = ["فارس عوض", "خليل البلوشي", "عصام الشوالي", "حفيظ دراجي", "عامر الخوذيري"]
+            commentators = ["فارس عوض", "خليل البلوشي", "عصام الشوالي", "حفيظ دراجي", "عامر الخوذيري", "خليل البلوشي"]
             # Use a stable hash of the teams to keep the commentator consistent across runs
-            idx = sum(ord(c) for c in (match_data['team_a'] + match_data['team_b'])) % len(commentators)
+            combined = (match_data['team_a'] + match_data['team_b']).encode('utf-8')
+            import hashlib
+            idx = int(hashlib.md5(combined).hexdigest(), 16) % len(commentators)
             match_data['commentator'] = commentators[idx]
         
         return match_data
